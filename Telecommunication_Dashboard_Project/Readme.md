@@ -50,7 +50,6 @@ Telecommunication-Financial-Dashboard/
 ├── infi_2024.csv                                  # Raw P&L extract, all sectors
 ├── FS_Analysis_Project1.ipynb                      # ETL notebook (Sector/Igroup extraction)
 ├── Sector_Igroup.csv                                # Sector → Igroup lookup reference
-├── pnl_telecommunication_telecom__services.xlsx     # Notebook output, Telecom sector
 ├── Telecommunication_Telecom_-_Services_data.xlsx   # Same data, alt export name
 ├── Yearly_Data.sql                                  # Pivots raw data → financial ratios
 ├── Derived_Yearly_ratio.csv                         # Final ratio table (dashboard source)
