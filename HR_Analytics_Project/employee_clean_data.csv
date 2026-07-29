@@ -1,0 +1,1001 @@
+employee_row_id,eeid,full_name,job_title,department,business_unit,gender,ethnicity,age,hire_date,annual_salary,bonus_pct,country,city,rank_eq,tenure_years,bonus_amount,salary_band,is_duplicate_eeid
+1,E04354,Raelynn Rios,Vice President,Sales,Manufacturing,Female,Latino,43,2016-08-21,258498,0.35,United States,Columbus,1,9.9,904.74,Very Low,False
+2,E04742,Kinsley Vega,Vice President,Accounting,Corporate,Female,Latino,33,2020-12-16,258426,0.4,Brazil,Rio de Janerio,2,5.6,1033.7,Very Low,False
+3,E02522,Silas Rivera,Vice President,Sales,Corporate,Male,Latino,48,2000-02-28,258081,0.3,United States,Chicago,3,26.4,774.24,Very Low,False
+4,E01371,Dominic Le,Vice President,Marketing,Corporate,Male,Asian,41,2014-10-04,257194,0.35,China,Chongqing,4,11.8,900.18,Very Low,False
+5,E04170,Grayson Chin,Vice President,IT,Research & Development,Male,Asian,26,2020-05-09,256561,0.39,United States,Austin,5,6.2,1000.59,Very Low,False
+6,E01628,Jackson Perry,Vice President,Marketing,Research & Development,Male,Caucasian,27,2019-10-20,256420,0.3,United States,Phoenix,6,6.7,769.26,Very Low,False
+7,E00917,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30,2018-03-06,255431,0.36,United States,Columbus,7,8.4,919.55,Very Low,False
+8,E04103,Isabella Soto,Vice President,Finance,Corporate,Female,Latino,27,2021-12-15,255369,0.33,Brazil,Sao Paulo,8,4.6,842.72,Very Low,False
+9,E01584,Henry Zhu,Vice President,Marketing,Speciality Products,Male,Asian,38,2021-08-25,255230,0.36,United States,Austin,9,4.9,918.83,Very Low,True
+10,E02825,Wyatt Li,Vice President,Engineering,Manufacturing,Male,Asian,63,2013-06-03,254289,0.39,United States,Chicago,10,13.1,991.73,Very Low,False
+11,E00325,Jameson Chen,Vice President,Marketing,Research & Development,Male,Asian,39,2019-12-05,254057,0.39,China,Shanghai,11,6.6,990.82,Very Low,False
+12,E02563,Emily Clark,Vice President,Accounting,Corporate,Female,Caucasian,36,2020-01-13,253294,0.4,United States,Miami,12,6.5,1013.18,Very Low,True
+13,E00218,David Desai,Vice President,Sales,Speciality Products,Male,Asian,47,2016-11-22,253249,0.31,United States,Austin,13,9.7,785.07,Very Low,False
+14,E03289,Christopher Lam,Vice President,Accounting,Manufacturing,Male,Asian,64,2013-03-29,252325,0.4,United States,Columbus,14,13.3,1009.3,Very Low,False
+15,E02599,Daniel Huang,Vice President,Human Resources,Corporate,Male,Asian,31,2015-09-03,250953,0.34,United States,Columbus,15,10.9,853.24,Very Low,False
+16,E03226,Angel Stewart,Vice President,Finance,Corporate,Male,Caucasian,28,2019-06-22,250767,0.38,United States,Seattle,16,7.1,952.91,Very Low,False
+17,E01070,Grayson Brown,Vice President,IT,Corporate,Male,Caucasian,38,2016-06-22,249870,0.34,United States,Chicago,17,10.1,849.56,Very Low,True
+18,E02391,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45,2019-02-25,249801,0.39,Brazil,Sao Paulo,18,7.4,974.22,Very Low,True
+19,E01546,Maria Hong,Vice President,Finance,Speciality Products,Female,Asian,43,2005-07-31,249686,0.31,China,Chongqing,19,21.0,774.03,Very Low,False
+20,E02783,Levi Mendez,Vice President,Sales,Research & Development,Male,Latino,39,2011-08-23,249506,0.3,Brazil,Rio de Janerio,20,14.9,748.52,Very Low,False
+21,E00549,Isabella Xi,Vice President,Marketing,Research & Development,Female,Asian,41,2013-03-13,249270,0.3,United States,Seattle,21,13.4,747.81,Very Low,False
+22,E00842,John Vega,Vice President,Finance,Corporate,Male,Latino,50,2004-01-18,247939,0.35,Brazil,Rio de Janerio,22,22.5,867.79,Very Low,False
+23,E01423,James Castillo,Vice President,IT,Manufacturing,Male,Latino,51,2001-07-19,247874,0.33,Brazil,Manaus,23,25.0,817.98,Very Low,False
+24,E04568,Rylee Yu,Vice President,Finance,Speciality Products,Female,Asian,54,2011-07-10,247022,0.3,China,Beijing,24,15.0,741.07,Very Low,False
+25,E04123,Andrew Holmes,Vice President,IT,Speciality Products,Male,Black,59,2010-12-30,246619,0.36,United States,Miami,25,15.6,887.83,Very Low,False
+26,E03247,Aaliyah Mai,Vice President,IT,Speciality Products,Female,Asian,57,2016-11-11,246589,0.33,United States,Phoenix,26,9.7,813.74,Very Low,True
+27,E00154,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43,2004-06-07,246231,0.31,United States,Seattle,27,22.1,763.32,Very Low,False
+28,E00715,Elijah Kang,Vice President,Engineering,Manufacturing,Male,Asian,35,2011-10-10,245482,0.39,United States,Seattle,28,14.8,957.38,Very Low,False
+29,E02202,Emilia Bailey,Vice President,Accounting,Speciality Products,Female,Caucasian,41,2012-08-09,245360,0.37,United States,Austin,29,13.9,907.83,Very Low,False
+30,E04249,Hadley Dang,Vice President,Accounting,Corporate,Female,Asian,47,2021-12-26,243568,0.33,United States,Austin,30,4.6,803.77,Very Low,False
+31,E03394,Joseph Ly,Vice President,Marketing,Speciality Products,Male,Asian,40,2009-02-28,242919,0.31,China,Chongqing,31,17.4,753.05,Very Low,False
+32,E01519,Anthony Marquez,Vice President,IT,Speciality Products,Male,Latino,54,2009-08-15,241083,0.39,United States,Columbus,32,16.9,940.22,Very Low,False
+33,E02464,Sophie Silva,Vice President,Engineering,Corporate,Female,Latino,28,2017-07-06,240488,0.4,Brazil,Rio de Janerio,33,9.0,961.95,Very Low,False
+34,E03774,Hannah Mejia,Vice President,Marketing,Corporate,Female,Latino,47,1999-03-13,239394,0.32,United States,Austin,34,27.4,766.06,Very Low,False
+35,E03106,Xavier Davis,Vice President,Finance,Corporate,Male,Caucasian,36,2009-01-17,238236,0.31,United States,Seattle,35,17.5,738.53,Very Low,False
+36,E02112,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45,2013-08-07,236946,0.37,United States,Seattle,36,12.9,876.7,Very Low,False
+37,E01899,Xavier Jackson,Vice President,Marketing,Speciality Products,Male,Caucasian,52,2002-06-11,236314,0.34,United States,Miami,37,24.1,803.47,Very Low,False
+38,E01249,Samuel Bailey,Vice President,Accounting,Speciality Products,Male,Caucasian,41,2013-08-17,235619,0.3,United States,Seattle,38,12.9,706.86,Very Low,True
+39,E03058,Angel Xiong,Vice President,IT,Research & Development,Male,Asian,35,2015-06-11,234723,0.36,China,Shanghai,39,11.1,845.0,Very Low,True
+40,E00810,Hunter Nunez,Vice President,Human Resources,Corporate,Male,Latino,62,2002-08-16,234594,0.33,United States,Seattle,40,23.9,774.16,Very Low,False
+41,E01403,Xavier Park,Vice President,IT,Research & Development,Male,Asian,40,2020-11-08,234469,0.31,China,Chengdu,41,5.7,726.85,Very Low,False
+42,E00161,Ryan Ha,Vice President,Marketing,Corporate,Male,Asian,60,2007-01-27,234311,0.37,United States,Miami,42,19.5,866.95,Very Low,False
+43,E02920,Willow Woods,Vice President,Human Resources,Speciality Products,Female,Caucasian,28,2021-07-25,231850,0.39,United States,Miami,43,5.0,904.22,Very Low,False
+44,E04072,Emery Mitchell,Vice President,Finance,Manufacturing,Female,Caucasian,48,2018-06-02,231567,0.36,United States,Seattle,44,8.1,833.64,Very Low,False
+45,E00304,Dylan Choi,Vice President,IT,Corporate,Male,Asian,63,2012-05-11,231141,0.34,China,Beijing,45,14.2,785.88,Very Low,False
+46,E00446,Isaac Han,Vice President,Human Resources,Speciality Products,Male,Asian,31,2015-01-14,230025,0.34,United States,Phoenix,46,11.5,782.08,Very Low,True
+47,E03371,Jack Alexander,Vice President,IT,Manufacturing,Male,Caucasian,56,2006-05-29,228822,0.36,United States,Miami,47,20.1,823.76,Very Low,False
+48,E01095,Isla Lai,Vice President,Finance,Corporate,Female,Asian,37,2011-12-06,225558,0.33,China,Shanghai,48,14.6,744.34,Very Low,False
+49,E03694,Elena Patterson,Vice President,Finance,Speciality Products,Female,Black,38,2018-11-09,223805,0.36,United States,Chicago,49,7.7,805.7,Very Low,True
+50,E03947,Logan Soto,Vice President,Finance,Research & Development,Male,Latino,36,2018-08-18,223404,0.32,United States,Columbus,50,7.9,714.89,Very Low,False
+51,E04607,Landon Brown,Vice President,Marketing,Corporate,Male,Caucasian,26,2020-09-27,223055,0.3,United States,Columbus,51,5.8,669.16,Very Low,False
+52,E02944,Joshua Fong,Vice President,Engineering,Speciality Products,Male,Asian,47,2012-06-11,222941,0.39,China,Beijing,52,14.1,869.47,Very Low,False
+53,E02633,Allison Roberts,Vice President,Sales,Manufacturing,Female,Black,54,2000-08-19,222224,0.38,United States,Columbus,53,25.9,844.45,Very Low,False
+54,E01995,Jonathan Ho,Vice President,IT,Manufacturing,Male,Asian,37,2011-06-25,221592,0.31,United States,Columbus,54,15.1,686.94,Very Low,False
+55,E03893,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55,2018-09-02,221465,0.34,China,Chengdu,55,7.9,752.98,Very Low,False
+56,E02639,Hadley Parker,Vice President,Marketing,Corporate,Female,Black,30,2016-09-21,221217,0.32,United States,Columbus,56,9.8,707.89,Very Low,True
+57,E01232,Samantha Foster,Vice President,Human Resources,Research & Development,Female,Black,34,2019-07-27,220937,0.38,United States,Austin,57,7.0,839.56,Very Low,False
+58,E03890,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31,2020-08-20,219693,0.3,United States,Austin,58,5.9,659.08,Very Low,True
+59,E03159,Claire Romero,Vice President,Marketing,Manufacturing,Female,Latino,37,2011-07-21,219474,0.36,Brazil,Manaus,59,15.0,790.11,Very Low,False
+60,E00752,Luna Liu,Vice President,Sales,Manufacturing,Female,Asian,36,2014-02-22,218530,0.3,China,Shanghai,60,12.4,655.59,Very Low,False
+61,E00380,Alice Thompson,Vice President,Accounting,Speciality Products,Female,Caucasian,48,2007-04-25,217783,0.36,United States,Seattle,61,19.2,784.02,Very Low,False
+62,E04088,Ezra Liang,Vice President,Finance,Research & Development,Male,Asian,52,1997-05-26,216999,0.37,United States,Miami,62,29.2,802.9,Very Low,False
+63,E04729,Ezekiel Fong,Vice President,Sales,Research & Development,Male,Asian,56,2004-02-25,216949,0.32,China,Shanghai,63,22.4,694.24,Very Low,False
+64,E03545,Sofia Cheng,Vice President,Accounting,Corporate,Female,Asian,63,2020-07-26,216195,0.31,United States,Miami,64,6.0,670.2,Very Low,False
+65,E00672,Landon Luu,Vice President,IT,Research & Development,Male,Asian,31,2015-07-12,215388,0.33,United States,Miami,65,11.0,710.78,Very Low,True
+66,E02468,Ella Huang,Vice President,Marketing,Corporate,Female,Asian,45,2016-02-28,211637,0.31,United States,Chicago,66,10.4,656.07,Very Low,False
+67,E03737,Kennedy Rahman,Vice President,Human Resources,Manufacturing,Female,Asian,49,2003-02-28,211291,0.37,China,Chongqing,67,23.4,781.78,Very Low,False
+68,E01006,Autumn Leung,Vice President,Finance,Research & Development,Female,Asian,25,2021-11-15,210708,0.33,United States,Chicago,68,4.7,695.34,Very Low,False
+69,E01249,Penelope Guerrero,Vice President,IT,Speciality Products,Female,Latino,43,2009-08-04,208415,0.35,United States,Seattle,69,17.0,729.45,Very Low,True
+70,E04795,Eloise Alexander,Vice President,Human Resources,Corporate,Female,Black,28,2018-01-21,208210,0.3,United States,Seattle,70,8.5,624.63,Very Low,False
+71,E02071,Mateo Her,Vice President,Sales,Speciality Products,Male,Asian,44,2014-03-02,207172,0.31,China,Chongqing,71,12.4,642.23,Very Low,False
+72,E00791,Thomas Padilla,Vice President,Marketing,Research & Development,Male,Latino,57,2003-07-26,206624,0.4,Brazil,Sao Paulo,72,23.0,826.5,Very Low,False
+73,E01425,Anthony Rogers,Vice President,Engineering,Corporate,Male,Caucasian,33,2015-06-18,205314,0.3,United States,Columbus,73,11.1,615.94,Very Low,False
+74,E00447,Hailey Sanchez,Vice President,Marketing,Corporate,Female,Latino,32,2014-02-05,203445,0.34,Brazil,Manaus,74,12.4,691.71,Very Low,False
+75,E03579,Robert Zhang,Vice President,Marketing,Corporate,Male,Asian,45,2015-09-24,202680,0.32,United States,Phoenix,75,10.8,648.58,Very Low,False
+76,E02687,Caroline Nelson,Vice President,Finance,Corporate,Female,Caucasian,36,2014-01-11,202323,0.39,United States,Chicago,76,12.5,789.06,Very Low,False
+77,E03583,Brooks Marquez,Vice President,Sales,Corporate,Male,Latino,61,2019-09-24,201464,0.37,United States,Chicago,77,6.8,745.42,Very Low,True
+78,E02140,Naomi Zhao,Vice President,Human Resources,Speciality Products,Female,Asian,45,2021-09-22,201396,0.32,United States,Miami,78,4.8,644.47,Very Low,False
+79,E02914,Maria Wilson,Vice President,Engineering,Research & Development,Female,Caucasian,51,1996-06-14,200246,0.34,United States,Columbus,79,30.1,680.84,Very Low,False
+80,E01967,John Dang,Director,Sales,Corporate,Male,Asian,58,1992-03-19,199848,0.16,China,Chongqing,80,34.3,319.76,Very Low,False
+81,E03574,John Moore,Vice President,IT,Speciality Products,Male,Caucasian,52,2005-11-08,199808,0.32,United States,Seattle,81,20.7,639.39,Very Low,False
+82,E03758,Liam Zhang,Director,Marketing,Research & Development,Male,Asian,29,2021-09-15,199783,0.21,United States,Chicago,82,4.8,419.54,Very Low,False
+83,E03055,Austin Rojas,Vice President,Finance,Corporate,Male,Latino,29,2018-12-05,199504,0.3,United States,Austin,83,7.6,598.51,Very Low,False
+84,E01090,Ethan Mehta,Director,Sales,Research & Development,Male,Asian,49,2001-07-20,199176,0.24,United States,Phoenix,84,25.0,478.02,Very Low,True
+85,E03816,Leilani Chow,Director,Human Resources,Corporate,Female,Asian,27,2021-02-23,199041,0.16,China,Beijing,85,5.4,318.47,Very Low,False
+86,E00952,Leilani Thao,Director,Human Resources,Speciality Products,Female,Asian,38,2007-05-30,198562,0.22,United States,Seattle,86,19.1,436.84,Very Low,True
+87,E00044,Scarlett Jenkins,Vice President,IT,Research & Development,Female,Caucasian,53,2011-11-09,198473,0.32,United States,Miami,87,14.7,635.11,Very Low,False
+88,E04359,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25,2021-02-08,198243,0.31,United States,Miami,88,5.4,614.55,Very Low,True
+89,E02193,Josephine Acosta,Director,Human Resources,Speciality Products,Female,Latino,40,2020-09-20,198176,0.17,Brazil,Manaus,89,5.8,336.9,Very Low,False
+90,E00103,Nora Park,Director,Accounting,Speciality Products,Female,Asian,29,2017-06-28,197649,0.2,United States,Columbus,90,9.1,395.3,Very Low,False
+91,E03506,Jaxson Mai,Vice President,Human Resources,Research & Development,Male,Asian,48,2014-03-08,197367,0.39,United States,Austin,91,12.4,769.73,Very Low,False
+92,E00130,Paisley Kang,Vice President,Human Resources,Corporate,Female,Asian,61,2017-03-10,196951,0.33,China,Beijing,92,9.4,649.94,Very Low,False
+93,E03858,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47,2019-11-03,195385,0.21,China,Chengdu,93,6.7,410.31,Very Low,False
+94,E04940,Hudson Williams,Vice President,Sales,Speciality Products,Male,Black,36,2018-03-19,195200,0.36,United States,Austin,94,8.3,702.72,Very Low,False
+95,E03268,Everly Coleman,Vice President,IT,Corporate,Female,Caucasian,48,2015-02-18,194871,0.35,United States,Columbus,95,11.4,682.05,Very Low,True
+96,E03354,Austin Brown,Director,Marketing,Research & Development,Male,Caucasian,48,2007-08-08,194723,0.25,United States,Phoenix,96,19.0,486.81,Very Low,True
+97,E02781,Athena Vu,Director,Accounting,Manufacturing,Female,Asian,63,2007-03-06,193044,0.15,United States,Miami,97,19.4,289.57,Very Low,False
+98,E02747,Kinsley Acosta,Vice President,IT,Speciality Products,Female,Latino,32,2020-07-22,192749,0.31,United States,Chicago,98,6.0,597.52,Very Low,False
+99,E01486,Mason Cho,Vice President,Accounting,Research & Development,Male,Asian,59,2011-05-18,192213,0.4,United States,Chicago,99,15.2,768.85,Very Low,False
+100,E01014,Lucas Phan,Director,Marketing,Research & Development,Male,Asian,49,1999-02-19,191807,0.21,China,Chongqing,100,27.4,402.79,Very Low,False
+101,E04766,Lyla Yoon,Vice President,Accounting,Manufacturing,Female,Asian,38,2012-12-13,191571,0.32,United States,Austin,101,13.6,613.03,Very Low,False
+102,E04637,Samuel Song,Director,Sales,Corporate,Male,Asian,31,2015-06-29,191026,0.16,United States,Columbus,102,11.1,305.64,Very Low,False
+103,E00085,Isla Wong,Vice President,Accounting,Corporate,Female,Asian,56,2014-03-16,190815,0.4,United States,Austin,103,12.3,763.26,Very Low,True
+104,E02310,Jordan Phillips,Vice President,Human Resources,Corporate,Male,Black,45,2010-12-12,190512,0.32,United States,Columbus,104,15.6,609.64,Very Low,False
+105,E04342,Samantha Barnes,Vice President,Marketing,Speciality Products,Female,Caucasian,29,2017-01-05,190401,0.37,United States,Columbus,105,9.5,704.48,Very Low,False
+106,E03907,Camila Watson,Vice President,Finance,Speciality Products,Female,Caucasian,32,2018-01-02,190253,0.33,United States,Austin,106,8.5,627.83,Very Low,False
+107,E00187,Miles Mehta,Director,Finance,Research & Development,Male,Asian,64,1996-05-02,189933,0.23,United States,Miami,107,30.2,436.85,Very Low,False
+108,E00416,Everleigh Fernandez,Director,Engineering,Research & Development,Female,Latino,30,2016-05-22,189702,0.28,Brazil,Manaus,108,10.2,531.17,Very Low,False
+109,E02678,Nicholas Rivera,Director,Engineering,Corporate,Male,Latino,45,2007-04-13,189680,0.23,Brazil,Sao Paulo,109,19.3,436.26,Very Low,False
+110,E03025,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45,2014-10-29,189420,0.2,United States,Seattle,110,11.7,378.84,Very Low,False
+111,E00119,Jack Maldonado,Director,Engineering,Research & Development,Male,Latino,31,2020-08-26,189290,0.22,Brazil,Sao Paulo,111,5.9,416.44,Very Low,False
+112,E04194,Madison Kumar,Director,Accounting,Speciality Products,Female,Asian,55,2010-10-17,188727,0.23,China,Chengdu,112,15.8,434.07,Very Low,False
+113,E00023,Gabriel Joseph,Director,Engineering,Manufacturing,Male,Caucasian,52,2006-10-28,187992,0.28,United States,Miami,113,19.7,526.38,Very Low,False
+114,E00500,Henry Shah,Director,Accounting,Manufacturing,Male,Asian,55,2010-06-11,187389,0.25,China,Chengdu,114,16.1,468.47,Very Low,False
+115,E04641,Scarlett Hill,Director,Engineering,Speciality Products,Female,Black,45,2018-04-22,187205,0.24,United States,Columbus,115,8.2,449.29,Very Low,False
+116,E04683,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40,2020-02-07,187187,0.18,Brazil,Manaus,116,6.4,336.94,Very Low,False
+117,E00207,Hailey Lai,Vice President,Human Resources,Manufacturing,Female,Asian,52,2012-07-23,187048,0.32,China,Chengdu,117,14.0,598.55,Very Low,False
+118,E02033,Grace Sun,Director,Finance,Research & Development,Female,Asian,25,2021-04-17,186870,0.2,China,Shanghai,118,5.2,373.74,Very Low,False
+119,E03240,Aiden Silva,Vice President,IT,Research & Development,Male,Latino,42,2010-11-29,186725,0.32,Brazil,Manaus,119,15.6,597.52,Very Low,False
+120,E04116,David Barnes,Director,IT,Corporate,Male,Caucasian,64,2013-11-03,186503,0.24,United States,Columbus,120,12.7,447.61,Very Low,False
+121,E04415,Penelope Fong,Director,Accounting,Corporate,Female,Asian,60,2004-05-14,186378,0.26,China,Chongqing,121,22.2,484.58,Very Low,True
+122,E01712,James Singh,Director,Marketing,Corporate,Male,Asian,45,2008-03-12,186138,0.28,China,Chongqing,122,18.4,521.19,Very Low,False
+123,E01347,Aiden Gonzales,Vice President,Marketing,Speciality Products,Male,Latino,44,2021-03-28,186033,0.34,Brazil,Sao Paulo,123,5.3,632.51,Very Low,False
+124,E02748,Genesis Zhu,Director,Finance,Speciality Products,Female,Asian,34,2020-07-20,184960,0.18,United States,Seattle,124,6.0,332.93,Very Low,False
+125,E04114,Christopher Lim,Director,IT,Research & Development,Male,Asian,55,2007-03-13,184648,0.24,China,Shanghai,125,19.4,443.16,Very Low,False
+126,E02942,Daniel Richardson,Director,Engineering,Speciality Products,Male,Caucasian,30,2018-05-20,184368,0.29,United States,Austin,126,8.2,534.67,Very Low,False
+127,E00440,Adeline Thao,Vice President,Finance,Corporate,Female,Asian,54,2007-09-05,183239,0.32,United States,Seattle,127,18.9,586.36,Very Low,True
+128,E04645,Elias Ahmed,Vice President,Marketing,Corporate,Male,Asian,57,2017-08-04,183190,0.36,United States,Chicago,128,9.0,659.48,Very Low,False
+129,E02421,Jordan Truong,Director,Engineering,Speciality Products,Male,Asian,45,2014-08-28,183161,0.22,United States,Miami,129,11.9,402.95,Very Low,False
+130,E04572,Jade Li,Director,IT,Speciality Products,Female,Asian,47,2012-10-26,183156,0.3,United States,Seattle,130,13.7,549.47,Very Low,False
+131,E00268,Ian Flores,Director,Engineering,Corporate,Male,Latino,48,2019-12-10,183113,0.24,Brazil,Rio de Janerio,131,6.6,439.47,Very Low,False
+132,E03683,Raelynn Hong,Director,Marketing,Speciality Products,Female,Asian,28,2019-12-11,182321,0.28,China,Beijing,132,6.6,510.5,Very Low,False
+133,E03935,Cora Jiang,Vice President,IT,Corporate,Female,Asian,53,2008-04-30,182202,0.3,United States,Austin,133,18.2,546.61,Very Low,False
+134,E02613,Everly Lai,Vice President,Marketing,Speciality Products,Female,Asian,52,1998-04-01,182035,0.3,United States,Chicago,134,28.3,546.1,Very Low,True
+135,E00556,Grayson Walker,Director,Accounting,Manufacturing,Male,Caucasian,29,2017-02-19,181854,0.29,United States,Seattle,135,9.4,527.38,Very Low,False
+136,E04962,Elena Tan,Vice President,Engineering,Manufacturing,Female,Asian,50,2008-10-13,181801,0.4,China,Chongqing,136,17.8,727.2,Very Low,False
+137,E04127,Emery Acosta,Vice President,Sales,Research & Development,Female,Latino,42,2013-09-11,181452,0.3,United States,Columbus,137,12.9,544.36,Very Low,False
+138,E03349,Adam He,Director,Accounting,Speciality Products,Male,Asian,35,2017-08-16,181356,0.23,China,Beijing,138,8.9,417.12,Very Low,True
+139,E02554,Joshua Ramirez,Vice President,Human Resources,Corporate,Male,Latino,44,2007-09-10,181247,0.33,Brazil,Sao Paulo,139,18.9,598.12,Very Low,False
+140,E04101,Olivia Harris,Director,Sales,Speciality Products,Female,Caucasian,63,2020-06-14,181216,0.27,United States,Columbus,140,6.1,489.28,Very Low,False
+141,E04779,Cameron Young,Vice President,Engineering,Manufacturing,Male,Caucasian,63,2016-01-18,180994,0.39,United States,Seattle,141,10.5,705.88,Very Low,False
+142,E01970,Vivian Barnes,Director,Human Resources,Research & Development,Female,Caucasian,51,2021-03-28,180687,0.19,United States,Phoenix,142,5.3,343.31,Very Low,False
+143,E03383,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26,2020-07-28,180664,0.27,United States,Chicago,143,6.0,487.79,Very Low,False
+144,E01668,Naomi Xi,Director,Finance,Corporate,Female,Asian,53,2002-02-17,179494,0.2,China,Chongqing,144,24.4,358.99,Very Low,False
+145,E02139,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36,2015-09-29,178700,0.29,United States,Seattle,145,10.8,518.23,Very Low,False
+146,E04571,Hadley Contreras,Director,Engineering,Corporate,Female,Latino,60,2017-01-04,178502,0.2,United States,Austin,146,9.5,357.0,Very Low,False
+147,E00607,Jameson Allen,Director,Marketing,Speciality Products,Male,Caucasian,32,2016-11-28,177443,0.16,United States,Seattle,147,9.6,283.91,Very Low,False
+148,E04562,Kinsley Martinez,Director,Human Resources,Speciality Products,Female,Latino,52,1993-08-28,177443,0.25,Brazil,Sao Paulo,147,32.9,443.61,Very Low,True
+149,E04398,Oliver Yang,Director,Marketing,Speciality Products,Male,Asian,31,2019-06-10,176710,0.15,United States,Miami,149,7.1,265.06,Very Low,False
+150,E02980,Hailey Shin,Director,Human Resources,Corporate,Female,Asian,57,2016-10-24,176324,0.23,China,Shanghai,150,9.7,405.55,Very Low,False
+151,E00128,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female,Latino,54,2018-01-22,176294,0.28,United States,Austin,151,8.5,493.62,Very Low,False
+152,E00163,Bella Powell,Director,Finance,Research & Development,Female,Black,65,2002-03-04,175837,0.2,United States,Phoenix,152,24.4,351.67,Very Low,False
+153,E02017,Connor Joseph,Director,Human Resources,Corporate,Male,Caucasian,50,1998-07-22,174895,0.15,United States,Chicago,153,28.0,262.34,Very Low,False
+154,E03278,Nicholas Wong,Director,Sales,Research & Development,Male,Asian,27,2019-11-07,174607,0.29,United States,Columbus,154,6.7,506.36,Very Low,True
+155,E01337,Andrew Coleman,Director,Finance,Corporate,Male,Caucasian,41,2019-05-15,174415,0.23,United States,Miami,155,7.2,401.15,Very Low,False
+156,E02307,Skylar Evans,Director,Accounting,Research & Development,Female,Caucasian,42,2009-06-04,174099,0.26,United States,Austin,156,17.1,452.66,Very Low,False
+157,E00568,Ava Garza,Director,Accounting,Manufacturing,Female,Latino,27,2018-06-25,174097,0.21,United States,Phoenix,157,8.1,365.6,Very Low,True
+158,E03802,Thomas Vazquez,Director,Engineering,Corporate,Male,Latino,46,2014-07-19,173629,0.21,Brazil,Sao Paulo,158,12.0,364.62,Very Low,False
+159,E01309,Everleigh Jiang,Director,Accounting,Research & Development,Female,Asian,58,2003-05-14,173071,0.29,United States,Columbus,159,23.2,501.91,Very Low,False
+160,E03484,Logan Rivera,Director,IT,Research & Development,Male,Latino,59,2002-05-24,172787,0.28,Brazil,Rio de Janerio,160,24.2,483.8,Very Low,False
+161,E00364,Matthew Howard,Director,Human Resources,Manufacturing,Male,Caucasian,50,2021-10-17,172180,0.3,United States,Columbus,161,4.7,516.54,Very Low,False
+162,E04872,Isaac Stewart,Director,Marketing,Speciality Products,Male,Caucasian,25,2020-08-15,172007,0.26,United States,Miami,162,5.9,447.22,Very Low,False
+163,E00005,Riley Washington,Director,Sales,Speciality Products,Female,Caucasian,39,2007-04-29,171487,0.23,United States,Phoenix,163,19.2,394.42,Very Low,False
+164,E02420,Madison Li,Director,Marketing,Manufacturing,Female,Asian,35,2017-03-06,171426,0.15,China,Beijing,164,9.4,257.14,Very Low,False
+165,E02889,Mia Herrera,Director,Marketing,Research & Development,Female,Latino,43,2014-10-16,171360,0.23,Brazil,Manaus,165,11.8,394.13,Very Low,False
+166,E03591,Piper Sun,Director,Marketing,Manufacturing,Female,Asian,64,2011-02-14,171217,0.19,United States,Seattle,166,15.4,325.31,Very Low,False
+167,E02850,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41,2018-08-10,171173,0.21,United States,Columbus,167,7.9,359.46,Very Low,False
+168,E02895,Mila Soto,Director,Finance,Research & Development,Female,Latino,65,2008-10-07,170221,0.15,Brazil,Manaus,168,17.8,255.33,Very Low,False
+169,E01787,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27,2018-12-07,170164,0.17,United States,Austin,169,7.6,289.28,Very Low,False
+170,E01271,Luke Munoz,Director,Engineering,Speciality Products,Male,Latino,64,2017-08-25,169509,0.18,Brazil,Manaus,170,8.9,305.12,Very Low,False
+171,E03901,Luca Truong,Director,Marketing,Corporate,Male,Asian,45,2004-12-11,168846,0.24,China,Chongqing,171,21.6,405.23,Very Low,False
+172,E00360,Dylan Thao,Director,Engineering,Manufacturing,Male,Asian,53,2012-10-22,168510,0.29,United States,Seattle,172,13.7,488.68,Very Low,False
+173,E01896,Adam Nelson,Director,Finance,Speciality Products,Male,Caucasian,25,2020-01-14,168014,0.27,United States,Chicago,173,6.5,453.64,Very Low,False
+174,E00624,William Watson,Director,Accounting,Speciality Products,Male,Caucasian,41,2013-06-04,167526,0.26,United States,Miami,174,13.1,435.57,Very Low,False
+175,E03830,Eva Coleman,Director,IT,Research & Development,Female,Black,37,2009-09-20,167199,0.2,United States,Seattle,175,16.8,334.4,Very Low,True
+176,E01387,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27,2018-01-03,167100,0.2,China,Chengdu,176,8.5,334.2,Very Low,False
+177,E00691,Ezekiel Desai,Director,Finance,Research & Development,Male,Asian,42,2003-01-15,166599,0.26,United States,Seattle,177,23.5,433.16,Very Low,True
+178,E04625,Adam Dang,Director,Sales,Research & Development,Male,Asian,45,2002-07-09,166331,0.18,China,Chongqing,178,24.0,299.4,Very Low,False
+179,E04762,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46,2018-10-06,166259,0.17,United States,Chicago,179,7.8,282.64,Very Low,False
+180,E01499,Jade Rojas,Director,Finance,Speciality Products,Female,Latino,37,2019-01-28,165927,0.2,United States,Phoenix,180,7.5,331.85,Very Low,True
+181,E02818,Aaron Garza,Director,Sales,Research & Development,Male,Latino,39,2013-12-27,165756,0.28,United States,Columbus,181,12.6,464.12,Very Low,False
+182,E02285,Aria Xi,Director,Sales,Research & Development,Female,Asian,45,2002-03-01,165181,0.16,United States,Seattle,182,24.4,264.29,Very Low,False
+183,E04363,Savannah Singh,Director,Marketing,Speciality Products,Female,Asian,53,1997-06-20,164399,0.25,United States,Seattle,183,29.1,411.0,Very Low,False
+184,E03124,Caleb Nelson,Director,Marketing,Corporate,Male,Caucasian,33,2017-06-12,164396,0.29,United States,Columbus,184,9.1,476.75,Very Low,False
+185,E03521,Jackson Navarro,Director,Sales,Corporate,Male,Latino,52,2020-09-25,163143,0.28,Brazil,Sao Paulo,185,5.8,456.8,Very Low,False
+186,E02572,Luna Sanders,Director,Finance,Speciality Products,Female,Caucasian,50,2006-10-26,163099,0.2,United States,Chicago,186,19.7,326.2,Very Low,False
+187,E00758,Alice Roberts,Director,Human Resources,Manufacturing,Female,Caucasian,54,1994-09-26,162978,0.17,United States,Miami,187,31.8,277.06,Very Low,True
+188,E01870,Carson Chau,Director,Finance,Corporate,Male,Asian,58,2007-10-12,162038,0.24,China,Chongqing,188,18.8,388.89,Very Low,True
+189,E01123,Madison Nelson,Director,Accounting,Corporate,Female,Caucasian,27,2021-07-16,161759,0.16,United States,Miami,189,5.0,258.81,Very Low,False
+190,E03167,Luke Zheng,Director,Human Resources,Speciality Products,Male,Asian,39,2006-11-28,161690,0.29,China,Beijing,190,19.6,468.9,Very Low,False
+191,E04994,Bella Holmes,Director,Accounting,Research & Development,Female,Caucasian,35,2017-06-26,161269,0.27,United States,Miami,191,9.1,435.43,Very Low,False
+192,E04903,Skylar Liu,Director,IT,Research & Development,Female,Asian,29,2020-08-09,161203,0.15,China,Chengdu,192,5.9,241.8,Very Low,False
+193,E02791,Aubrey Romero,Director,Sales,Corporate,Female,Latino,49,1998-04-02,160832,0.3,United States,Phoenix,193,28.3,482.5,Very Low,False
+194,E04323,Melody Valdez,Director,IT,Manufacturing,Female,Latino,28,2021-01-25,160385,0.23,United States,Miami,194,5.5,368.89,Very Low,False
+195,E00432,Eli Gupta,Director,Human Resources,Research & Development,Male,Asian,37,2012-05-19,160280,0.19,China,Beijing,195,14.2,304.53,Very Low,False
+196,E02534,Victoria Johnson,Sr. Manger,Accounting,Corporate,Female,Caucasian,55,2004-05-28,159885,0.12,United States,Columbus,196,22.1,191.86,Very Low,True
+197,E00344,Savannah He,Director,IT,Research & Development,Female,Asian,52,1996-02-14,159724,0.23,China,Beijing,197,30.4,367.37,Very Low,False
+198,E03612,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male,Black,64,2013-06-29,159571,0.1,United States,Columbus,198,13.1,159.57,Very Low,False
+199,E00170,Claire Adams,Director,Sales,Manufacturing,Female,Black,61,1997-08-19,159567,0.28,United States,Phoenix,199,28.9,446.79,Very Low,True
+200,E01582,Elijah Coleman,Sr. Manger,Sales,Research & Development,Male,Caucasian,53,2014-10-19,159538,0.11,United States,Miami,200,11.7,175.49,Very Low,False
+201,E00699,Ava Ayala,Sr. Manger,IT,Corporate,Female,Latino,55,2006-08-16,159044,0.1,Brazil,Manaus,201,19.9,159.04,Very Low,False
+202,E00515,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,Male,Latino,40,2019-01-23,159031,0.1,United States,Miami,202,7.5,159.03,Very Low,False
+203,E03349,Dylan Chin,Director,Finance,Corporate,Male,Asian,60,2017-06-05,158898,0.18,United States,Miami,203,9.1,286.02,Very Low,True
+204,E00530,Naomi Chu,Sr. Manger,Sales,Manufacturing,Female,Asian,46,2004-02-29,158897,0.1,China,Chongqing,204,22.4,158.9,Very Low,True
+205,E03750,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64,1995-08-29,158787,0.18,China,Chengdu,205,30.9,285.82,Very Low,True
+206,E02038,Ellie Chung,Sr. Manger,Marketing,Corporate,Female,Asian,59,2008-08-29,157969,0.1,China,Chongqing,206,17.9,157.97,Very Low,False
+207,E02992,Paisley Sanders,Sr. Manger,Marketing,Speciality Products,Female,Caucasian,55,2001-03-27,157812,0.11,United States,Miami,207,25.3,173.59,Very Low,False
+208,E02801,Santiago f Brooks,Sr. Manger,Sales,Corporate,Male,Black,51,2000-09-01,157487,0.12,United States,Phoenix,208,25.9,188.98,Very Low,False
+209,E02810,Layla Torres,Sr. Manger,Finance,Manufacturing,Female,Latino,37,2013-02-24,157474,0.11,Brazil,Rio de Janerio,209,13.4,173.22,Very Low,False
+210,E00591,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36,2009-02-11,157333,0.15,United States,Miami,210,17.4,236.0,Very Low,False
+211,E02534,Leah Khan,Director,Marketing,Corporate,Female,Asian,36,2010-09-13,157070,0.28,China,Chongqing,211,15.8,439.8,Very Low,True
+212,E03971,Lillian Chen,Sr. Manger,Marketing,Research & Development,Female,Asian,25,2020-04-09,157057,0.1,United States,Columbus,212,6.3,157.06,Very Low,False
+213,E02391,Piper Ramos,Sr. Manger,Sales,Manufacturing,Female,Latino,49,1996-04-02,157057,0.12,United States,Miami,212,30.3,188.47,Very Low,True
+214,E00225,Angel Delgado,Director,Finance,Corporate,Male,Latino,31,2017-08-10,156931,0.28,United States,Seattle,214,8.9,439.41,Very Low,False
+215,E02693,Grace Campos,Director,Engineering,Research & Development,Female,Latino,37,2008-03-21,156277,0.22,Brazil,Manaus,215,18.3,343.81,Very Low,False
+216,E03834,Anthony Carter,Director,Engineering,Speciality Products,Male,Caucasian,41,2007-03-15,155926,0.24,United States,Columbus,216,19.4,374.22,Very Low,False
+217,E03550,Stella Wu,Sr. Manger,Marketing,Speciality Products,Female,Asian,35,2014-02-20,155905,0.14,United States,Phoenix,217,12.4,218.27,Very Low,False
+218,E02884,Axel Johnson,Director,Human Resources,Corporate,Male,Caucasian,60,2015-04-14,155788,0.17,United States,Seattle,218,11.3,264.84,Very Low,False
+219,E03251,Ruby Medina,Director,Sales,Manufacturing,Female,Latino,50,2018-12-18,155351,0.2,United States,Seattle,219,7.6,310.7,Very Low,False
+220,E03096,Kennedy Zhang,Director,Finance,Research & Development,Female,Asian,63,2000-10-27,155320,0.17,China,Chongqing,220,25.7,264.04,Very Low,False
+221,E00880,Grace Carter,Sr. Manger,Human Resources,Speciality Products,Female,Black,25,2021-03-17,155080,0.1,United States,Austin,221,5.3,155.08,Very Low,False
+222,E04749,Caroline Phan,Sr. Manger,Finance,Corporate,Female,Asian,41,2004-03-14,155004,0.12,United States,Austin,222,22.4,186.0,Very Low,False
+223,E00943,Elena Mendoza,Director,Sales,Speciality Products,Female,Latino,27,2018-10-24,154973,0.29,Brazil,Sao Paulo,223,7.7,449.42,Very Low,False
+224,E04920,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,Female,Asian,32,2017-04-14,154956,0.13,United States,Phoenix,224,9.3,201.44,Very Low,False
+225,E01427,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34,2015-04-22,154941,0.13,United States,Phoenix,225,11.2,201.42,Very Low,False
+226,E03778,Luke Vu,Sr. Manger,Marketing,Speciality Products,Male,Asian,52,2018-06-04,154884,0.1,China,Shanghai,226,8.1,154.88,Very Low,False
+227,E00884,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female,Latino,64,2003-12-01,154828,0.13,United States,Seattle,227,22.6,201.28,Very Low,False
+228,E03795,Hazel Young,Sr. Manger,Sales,Speciality Products,Female,Black,30,2017-08-13,154624,0.15,United States,Austin,228,8.9,231.94,Very Low,False
+229,E03168,Nora Le,Sr. Manger,IT,Manufacturing,Female,Asian,53,1997-04-12,154388,0.1,United States,Seattle,229,29.3,154.39,Very Low,False
+230,E02938,John Trinh,Director,Marketing,Corporate,Male,Asian,49,2014-06-26,153961,0.25,China,Shanghai,230,12.1,384.9,Very Low,True
+231,E00976,Zoe Rodriguez,Director,Human Resources,Speciality Products,Female,Latino,65,2004-05-23,153938,0.2,United States,Phoenix,231,22.2,307.88,Very Low,False
+232,E03310,Dylan Campbell,Director,Engineering,Speciality Products,Male,Caucasian,45,2010-11-29,153767,0.27,United States,Phoenix,232,15.6,415.17,Very Low,False
+233,E01193,Raelynn Lu,Director,Finance,Research & Development,Female,Asian,27,2020-05-26,153628,0.29,China,Chongqing,233,6.1,445.52,Very Low,False
+234,E00711,Melody Chin,Sr. Manger,Finance,Corporate,Female,Asian,43,2006-10-15,153492,0.11,United States,Chicago,234,19.8,168.84,Very Low,False
+235,E04299,Paisley Hall,Director,Human Resources,Speciality Products,Female,Caucasian,41,2010-05-21,153275,0.24,United States,Columbus,235,16.2,367.86,Very Low,False
+236,E01238,Eloise Griffin,Director,Sales,Manufacturing,Female,Caucasian,55,1995-10-29,153271,0.15,United States,Austin,236,30.7,229.91,Very Low,False
+237,E01350,Natalie Carter,Director,Finance,Corporate,Female,Caucasian,64,2012-12-21,153253,0.24,United States,Austin,237,13.6,367.81,Very Low,False
+238,E04417,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,Female,Latino,45,2011-05-22,152353,0.14,United States,Seattle,238,15.2,213.29,Very Low,False
+239,E02206,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41,2015-04-17,152239,0.23,United States,Columbus,239,11.3,350.15,Very Low,False
+240,E01234,Jack Cheng,Director,Human Resources,Manufacturing,Male,Asian,42,2014-01-16,152214,0.3,China,Beijing,240,12.5,456.64,Very Low,False
+241,E01883,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28,2019-07-06,152036,0.15,Brazil,Rio de Janerio,241,7.0,228.05,Very Low,True
+242,E02477,Amelia Bui,Director,Engineering,Speciality Products,Female,Asian,46,2020-10-21,151853,0.16,China,Chengdu,242,5.7,242.96,Very Low,False
+243,E01488,Penelope Griffin,Director,Sales,Manufacturing,Female,Caucasian,61,2021-01-23,151783,0.26,United States,Seattle,243,5.5,394.64,Very Low,True
+244,E04732,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,2021-04-02,151703,0.21,United States,Miami,244,5.3,318.58,Very Low,True
+245,E02558,Jose Richardson,Director,Marketing,Research & Development,Male,Caucasian,26,2019-10-15,151556,0.2,United States,Miami,245,6.8,303.11,Very Low,False
+246,E03027,Elijah Watson,Sr. Manger,Sales,Manufacturing,Male,Caucasian,29,2017-03-16,151413,0.15,United States,Seattle,246,9.3,227.12,Very Low,False
+247,E02561,Samantha Vargas,Director,Human Resources,Corporate,Female,Latino,53,2006-07-21,151246,0.21,Brazil,Sao Paulo,247,20.0,317.62,Very Low,False
+248,E02681,Caroline Owens,Director,IT,Speciality Products,Female,Caucasian,26,2021-07-26,151108,0.22,United States,Phoenix,248,5.0,332.44,Very Low,False
+249,E01116,Jaxon Tran,Sr. Manger,Sales,Manufacturing,Male,Asian,45,2007-09-07,151027,0.1,China,Shanghai,249,18.9,151.03,Very Low,False
+250,E04662,Julia Morris,Sr. Manger,Human Resources,Corporate,Female,Caucasian,60,2008-10-18,150855,0.11,United States,Phoenix,250,17.8,165.94,Very Low,False
+251,E02108,Madeline Coleman,Sr. Manger,Finance,Research & Development,Female,Caucasian,51,2006-04-28,150758,0.13,United States,Chicago,251,20.2,195.99,Very Low,False
+252,E01924,Anna Gutierrez,Director,Engineering,Research & Development,Female,Latino,59,2003-04-15,150699,0.29,Brazil,Sao Paulo,252,23.3,437.03,Very Low,False
+253,E02191,Maria Sun,Director,Sales,Corporate,Female,Asian,25,2021-12-19,150666,0.23,China,Chengdu,253,4.6,346.53,Very Low,False
+254,E04132,Kinsley Henry,Director,Marketing,Manufacturing,Female,Black,45,2008-02-29,150577,0.25,United States,Miami,254,18.4,376.44,Very Low,False
+255,E01465,Hannah White,Sr. Manger,Accounting,Corporate,Female,Caucasian,62,2009-01-30,150555,0.13,United States,Phoenix,255,17.5,195.72,Very Low,False
+256,E03630,Jacob Davis,Director,Accounting,Research & Development,Male,Caucasian,36,2016-09-03,150399,0.28,United States,Chicago,256,9.9,421.12,Very Low,False
+257,E04035,Hailey Lai,Sr. Manger,Finance,Manufacturing,Female,Asian,42,2011-03-18,150034,0.12,China,Beijing,257,15.3,180.04,Very Low,True
+258,E02706,Lucy Figueroa,Sr. Manger,Finance,Research & Development,Female,Latino,45,2016-01-10,149761,0.12,United States,Columbus,258,10.5,179.71,Very Low,True
+259,E00957,Genesis Perry,Sr. Manger,Sales,Corporate,Female,Caucasian,46,2013-07-18,149712,0.14,United States,Columbus,259,13.0,209.6,Very Low,False
+260,E00702,Nathan Pham,Sr. Manger,Accounting,Manufacturing,Male,Asian,45,2006-12-12,149537,0.14,United States,Seattle,260,19.6,209.35,Very Low,False
+261,E01300,Sadie Lee,Sr. Manger,Marketing,Corporate,Female,Asian,65,2000-10-24,149417,0.13,China,Chengdu,261,25.7,194.24,Very Low,False
+262,E02800,Eva Estrada,Sr. Manger,Sales,Speciality Products,Female,Latino,45,2018-07-24,148991,0.12,Brazil,Sao Paulo,262,8.0,178.79,Very Low,False
+263,E04972,Logan Bryant,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,30,2020-07-18,148485,0.15,United States,Miami,263,6.0,222.73,Very Low,True
+264,E03807,Noah Chen,Sr. Manger,Marketing,Manufacturing,Male,Asian,63,2015-03-01,148321,0.15,China,Beijing,264,11.4,222.48,Very Low,True
+265,E00156,Madelyn Scott,Sr. Manger,IT,Research & Development,Female,Caucasian,46,2002-01-09,148035,0.14,United States,Phoenix,265,24.5,207.25,Very Low,False
+266,E01943,Vivian Espinoza,Sr. Manger,Sales,Corporate,Female,Latino,52,2006-10-05,147966,0.11,Brazil,Rio de Janerio,266,19.8,162.76,Very Low,False
+267,E01052,Jaxson Dinh,Sr. Manger,Marketing,Research & Development,Male,Asian,45,2001-05-03,147752,0.12,China,Shanghai,267,25.2,177.3,Very Low,True
+268,E01578,Anthony Hong,Sr. Manger,IT,Research & Development,Male,Asian,37,2010-11-29,146961,0.11,United States,Columbus,268,15.6,161.66,Very Low,False
+269,E04239,Everleigh Ng,Sr. Manger,Finance,Research & Development,Female,Asian,51,2021-06-10,146742,0.1,China,Shanghai,269,5.1,146.74,Very Low,False
+270,E03680,Elias Alvarado,Sr. Manger,IT,Manufacturing,Male,Latino,56,2012-01-09,146140,0.1,Brazil,Manaus,270,14.5,146.14,Very Low,False
+271,E02965,Andrew Do,Sr. Manger,Finance,Research & Development,Male,Asian,43,2021-04-17,146140,0.15,United States,Seattle,270,5.2,219.21,Very Low,False
+272,E04037,Roman Martinez,Sr. Manger,Finance,Research & Development,Male,Latino,31,2015-09-19,145846,0.15,Brazil,Manaus,272,10.8,218.77,Very Low,False
+273,E01111,Santiago f Moua,Sr. Manger,Human Resources,Corporate,Male,Asian,45,2010-05-07,145093,0.12,United States,Chicago,273,16.2,174.11,Very Low,False
+274,E02088,Skylar Ayala,Sr. Manger,Finance,Corporate,Female,Latino,55,2017-02-06,144986,0.12,United States,Phoenix,274,9.4,173.98,Very Low,False
+275,E04130,Elias Figueroa,Sr. Manger,Finance,Corporate,Male,Latino,45,2021-12-24,144754,0.15,United States,Phoenix,275,4.6,217.13,Very Low,False
+276,E00276,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,Male,Caucasian,33,2013-02-10,144231,0.14,United States,Columbus,276,13.4,201.92,Very Low,True
+277,E03866,Jordan Zhu,Sr. Manger,Marketing,Manufacturing,Male,Asian,32,2017-01-29,143970,0.12,United States,Seattle,277,9.5,172.76,Very Low,False
+278,E02907,Jose Singh,Sr. Manger,Finance,Speciality Products,Male,Asian,44,2010-04-06,142878,0.12,United States,Columbus,278,16.3,171.45,Very Low,False
+279,E01789,Charles Luu,Sr. Manger,Sales,Manufacturing,Male,Asian,25,2021-06-15,142731,0.11,China,Shanghai,279,5.1,157.0,Very Low,False
+280,E03327,Julia Luong,Sr. Manger,Accounting,Research & Development,Female,Asian,55,2006-06-20,142628,0.12,China,Chongqing,280,20.1,171.15,Very Low,False
+281,E01412,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,Female,Black,55,2004-11-10,142318,0.14,United States,Chicago,281,21.7,199.25,Very Low,False
+282,E02166,John Soto,Sr. Manger,Finance,Manufacturing,Male,Latino,60,2015-09-23,141899,0.15,United States,Phoenix,282,10.8,212.85,Very Low,True
+283,E02387,Emily Davis,Sr. Manger,IT,Research & Development,Female,Black,55,2016-04-08,141604,0.15,United States,Seattle,283,10.3,212.41,Very Low,False
+284,E01407,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,Female,Latino,29,2020-07-13,141555,0.11,Brazil,Manaus,284,6.0,155.71,Very Low,False
+285,E00595,Everly Chow,Sr. Manger,Finance,Speciality Products,Female,Asian,33,2018-04-21,140402,0.15,China,Beijing,285,8.2,210.6,Very Low,False
+286,E01076,Sofia Vu,Sr. Manger,Human Resources,Research & Development,Female,Asian,52,2017-09-05,140042,0.13,United States,Austin,286,8.9,182.05,Very Low,False
+287,E02604,Brooklyn Collins,Sr. Manger,Finance,Corporate,Female,Black,59,2018-10-27,139208,0.11,United States,Austin,287,7.7,153.13,Very Low,False
+288,E03528,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,Male,Asian,62,2017-11-22,138808,0.15,China,Chongqing,288,8.7,208.21,Very Low,False
+289,E01921,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,Female,Caucasian,55,2011-01-09,138521,0.1,United States,Miami,289,15.5,138.52,Very Low,False
+290,E03956,Everly Walker,Sr. Manger,Sales,Research & Development,Female,Caucasian,62,1999-08-02,137995,0.14,United States,Austin,290,27.0,193.19,Very Low,False
+291,E01422,Lydia Espinoza,Sr. Manger,Marketing,Speciality Products,Female,Latino,29,2020-05-15,137106,0.12,Brazil,Sao Paulo,291,6.2,164.53,Very Low,False
+292,E04165,Sophie Vang,Sr. Manger,Marketing,Manufacturing,Female,Asian,25,2021-09-14,136810,0.14,China,Chongqing,292,4.8,191.53,Very Low,False
+293,E04089,Sebastian Fong,Sr. Manger,IT,Manufacturing,Male,Asian,46,2017-12-16,136716,0.12,United States,Austin,293,8.6,164.06,Very Low,False
+294,E03412,Joshua Martin,Sr. Manger,Human Resources,Research & Development,Male,Black,42,2003-10-20,135558,0.14,United States,Phoenix,294,22.8,189.78,Very Low,False
+295,E01064,Clara Kang,Sr. Manger,IT,Manufacturing,Female,Asian,39,2017-03-25,135325,0.14,United States,Phoenix,295,9.3,189.46,Very Low,False
+296,E00716,John Chow,Sr. Manger,Marketing,Research & Development,Male,Asian,45,2021-03-11,135062,0.15,China,Chengdu,296,5.4,202.59,Very Low,False
+297,E03393,Henry Figueroa,Sr. Manger,Finance,Manufacturing,Male,Latino,46,2010-07-19,134881,0.15,Brazil,Manaus,297,16.0,202.32,Very Low,False
+298,E01642,Mia Lam,Sr. Manger,IT,Manufacturing,Female,Asian,49,2006-04-18,134486,0.14,United States,Austin,298,20.3,188.28,Very Low,False
+299,E02363,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,Female,Asian,36,2010-03-11,134006,0.13,China,Beijing,299,16.4,174.21,Very Low,False
+300,E00647,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27,2021-04-16,133400,0.11,United States,Phoenix,300,5.3,146.74,Very Low,True
+301,E01652,Avery Dominguez,Sr. Manger,Sales,Corporate,Female,Latino,27,2019-09-13,133297,0.13,Brazil,Rio de Janerio,301,6.8,173.29,Very Low,False
+302,E02888,Elijah Ramos,Sr. Manger,IT,Speciality Products,Male,Latino,33,2012-12-24,132544,0.1,Brazil,Rio de Janerio,302,13.6,132.54,Very Low,False
+303,E04972,Ivy Daniels,Sr. Manger,Human Resources,Speciality Products,Female,Caucasian,41,2008-10-26,131841,0.13,United States,Columbus,303,17.7,171.39,Very Low,True
+304,E02665,Bella Butler,Sr. Manger,Finance,Manufacturing,Female,Black,33,2019-10-25,131652,0.11,United States,Seattle,304,6.7,144.82,Very Low,False
+305,E00089,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,Female,Asian,37,2011-01-17,131353,0.11,China,Shanghai,305,15.5,144.49,Very Low,False
+306,E01755,Audrey Patel,Sr. Manger,Finance,Speciality Products,Female,Asian,37,2011-04-24,131183,0.14,China,Shanghai,306,15.2,183.66,Very Low,False
+307,E01188,Alexander James,Sr. Manger,Human Resources,Manufacturing,Male,Caucasian,42,2013-04-18,131179,0.15,United States,Columbus,307,13.3,196.77,Very Low,False
+308,E00085,Mason Watson,Sr. Manger,IT,Corporate,Male,Caucasian,46,2004-09-14,130274,0.11,United States,Chicago,308,21.8,143.3,Very Low,True
+309,E02857,Mason Jimenez,Sr. Manger,Finance,Speciality Products,Male,Latino,44,2019-08-08,130133,0.15,United States,Austin,309,6.9,195.2,Very Low,True
+310,E04564,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,Male,Latino,41,2015-12-27,129903,0.13,Brazil,Sao Paulo,310,10.6,168.87,Very Low,False
+311,E04630,Maria Griffin,Manager,Marketing,Manufacturing,Female,Caucasian,59,2007-04-25,129708,0.05,United States,Miami,311,19.2,64.85,Very Low,False
+312,E04542,Camila Cortez,Manager,Marketing,Manufacturing,Female,Latino,29,2021-05-09,129541,0.08,United States,Phoenix,312,5.2,103.63,Very Low,False
+313,E04890,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,Female,Asian,49,2001-04-02,129124,0.12,China,Shanghai,313,25.3,154.95,Very Low,False
+314,E03131,Ezekiel Reed,Sr. Manger,IT,Manufacturing,Male,Caucasian,37,2014-02-25,128984,0.12,United States,Miami,314,12.4,154.78,Very Low,False
+315,E02375,Lincoln Huynh,Sr. Manger,Finance,Manufacturing,Male,Asian,63,2002-02-08,128703,0.13,United States,Austin,315,24.4,167.31,Very Low,False
+316,E02716,Dominic Dinh,Sr. Manger,Marketing,Speciality Products,Male,Asian,45,2005-04-11,128468,0.11,United States,Chicago,316,21.3,141.31,Very Low,False
+317,E03220,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34,2018-06-04,128329,0.08,United States,Phoenix,317,8.1,102.66,Very Low,False
+318,E03081,Ayla Brown,Sr. Manger,Sales,Manufacturing,Female,Caucasian,49,2013-04-15,128303,0.15,United States,Phoenix,318,13.3,192.45,Very Low,False
+319,E02770,James Huang,Manager,Human Resources,Speciality Products,Male,Asian,54,1997-03-11,128136,0.05,China,Beijing,319,29.4,64.07,Very Low,True
+320,E04419,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,Female,Asian,30,2015-06-13,127972,0.11,United States,Seattle,320,11.1,140.77,Very Low,False
+321,E03490,Henry Campos,Sr. Manger,Human Resources,Corporate,Male,Latino,38,2009-09-27,127801,0.15,United States,Phoenix,321,16.8,191.7,Very Low,False
+322,E01108,Hannah Martinez,Manager,Marketing,Manufacturing,Female,Latino,65,2006-09-07,127626,0.1,United States,Miami,322,19.9,127.63,Very Low,False
+323,E02427,Addison Mehta,Manager,Sales,Corporate,Female,Asian,27,2018-09-15,127616,0.07,United States,Columbus,323,7.8,89.33,Very Low,False
+324,E03616,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46,2021-08-11,127559,0.1,United States,Austin,324,4.9,127.56,Very Low,False
+325,E01002,Elias Ali,Manager,Sales,Corporate,Male,Asian,28,2021-03-19,127543,0.06,China,Shanghai,325,5.3,76.53,Very Low,False
+326,E04095,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,45,2018-01-11,127422,0.15,United States,Columbus,326,8.5,191.13,Very Low,True
+327,E04888,Elijah Henry,Manager,IT,Corporate,Male,Caucasian,32,2014-01-03,127148,0.1,United States,Miami,327,12.5,127.15,Very Low,False
+328,E00676,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41,2019-02-06,126950,0.1,United States,Chicago,328,7.4,126.95,Very Low,False
+329,E03854,Camila Li,Sr. Manger,IT,Research & Development,Female,Asian,60,2010-07-24,126911,0.1,China,Shanghai,329,16.0,126.91,Very Low,False
+330,E01860,Jack Edwards,Manager,Marketing,Manufacturing,Male,Caucasian,38,2008-04-06,126856,0.06,United States,Columbus,330,18.3,76.11,Very Low,False
+331,E01338,Jaxson Coleman,Manager,Finance,Manufacturing,Male,Caucasian,32,2020-04-15,126671,0.09,United States,Miami,331,6.3,114.0,Very Low,False
+332,E03277,Caroline Hu,Sr. Manger,Marketing,Speciality Products,Female,Asian,31,2019-08-18,126353,0.12,China,Shanghai,332,6.9,151.62,Very Low,False
+333,E02899,Joshua Cortez,Sr. Manger,Finance,Corporate,Male,Latino,44,2007-08-11,126277,0.13,Brazil,Manaus,333,18.9,164.16,Very Low,False
+334,E04682,Colton Thao,Manager,Human Resources,Manufacturing,Male,Asian,55,1995-11-16,125936,0.08,China,Chongqing,334,30.7,100.75,Very Low,False
+335,E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,2019-05-09,125828,0.15,Brazil,Sao Paulo,335,7.2,188.74,Very Low,True
+336,E01902,Eleanor Li,Sr. Manger,Human Resources,Research & Development,Female,Asian,64,2003-12-07,125807,0.15,United States,Chicago,336,22.6,188.71,Very Low,False
+337,E01977,Raelynn Gupta,Sr. Manger,Finance,Corporate,Female,Asian,48,2001-09-10,125730,0.11,China,Chongqing,337,24.9,138.3,Very Low,False
+338,E02862,Peyton Huang,Sr. Manger,IT,Manufacturing,Female,Asian,25,2021-07-02,125633,0.11,China,Beijing,338,5.0,138.2,Very Low,False
+339,E01070,Leonardo Martin,Manager,Finance,Speciality Products,Male,Black,51,1995-02-16,125375,0.09,United States,Chicago,339,31.4,112.84,Very Low,True
+340,E01241,Hadley Guerrero,Sr. Manger,IT,Research & Development,Female,Latino,49,2004-01-14,125086,0.1,Brazil,Sao Paulo,340,22.5,125.09,Very Low,False
+341,E00324,Hailey Song,Manager,Finance,Research & Development,Female,Asian,37,2016-08-23,124928,0.06,China,Chongqing,341,9.9,74.96,Very Low,False
+342,E02661,Maya Chan,Controls Engineer,Engineering,Speciality Products,Female,Asian,37,2013-02-13,124827,0.0,China,Beijing,342,13.4,0.0,Very Low,False
+343,E04536,Layla Scott,Sr. Manger,Accounting,Speciality Products,Female,Caucasian,48,2010-07-30,124774,0.12,United States,Phoenix,343,16.0,149.73,Very Low,False
+344,E03694,Hailey Watson,Sr. Manger,Accounting,Corporate,Female,Black,31,2017-01-20,124629,0.1,United States,Columbus,344,9.5,124.63,Very Low,True
+345,E02844,Charles Diaz,Sr. Manger,Sales,Corporate,Male,Latino,55,2013-11-16,124129,0.15,Brazil,Sao Paulo,345,12.7,186.19,Very Low,False
+346,E01733,Eloise Pham,Manager,Sales,Speciality Products,Female,Asian,45,2011-10-20,123640,0.07,China,Shanghai,346,14.7,86.55,Very Low,False
+347,E02024,Addison Perez,Operations Engineer,Engineering,Speciality Products,Female,Latino,29,2020-09-25,123588,0.0,Brazil,Sao Paulo,347,5.8,0.0,Very Low,True
+348,E03189,Asher Jackson,Sr. Manger,Sales,Speciality Products,Male,Caucasian,50,2003-03-25,123405,0.13,United States,Columbus,348,23.3,160.43,Very Low,False
+349,E00206,Theodore Xi,Manager,Finance,Corporate,Male,Asian,52,2009-10-05,122890,0.07,China,Shanghai,349,16.8,86.02,Very Low,False
+350,E02769,Riley Marquez,Sr. Manger,Finance,Research & Development,Female,Latino,39,2019-10-18,122829,0.11,United States,Chicago,350,6.7,135.11,Very Low,True
+351,E01986,Wesley Sharma,Manager,IT,Corporate,Male,Asian,51,1994-02-23,122802,0.05,China,Shanghai,351,32.4,61.4,Very Low,False
+352,E03252,James Bui,Manager,Finance,Manufacturing,Male,Asian,64,1998-07-20,122753,0.09,China,Chongqing,352,28.0,110.48,Very Low,False
+353,E02059,Roman Munoz,Sr. Manger,Sales,Speciality Products,Male,Latino,54,2011-10-20,122644,0.12,United States,Austin,353,14.7,147.17,Very Low,False
+354,E00342,Wesley Doan,Manager,Finance,Corporate,Male,Asian,63,2004-04-19,122487,0.08,China,Shanghai,354,22.3,97.99,Very Low,False
+355,E00586,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female,Caucasian,29,2019-05-24,122350,0.12,United States,Phoenix,355,7.2,146.82,Very Low,False
+356,E01636,Naomi Coleman,Manager,Marketing,Corporate,Female,Caucasian,29,2016-11-02,122054,0.06,United States,Phoenix,356,9.7,73.23,Very Low,False
+357,E03968,Joshua Chin,Sr. Manger,Marketing,Manufacturing,Male,Asian,60,2021-07-26,121480,0.14,United States,Phoenix,357,5.0,170.07,Very Low,False
+358,E00034,Caroline Herrera,Sr. Manger,Marketing,Manufacturing,Female,Latino,45,2004-08-19,121065,0.15,Brazil,Rio de Janerio,358,21.9,181.6,Very Low,False
+359,E01753,Connor Fong,Manager,Accounting,Speciality Products,Male,Asian,40,2018-02-16,120905,0.05,United States,Seattle,359,8.4,60.45,Very Low,False
+360,E02761,Luca Duong,Manager,Human Resources,Research & Development,Male,Asian,48,2004-06-30,120660,0.07,China,Chengdu,360,22.1,84.46,Very Low,False
+361,E04226,Andrew Moore,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47,2001-01-02,120628,0.0,United States,Chicago,361,25.6,0.0,Very Low,False
+362,E04798,Aurora Ali,Manager,Marketing,Research & Development,Female,Asian,30,2016-04-24,120341,0.07,United States,Seattle,362,10.2,84.24,Very Low,False
+363,E03248,Lyla Stewart,Sr. Manger,IT,Speciality Products,Female,Caucasian,43,2015-03-27,120321,0.12,United States,Austin,363,11.3,144.39,Very Low,False
+364,E00535,Nathan Mendez,Manager,IT,Speciality Products,Male,Latino,53,2006-10-31,120128,0.1,United States,Austin,364,19.7,120.13,Very Low,False
+365,E02987,Mateo Harris,Manager,IT,Corporate,Male,Caucasian,30,2017-08-05,119906,0.05,United States,Columbus,365,9.0,59.95,Very Low,False
+366,E01550,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,2020-07-01,119746,0.1,United States,Phoenix,366,6.0,119.75,Very Low,False
+367,E03457,Ivy Desai,Controls Engineer,Engineering,Research & Development,Female,Asian,59,2001-04-09,119699,0.0,China,Shanghai,367,25.3,0.0,Very Low,False
+368,E04168,Mila Juarez,Manager,Sales,Speciality Products,Female,Latino,38,2017-09-21,119647,0.09,Brazil,Sao Paulo,368,8.8,107.68,Very Low,False
+369,E02478,Alexander Morris,Manager,Sales,Speciality Products,Male,Caucasian,33,2013-06-21,119631,0.06,United States,Phoenix,369,13.1,71.78,Very Low,False
+370,E02703,Austin Vang,Manager,Marketing,Speciality Products,Male,Asian,49,2018-05-20,119397,0.09,China,Beijing,370,8.2,107.46,Very Low,False
+371,E04403,Dominic Hu,Manager,Accounting,Speciality Products,Male,Asian,34,2012-02-13,118708,0.07,China,Shanghai,371,14.4,83.1,Very Low,False
+372,E00503,Leah Patterson,Manager,Human Resources,Research & Development,Female,Caucasian,33,2012-06-11,118253,0.08,United States,Austin,372,14.1,94.6,Very Low,False
+373,E02938,Jace Washington,Manager,Accounting,Research & Development,Male,Caucasian,44,2002-02-09,117545,0.06,United States,Phoenix,373,24.4,70.53,Very Low,True
+374,E00742,Cooper Mitchell,Manager,Sales,Speciality Products,Male,Caucasian,43,2006-01-31,117518,0.07,United States,Seattle,374,20.5,82.26,Very Low,False
+375,E04517,Amelia Choi,Manager,Marketing,Speciality Products,Female,Asian,43,2006-06-11,117278,0.09,United States,Miami,375,20.1,105.55,Very Low,False
+376,E03379,Landon Kim,Manager,Human Resources,Speciality Products,Male,Asian,50,2012-03-15,117226,0.08,United States,Phoenix,376,14.3,93.78,Very Low,False
+377,E04937,Ian Ngo,Manager,Sales,Speciality Products,Male,Asian,52,2014-08-07,117062,0.07,United States,Phoenix,377,11.9,81.94,Very Low,False
+378,E01525,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,1992-04-08,116878,0.11,United States,Miami,378,34.3,128.57,Very Low,True
+379,E04415,Leonardo Luong,Manager,Finance,Manufacturing,Male,Asian,52,1999-12-29,116527,0.07,United States,Phoenix,379,26.6,81.57,Very Low,True
+380,E01167,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28,2018-11-14,115854,0.0,United States,Phoenix,380,7.7,0.0,Very Low,False
+381,E02166,Lucas Thomas,Manager,Accounting,Research & Development,Male,Caucasian,55,2000-04-28,115798,0.05,United States,Miami,381,26.2,57.9,Very Low,True
+382,E03563,Ian Barnes,Operations Engineer,Engineering,Corporate,Male,Caucasian,47,2020-06-08,115765,0.0,United States,Miami,382,6.1,0.0,Very Low,False
+383,E00703,Wesley Dominguez,Engineering Manager,Engineering,Corporate,Male,Latino,45,2018-04-27,115490,0.12,United States,Chicago,383,8.2,138.59,Very Low,False
+384,E00365,Jonathan Patel,Manager,Marketing,Corporate,Male,Asian,28,2020-02-02,115417,0.06,China,Shanghai,384,6.5,69.25,Very Low,False
+385,E02576,Gianna Ha,Manager,IT,Research & Development,Female,Asian,55,2005-02-08,115145,0.05,China,Chongqing,385,21.4,57.57,Very Low,False
+386,E03305,Hannah King,Manager,Accounting,Speciality Products,Female,Caucasian,31,2014-10-07,114911,0.07,United States,Chicago,386,11.8,80.44,Very Low,True
+387,E00785,Hannah Hoang,Manager,Accounting,Speciality Products,Female,Asian,25,2021-12-15,114893,0.06,China,Chengdu,387,4.6,68.94,Very Low,False
+388,E00440,Jack Huynh,Manager,Marketing,Research & Development,Male,Asian,27,2018-09-25,114441,0.1,China,Chongqing,388,7.8,114.44,Very Low,True
+389,E03919,Grayson Chan,Engineering Manager,Engineering,Speciality Products,Male,Asian,46,2011-10-20,114250,0.14,China,Chengdu,389,14.7,159.95,Very Low,False
+390,E01118,Roman Yang,Manager,Human Resources,Manufacturing,Male,Asian,42,2009-12-12,114242,0.08,United States,Phoenix,390,16.6,91.39,Very Low,False
+391,E01409,Jose Molina,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,2008-02-28,113987,0.0,Brazil,Manaus,391,18.4,0.0,Very Low,False
+392,E04751,Grayson James,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54,2010-12-05,113982,0.0,United States,Seattle,392,15.6,0.0,Very Low,False
+393,E04247,Camila Evans,Manager,Marketing,Research & Development,Female,Black,55,1992-12-20,113950,0.09,United States,Miami,393,33.6,102.56,Very Low,False
+394,E03889,Caleb Flores,Manager,Human Resources,Manufacturing,Male,Latino,34,2013-08-13,113909,0.06,Brazil,Rio de Janerio,394,12.9,68.35,Very Low,False
+395,E03664,Aria Castro,Engineering Manager,Engineering,Speciality Products,Female,Latino,45,2014-03-14,113873,0.11,Brazil,Rio de Janerio,395,12.3,125.26,Very Low,False
+396,E04413,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36,2016-12-02,113781,0.0,United States,Columbus,396,9.6,0.0,Very Low,False
+397,E04533,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29,2019-01-25,113527,0.06,United States,Austin,397,7.5,68.12,Very Low,False
+398,E03102,Cooper Valdez,Manager,Sales,Corporate,Male,Latino,50,2012-04-25,113269,0.09,Brazil,Sao Paulo,398,14.2,101.94,Very Low,False
+399,E03749,Kennedy Foster,Manager,Marketing,Speciality Products,Female,Caucasian,53,2013-11-23,113135,0.05,United States,Austin,399,12.7,56.57,Very Low,False
+400,E02563,Clara Sanchez,Controls Engineer,Engineering,Corporate,Female,Latino,47,2018-10-02,111404,0.0,Brazil,Rio de Janerio,400,7.8,0.0,Very Low,True
+401,E02710,Silas Huang,Engineering Manager,Engineering,Research & Development,Male,Asian,57,1992-01-09,111299,0.12,United States,Miami,401,34.5,133.56,Very Low,False
+402,E02147,Allison Medina,Manager,Finance,Speciality Products,Female,Latino,55,2010-04-29,111038,0.05,Brazil,Sao Paulo,402,16.2,55.52,Very Low,False
+403,E04213,Hailey Xi,Manager,Accounting,Corporate,Female,Asian,52,2021-11-19,111006,0.08,China,Chongqing,403,4.7,88.8,Very Low,False
+404,E02066,Grayson Yee,Manager,Human Resources,Corporate,Male,Asian,48,2015-07-16,110565,0.09,China,Beijing,404,11.0,99.51,Very Low,False
+405,E00605,Nova Williams,Manager,Finance,Speciality Products,Female,Black,61,2010-04-25,110302,0.06,United States,Miami,405,16.2,66.18,Very Low,False
+406,E01501,Hudson Liu,Engineering Manager,Engineering,Speciality Products,Male,Asian,34,2017-11-16,110054,0.15,United States,Miami,406,8.7,165.08,Very Low,False
+407,E00276,Alexander Jackson,Manager,Human Resources,Corporate,Male,Caucasian,45,2012-07-09,109883,0.07,United States,Columbus,407,14.0,76.92,Very Low,True
+408,E03344,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,2021-10-21,109851,0.0,United States,Seattle,408,4.7,0.0,Very Low,False
+409,E01225,Christian Fong,Manager,Sales,Research & Development,Male,Asian,49,2012-08-10,109850,0.07,China,Beijing,409,13.9,76.9,Very Low,False
+410,E00105,Isla Espinoza,Manager,Accounting,Speciality Products,Female,Latino,38,2021-11-16,109812,0.09,Brazil,Manaus,410,4.7,98.83,Very Low,False
+411,E04969,Abigail Vang,Operations Engineer,Engineering,Research & Development,Female,Asian,40,2016-09-09,109680,0.0,China,Chengdu,411,9.9,0.0,Very Low,False
+412,E04345,Eliana Grant,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64,1994-06-20,109456,0.1,United States,Chicago,412,32.1,109.46,Very Low,False
+413,E01706,Avery Sun,Operations Engineer,Engineering,Manufacturing,Female,Asian,45,2004-03-11,109422,0.0,China,Chongqing,413,22.4,0.0,Very Low,False
+414,E04087,Adam Kaur,Manager,IT,Corporate,Male,Asian,60,2000-01-29,109059,0.07,China,Chengdu,414,26.5,76.34,Very Low,False
+415,E03697,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28,2021-01-08,108826,0.1,United States,Miami,415,5.5,108.83,Very Low,False
+416,E03059,Hailey Dang,Manager,Marketing,Manufacturing,Female,Asian,64,2019-09-21,108780,0.06,China,Shanghai,416,6.8,65.27,Very Low,False
+417,E01762,Maya Ngo,Manager,Sales,Speciality Products,Female,Asian,55,2012-10-20,108686,0.06,United States,Columbus,417,13.7,65.21,Very Low,False
+418,E01845,Leo Fernandez,Manager,Finance,Research & Development,Male,Latino,54,1998-04-28,108268,0.09,Brazil,Sao Paulo,418,28.2,97.44,Very Low,False
+419,E00518,Lydia Morales,Manager,Finance,Speciality Products,Female,Latino,51,2013-06-14,108221,0.05,Brazil,Manaus,419,13.1,54.11,Very Low,False
+420,E02846,Julia Mai,Manager,Marketing,Manufacturing,Female,Asian,50,2012-03-11,108134,0.1,China,Shanghai,420,14.4,108.13,Very Low,False
+421,E04380,Naomi Washington,Manager,IT,Speciality Products,Female,Caucasian,51,2020-03-13,107195,0.09,United States,Austin,421,6.3,96.48,Very Low,False
+422,E03642,Aria Roberts,Manager,Accounting,Corporate,Female,Caucasian,38,2015-08-12,106858,0.05,United States,Seattle,422,10.9,53.43,Very Low,False
+423,E00287,Luca Nelson,Manager,Finance,Speciality Products,Male,Caucasian,60,2010-06-15,106578,0.09,United States,Miami,423,16.1,95.92,Very Low,True
+424,E00717,Madelyn Chan,Manager,Sales,Speciality Products,Female,Asian,64,2003-05-21,106444,0.05,United States,Phoenix,424,23.2,53.22,Very Low,True
+425,E01262,Miles Mehta,Manager,Finance,Manufacturing,Male,Asian,50,2018-05-19,106437,0.07,China,Chongqing,425,8.2,74.51,Very Low,False
+426,E03894,Charlotte Chang,Manager,Sales,Research & Development,Female,Asian,50,2000-05-07,106428,0.07,United States,Chicago,426,26.2,74.5,Very Low,False
+427,E02148,Christopher Vega,Engineering Manager,Engineering,Research & Development,Male,Latino,54,2007-10-27,106313,0.15,United States,Chicago,427,18.7,159.47,Very Low,False
+428,E04464,Cooper Yoon,Engineering Manager,Engineering,Research & Development,Male,Asian,60,2018-02-15,106079,0.14,United States,Austin,428,8.4,148.51,Very Low,False
+429,E03423,Santiago f Gonzalez,Manager,Sales,Research & Development,Male,Latino,36,2012-07-26,105891,0.07,United States,Seattle,429,14.0,74.12,Very Low,False
+430,E00369,Genesis Woods,Manager,Human Resources,Speciality Products,Female,Black,33,2013-08-21,105390,0.06,United States,Columbus,430,12.9,63.23,Very Low,False
+431,E00682,Sofia Fernandez,Manager,Accounting,Manufacturing,Female,Latino,44,2005-10-17,105223,0.1,United States,Phoenix,431,20.8,105.22,Very Low,False
+432,E00530,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,1999-03-14,105086,0.09,United States,Austin,432,27.4,94.58,Very Low,True
+433,E03061,Vivian Lewis,Manager,Marketing,Manufacturing,Female,Caucasian,65,2011-09-07,104903,0.1,United States,Columbus,433,14.9,104.9,Very Low,False
+434,E01209,Jayden Williams,Manager,Human Resources,Manufacturing,Male,Caucasian,64,1992-12-26,104668,0.08,United States,Columbus,434,33.6,83.73,Very Low,False
+435,E00638,David Simmons,Manager,Marketing,Corporate,Male,Caucasian,51,1997-01-26,104431,0.07,United States,Phoenix,435,29.5,73.1,Very Low,False
+436,E04348,Natalia Owens,Manager,Human Resources,Manufacturing,Female,Caucasian,31,2021-01-18,104162,0.07,United States,Austin,436,5.5,72.91,Very Low,False
+437,E02652,Nathan Sun,Manager,Accounting,Speciality Products,Male,Asian,63,2015-07-29,103724,0.05,China,Shanghai,437,11.0,51.86,Very Low,False
+438,E02900,Elena Richardson,Manager,Accounting,Manufacturing,Female,Caucasian,34,2014-10-03,103707,0.09,United States,Columbus,438,11.8,93.34,Very Low,False
+439,E02249,Allison Daniels,Manager,Finance,Manufacturing,Female,Caucasian,37,2020-04-14,103524,0.09,United States,Phoenix,439,6.3,93.17,Very Low,False
+440,E02872,Liam Jung,Manager,Finance,Corporate,Male,Asian,39,2010-01-14,103504,0.07,China,Chengdu,440,16.5,72.45,Very Low,False
+441,E01883,Olivia Gray,Manager,Marketing,Research & Development,Female,Black,42,2015-09-19,103423,0.06,United States,Columbus,441,10.8,62.05,Very Low,True
+442,E03994,Henry Jung,Automation Engineer,Engineering,Manufacturing,Male,Asian,57,2018-02-26,103183,0.0,United States,Austin,442,8.4,0.0,Very Low,False
+443,E03718,Zoe Zhou,Manager,Finance,Corporate,Female,Asian,61,2009-10-06,103096,0.07,China,Beijing,443,16.8,72.17,Very Low,False
+444,E03328,Lucy Johnson,Manager,IT,Research & Development,Female,Caucasian,57,2020-04-27,103058,0.07,United States,Columbus,444,6.2,72.14,Very Low,False
+445,E03720,Genesis Hunter,Manager,Finance,Corporate,Female,Caucasian,48,1999-04-22,102847,0.05,United States,Chicago,445,27.3,51.42,Very Low,True
+446,E02843,Lily Pena,Manager,Human Resources,Speciality Products,Female,Latino,55,2010-02-24,102839,0.05,United States,Miami,446,16.4,51.42,Very Low,False
+447,E00864,Samantha Aguilar,Manager,Accounting,Speciality Products,Female,Latino,46,2010-04-24,102636,0.06,United States,Seattle,447,16.2,61.58,Very Low,False
+448,E00245,Lucas Daniels,Manager,Sales,Corporate,Male,Black,42,2011-05-29,102440,0.06,United States,Chicago,448,15.1,61.46,Very Low,True
+449,E04163,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,2021-10-09,102298,0.13,Brazil,Rio de Janerio,449,4.8,132.99,Very Low,False
+450,E00874,Alexander Choi,Manager,Marketing,Research & Development,Male,Asian,55,1994-09-18,102270,0.1,United States,Chicago,450,31.8,102.27,Very Low,False
+451,E04029,Jayden Jimenez,Manager,Human Resources,Corporate,Male,Latino,46,2011-09-24,102167,0.06,Brazil,Rio de Janerio,451,14.8,61.3,Very Low,False
+452,E01839,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,2005-12-10,102043,0.0,United States,Chicago,452,20.6,0.0,Very Low,False
+453,E03113,Willow Chen,Manager,Accounting,Corporate,Female,Asian,50,2012-09-03,102033,0.08,United States,Austin,453,13.9,81.63,Very Low,False
+454,E02492,Parker Sandoval,Manager,Human Resources,Speciality Products,Male,Latino,59,2015-06-10,101985,0.07,United States,Miami,454,11.1,71.39,Very Low,True
+455,E03910,Nova Hsu,Manager,Human Resources,Speciality Products,Female,Asian,32,2017-01-03,101870,0.1,United States,Phoenix,455,9.5,101.87,Very Low,False
+456,E00836,Wesley King,Manager,Accounting,Manufacturing,Male,Caucasian,57,2019-01-19,101577,0.05,United States,Chicago,456,7.5,50.79,Very Low,True
+457,E01722,Asher Huynh,Manager,IT,Manufacturing,Male,Asian,45,2015-01-22,101288,0.1,United States,Phoenix,457,11.5,101.29,Very Low,False
+458,E03471,Julia Sandoval,Manager,Human Resources,Corporate,Female,Latino,42,2017-11-19,101143,0.06,United States,Miami,458,8.7,60.69,Very Low,False
+459,E01508,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,Female,Latino,49,2016-03-12,100810,0.12,Brazil,Rio de Janerio,459,10.4,120.97,Very Low,False
+460,E03446,Julian Ross,Manager,Marketing,Research & Development,Male,Caucasian,51,2020-07-02,100099,0.08,United States,Miami,460,6.0,80.08,Very Low,False
+461,E04152,Adeline Huang,Controls Engineer,Engineering,Manufacturing,Female,Asian,34,2019-12-16,99989,0.0,China,Chengdu,461,6.6,0.0,Very Low,False
+462,E04105,Theodore Dinh,Technical Architect,IT,Manufacturing,Male,Asian,59,1997-11-29,99975,0.0,China,Chongqing,462,28.6,0.0,Very Low,False
+463,E04756,Aiden Le,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55,1994-12-24,99774,0.0,United States,Austin,463,31.6,0.0,Very Low,False
+464,E04155,Dylan Dominguez,Sr. Analyst,Marketing,Research & Development,Male,Latino,42,2015-04-07,99697,0.0,Brazil,Rio de Janerio,464,11.3,0.0,Very Low,False
+465,E01807,Matthew Lim,Sr. Analyst,Sales,Research & Development,Male,Asian,52,1994-02-18,99624,0.0,United States,Seattle,465,32.4,0.0,Very Low,True
+466,E02074,Nora Brown,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32,2014-02-11,99575,0.0,United States,Austin,466,12.4,0.0,Very Low,False
+467,E01870,Easton Moore,Computer Systems Manager,IT,Research & Development,Male,Caucasian,52,2013-05-23,99557,0.09,United States,Seattle,467,13.2,89.6,Very Low,True
+468,E03343,Carson Lu,Engineering Manager,Engineering,Speciality Products,Male,Asian,64,1996-12-04,99354,0.12,China,Beijing,468,29.6,119.22,Very Low,False
+469,E03583,Kayden Jordan,Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48,2010-09-14,99335,0.0,United States,Phoenix,469,15.8,0.0,Very Low,True
+470,E02298,Emily Doan,Engineering Manager,Engineering,Corporate,Female,Asian,32,2014-12-04,99202,0.11,United States,Phoenix,470,11.6,109.12,Very Low,False
+471,E02971,Mia Wu,Enterprise Architect,IT,Corporate,Female,Asian,45,2013-08-25,99169,0.0,China,Beijing,471,12.9,0.0,Very Low,False
+472,E01286,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47,1998-07-14,99091,0.0,United States,Austin,472,28.0,0.0,Very Low,True
+473,E02227,Sofia Parker,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36,2014-05-30,99080,0.0,United States,Chicago,473,12.1,0.0,Very Low,False
+474,E04769,Mila Leung,Sr. Analyst,Marketing,Corporate,Female,Asian,39,2007-11-05,99017,0.0,China,Beijing,474,18.7,0.0,Very Low,False
+475,E03972,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,Male,Latino,58,1994-09-15,98769,0.0,Brazil,Rio de Janerio,475,31.9,0.0,Very Low,False
+476,E04545,Abigail Mejia,Quality Engineer,Engineering,Corporate,Female,Latino,56,2005-02-05,98581,0.0,Brazil,Rio de Janerio,476,21.5,0.0,Very Low,False
+477,E01488,Stella Lai,Sr. Analyst,Accounting,Manufacturing,Female,Asian,44,2021-04-28,98520,0.0,United States,Miami,477,5.2,0.0,Very Low,True
+478,E03094,Wesley Young,Sr. Analyst,Marketing,Speciality Products,Male,Caucasian,33,2016-09-18,98427,0.0,United States,Columbus,478,9.8,0.0,Very Low,False
+479,E03114,Jameson Juarez,Development Engineer,Engineering,Speciality Products,Male,Latino,62,1994-10-09,98230,0.0,United States,Miami,479,31.8,0.0,Very Low,False
+480,E04952,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,Female,Latino,57,2007-10-02,98150,0.0,Brazil,Rio de Janerio,480,18.8,0.0,Very Low,False
+481,E01357,Paisley Hunter,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61,2010-01-15,98110,0.13,United States,Chicago,481,16.5,127.54,Very Low,False
+482,E01150,Allison Leung,Sr. Analyst,Sales,Research & Development,Female,Asian,62,2020-05-18,97830,0.0,United States,Austin,482,6.2,0.0,Very Low,False
+483,E03474,Violet Hall,Solutions Architect,IT,Corporate,Female,Caucasian,40,2010-12-10,97807,0.0,United States,Chicago,483,15.6,0.0,Very Low,False
+484,E03269,Charlotte Chu,Network Engineer,IT,Manufacturing,Female,Asian,50,2001-01-23,97537,0.0,China,Chengdu,484,25.5,0.0,Very Low,False
+485,E02005,Isabella Bui,Enterprise Architect,IT,Manufacturing,Female,Asian,36,2014-11-21,97500,0.0,United States,Miami,485,11.7,0.0,Very Low,False
+486,E01132,Gabriella Johnson,Computer Systems Manager,IT,Research & Development,Female,Caucasian,42,2006-03-01,97433,0.05,United States,Seattle,486,20.4,48.72,Very Low,True
+487,E04926,Emma Luna,Field Engineer,Engineering,Speciality Products,Female,Latino,52,2008-03-25,97398,0.0,Brazil,Manaus,487,18.3,0.0,Very Low,False
+488,E00306,Mateo Williams,Enterprise Architect,IT,Manufacturing,Male,Caucasian,40,2011-01-22,97339,0.0,United States,Austin,488,15.5,0.0,Very Low,True
+489,E03626,Nicholas Avila,Enterprise Architect,IT,Research & Development,Male,Latino,28,2017-09-28,97336,0.0,United States,Austin,489,8.8,0.0,Very Low,False
+490,E02728,Thomas Chang,Sr. Analyst,Accounting,Research & Development,Male,Asian,34,2011-07-26,97231,0.0,China,Beijing,490,15.0,0.0,Very Low,False
+491,E03496,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,2017-11-04,97078,0.0,United States,Austin,491,8.7,0.0,Very Low,False
+492,E01713,Nolan Guzman,Field Engineer,Engineering,Speciality Products,Male,Latino,46,1999-06-20,96997,0.0,Brazil,Sao Paulo,492,27.1,0.0,Very Low,False
+493,E04004,Everleigh Shah,Test Engineer,Engineering,Research & Development,Female,Asian,36,2018-12-14,96757,0.0,United States,Columbus,493,7.6,0.0,Very Low,False
+494,E04802,Lucy Fong,Sr. Account Representative,Sales,Corporate,Female,Asian,40,2011-01-20,96719,0.0,China,Chengdu,494,15.5,0.0,Very Low,False
+495,E02179,Peyton Owens,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48,2014-09-25,96693,0.0,United States,Chicago,495,11.8,0.0,Very Low,False
+496,E02730,Axel Soto,Quality Engineer,Engineering,Corporate,Male,Latino,46,2005-04-22,96639,0.0,Brazil,Rio de Janerio,496,21.2,0.0,Very Low,False
+497,E04546,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42,2020-02-05,96636,0.0,United States,Columbus,497,6.4,0.0,Very Low,False
+498,E01415,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,2020-02-03,96598,0.0,United States,Phoenix,498,6.5,0.0,Very Low,False
+499,E01037,Jeremiah Chu,IT Systems Architect,IT,Research & Development,Male,Asian,31,2020-09-12,96567,0.0,China,Shanghai,499,5.8,0.0,Very Low,False
+500,E00481,Jameson Nelson,Network Architect,IT,Research & Development,Male,Caucasian,61,2016-03-08,96566,0.0,United States,Columbus,500,10.4,0.0,Very Low,False
+501,E02012,Anna Han,System Administrator ,IT,Research & Development,Female,Asian,65,2003-05-08,96548,0.0,United States,Austin,501,23.2,0.0,Very Low,False
+502,E03875,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51,1995-12-22,96475,0.0,United States,Austin,502,30.6,0.0,Very Low,False
+503,E03160,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,Male,Latino,54,2012-04-29,96441,0.0,Brazil,Sao Paulo,503,14.2,0.0,Very Low,False
+504,E04189,Ariana Kim,Network Architect,IT,Manufacturing,Female,Asian,33,2014-06-29,96366,0.0,China,Chengdu,504,12.1,0.0,Very Low,False
+505,E00632,Angel Chang,Network Architect,IT,Research & Development,Male,Asian,37,2017-07-06,96331,0.0,China,Shanghai,505,9.0,0.0,Very Low,False
+506,E00863,Lincoln Ramos,Operations Engineer,Engineering,Corporate,Male,Latino,59,2008-09-10,96313,0.0,United States,Austin,506,17.9,0.0,Very Low,False
+507,E00446,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,2019-11-04,96092,0.0,United States,Austin,507,6.7,0.0,Very Low,True
+508,E03268,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42,2017-11-23,96023,0.0,United States,Miami,508,8.6,0.0,Very Low,True
+509,E02802,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,2002-11-16,95998,0.0,United States,Seattle,509,23.7,0.0,Very Low,False
+510,E04816,Jace Zhang,Service Desk Analyst,IT,Speciality Products,Male,Asian,31,2017-02-14,95963,0.0,China,Chengdu,510,9.4,0.0,Very Low,False
+511,E02521,Lily Nguyen,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,2012-01-28,95960,0.0,China,Chengdu,511,14.5,0.0,Very Low,False
+512,E01366,William Walker,Computer Systems Manager,IT,Research & Development,Male,Black,40,2019-02-24,95899,0.1,United States,Columbus,512,7.4,95.9,Very Low,False
+513,E01141,Gianna Williams,Quality Engineer,Engineering,Research & Development,Female,Black,27,2021-01-28,95786,0.0,United States,Chicago,513,5.5,0.0,Very Low,False
+514,E02813,Kai Chow,Engineering Manager,Engineering,Corporate,Male,Asian,45,2001-04-12,95743,0.15,United States,Austin,514,25.3,143.61,Very Low,False
+515,E04720,Christopher Chung,Controls Engineer,Engineering,Corporate,Male,Asian,28,2021-12-18,95670,0.0,United States,Phoenix,515,4.6,0.0,Very Low,False
+516,E03615,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51,1999-10-09,95639,0.0,United States,Austin,516,26.8,0.0,Very Low,False
+517,E03984,Hailey Foster,Controls Engineer,Engineering,Manufacturing,Female,Black,55,2021-03-21,95562,0.0,United States,Chicago,517,5.3,0.0,Very Low,False
+518,E04448,Adrian Ruiz,Sr. Analyst,Finance,Corporate,Male,Latino,34,2014-09-04,95499,0.0,Brazil,Sao Paulo,518,11.9,0.0,Very Low,False
+519,E01639,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male,Asian,55,1995-11-20,95409,0.0,United States,Phoenix,519,30.7,0.0,Very Low,True
+520,E03047,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,Female,Asian,41,2005-02-15,95372,0.0,China,Shanghai,520,21.4,0.0,Very Low,False
+521,E00639,Benjamin Mai,System Administrator ,IT,Corporate,Male,Asian,54,1998-06-15,95239,0.0,United States,Phoenix,521,28.1,0.0,Very Low,False
+522,E00769,Jose Kang,Engineering Manager,Engineering,Corporate,Male,Asian,57,1999-04-25,95061,0.1,China,Shanghai,522,27.2,95.06,Very Low,False
+523,E00626,Luna Simmons,Sr. Analyst,Finance,Corporate,Female,Caucasian,28,2020-09-04,95045,0.0,United States,Chicago,523,5.9,0.0,Very Low,False
+524,E00013,Raelynn Ma,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,2015-10-08,94876,0.0,United States,Miami,524,10.8,0.0,Very Low,True
+525,E00287,Maverick Figueroa,IT Systems Architect,IT,Corporate,Male,Latino,48,2008-07-06,94815,0.0,United States,Chicago,525,18.0,0.0,Very Low,True
+526,E04618,Mason Zhao,Technical Architect,IT,Research & Development,Male,Asian,46,2021-10-26,94790,0.0,China,Chongqing,526,4.7,0.0,Very Low,False
+527,E04670,Angel Do,IT Systems Architect,IT,Speciality Products,Male,Asian,34,2019-09-20,94735,0.0,China,Beijing,527,6.8,0.0,Very Low,False
+528,E03065,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,Male,Latino,41,2012-01-21,94658,0.0,United States,Miami,528,14.5,0.0,Very Low,False
+529,E03870,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30,2020-02-03,94652,0.0,United States,Seattle,529,6.5,0.0,Very Low,False
+530,E00559,Penelope Silva,Network Architect,IT,Speciality Products,Female,Latino,36,2016-11-03,94618,0.0,United States,Columbus,530,9.7,0.0,Very Low,False
+531,E04131,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female,Latino,42,2021-01-02,94430,0.0,United States,Seattle,531,5.5,0.0,Very Low,True
+532,E00717,Axel Santos,Sr. Analyst,Accounting,Speciality Products,Male,Latino,62,2011-02-17,94422,0.0,United States,Phoenix,532,15.4,0.0,Very Low,True
+533,E00955,Theodore Marquez,Development Engineer,Engineering,Speciality Products,Male,Latino,54,2012-11-24,94407,0.0,Brazil,Sao Paulo,533,13.6,0.0,Very Low,False
+534,E00593,Luke Wilson,Solutions Architect,IT,Speciality Products,Male,Caucasian,34,2016-05-24,94352,0.0,United States,Miami,534,10.2,0.0,Very Low,False
+535,E00273,David Owens,Sr. Analyst,Sales,Corporate,Male,Black,43,2004-04-16,94246,0.0,United States,Austin,535,22.3,0.0,Very Low,False
+536,E03417,Benjamin Moua,Computer Systems Manager,IT,Manufacturing,Male,Asian,40,2007-07-02,93971,0.08,China,Chongqing,536,19.1,75.18,Very Low,False
+537,E00672,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,2007-12-21,93840,0.0,Brazil,Manaus,537,18.6,0.0,Very Low,True
+538,E04871,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30,2015-03-15,93734,0.0,United States,Phoenix,538,11.3,0.0,Very Low,False
+539,E02923,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54,2016-05-04,93668,0.0,United States,Chicago,539,10.2,0.0,Very Low,False
+540,E02453,Dylan Kumar,Sr. Analyst,Marketing,Speciality Products,Male,Asian,55,2006-07-11,93343,0.0,China,Chongqing,540,20.0,0.0,Very Low,False
+541,E02415,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,Female,Latino,52,1994-10-16,93103,0.0,United States,Phoenix,541,31.8,0.0,Very Low,False
+542,E00431,Skylar Doan,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,58,1994-08-21,93102,0.0,United States,Seattle,542,31.9,0.0,Very Low,True
+543,E00401,Wesley Adams,System Administrator ,IT,Corporate,Male,Caucasian,48,2003-08-11,93017,0.0,United States,Seattle,543,22.9,0.0,Very Low,False
+544,E02235,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52,1999-09-13,92994,0.0,United States,Chicago,544,26.9,0.0,Very Low,False
+545,E03538,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male,Caucasian,40,2010-11-04,92952,0.0,United States,Seattle,545,15.7,0.0,Very Low,False
+546,E02881,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43,2014-01-23,92940,0.0,China,Chengdu,546,12.5,0.0,Very Low,False
+547,E00265,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,Female,Latino,60,1998-07-16,92932,0.0,United States,Columbus,547,28.0,0.0,Very Low,False
+548,E04504,Jameson Alvarado,Enterprise Architect,IT,Manufacturing,Male,Latino,47,1999-03-14,92897,0.0,Brazil,Sao Paulo,548,27.4,0.0,Very Low,False
+549,E02331,Sophia Huynh,Enterprise Architect,IT,Manufacturing,Female,Asian,55,2005-08-09,92771,0.0,United States,Miami,549,20.9,0.0,Very Low,False
+550,E04000,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44,2008-12-18,92753,0.13,United States,Austin,550,17.6,120.58,Very Low,False
+551,E00465,Brooklyn Cho,Technical Architect,IT,Manufacturing,Female,Asian,45,2002-07-08,92655,0.0,China,Chengdu,551,24.0,0.0,Very Low,True
+552,E02489,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33,2017-08-04,92610,0.0,United States,Columbus,552,9.0,0.0,Very Low,False
+553,E01958,Angel Lin,Network Administrator,IT,Manufacturing,Male,Asian,27,2020-12-24,92321,0.0,United States,Chicago,553,5.6,0.0,Very Low,False
+554,E02984,Jack Mai,Sr. Analyst,Marketing,Corporate,Male,Asian,45,2007-09-22,92293,0.0,China,Chengdu,554,18.8,0.0,Very Low,False
+555,E03849,Harper Chin,Quality Engineer,Engineering,Manufacturing,Female,Asian,50,2002-07-09,92209,0.0,China,Shanghai,555,24.0,0.0,Very Low,True
+556,E02135,John Delgado,Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30,2017-02-11,92058,0.0,United States,Austin,556,9.4,0.0,Very Low,False
+557,E00233,Brooklyn Reyes,Service Desk Analyst,IT,Manufacturing,Female,Latino,36,2019-12-19,91954,0.0,United States,Columbus,557,6.6,0.0,Very Low,False
+558,E04126,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,2020-10-09,91853,0.0,United States,Chicago,558,5.8,0.0,Very Low,False
+559,E02473,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,Male,Asian,29,2021-11-15,91782,0.0,China,Chongqing,559,4.7,0.0,Very Low,False
+560,E01388,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,1997-10-23,91763,0.0,United States,Austin,560,28.7,0.0,Very Low,True
+561,E03519,Eliza Zheng,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,2014-04-20,91679,0.07,China,Chongqing,561,12.2,64.18,Very Low,False
+562,E03912,Carter Turner,Sr. Analyst,Marketing,Corporate,Male,Caucasian,33,2015-11-17,91632,0.0,United States,Phoenix,562,10.7,0.0,Very Low,False
+563,E02417,Alice Young,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46,2008-01-24,91621,0.0,United States,Chicago,563,18.5,0.0,Very Low,False
+564,E04217,Lydia Williams,System Administrator ,IT,Manufacturing,Female,Black,35,2014-10-29,91592,0.0,United States,Chicago,564,11.7,0.0,Very Low,False
+565,E00640,Paisley Bryant,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37,2016-04-27,91400,0.0,United States,Chicago,565,10.2,0.0,Very Low,False
+566,E04048,Julian Lee,IT Systems Architect,IT,Corporate,Male,Asian,51,2003-01-17,91399,0.0,United States,Seattle,566,23.5,0.0,Very Low,False
+567,E00359,Logan Carrillo,Sr. Analyst,Marketing,Research & Development,Male,Latino,33,2014-11-30,91280,0.0,United States,Miami,567,11.6,0.0,Very Low,False
+568,E04491,Nathan Chan,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45,2000-03-02,91276,0.0,United States,Seattle,568,26.4,0.0,Very Low,False
+569,E00096,Peyton Cruz,Development Engineer,Engineering,Manufacturing,Female,Latino,30,2016-05-26,91134,0.0,Brazil,Sao Paulo,569,10.1,0.0,Very Low,False
+570,E04359,Layla Salazar,Solutions Architect,IT,Corporate,Female,Latino,59,2014-03-19,90901,0.0,United States,Seattle,570,12.3,0.0,Very Low,True
+571,E03681,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45,2019-04-26,90870,0.0,United States,Chicago,571,7.2,0.0,Very Low,False
+572,E02254,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,Male,Latino,61,2017-05-03,90855,0.0,Brazil,Sao Paulo,572,9.2,0.0,Very Low,False
+573,E01952,Everett Lee,Network Administrator,IT,Research & Development,Male,Asian,45,2010-02-26,90770,0.0,United States,Columbus,573,16.4,0.0,Very Low,False
+574,E01633,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,2001-05-30,90678,0.0,United States,Columbus,574,25.1,0.0,Very Low,False
+575,E03296,Eloise Trinh,Solutions Architect,IT,Speciality Products,Female,Asian,39,2020-04-22,90535,0.0,United States,Miami,575,6.2,0.0,Very Low,False
+576,E00102,Riley Rojas,Network Architect,IT,Speciality Products,Female,Latino,36,2021-01-21,90333,0.0,Brazil,Rio de Janerio,576,5.5,0.0,Very Low,False
+577,E04267,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28,2019-03-06,90304,0.0,United States,Chicago,577,7.4,0.0,Very Low,False
+578,E00784,Ella Nguyen,Service Desk Analyst,IT,Corporate,Female,Asian,60,2004-02-10,90258,0.0,China,Chongqing,578,22.4,0.0,Very Low,False
+579,E04817,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,Female,Latino,53,2004-12-23,90212,0.0,Brazil,Sao Paulo,579,21.6,0.0,Very Low,False
+580,E02960,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,2018-03-10,90040,0.0,United States,Chicago,580,8.4,0.0,Very Low,False
+581,E04800,Eli Han,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40,2016-01-15,89984,0.0,China,Chengdu,581,10.5,0.0,Very Low,False
+582,E04487,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45,2020-06-17,89841,0.0,China,Beijing,582,6.1,0.0,Very Low,False
+583,E02024,Amelia Bell,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53,2017-08-05,89769,0.0,United States,Seattle,583,9.0,0.0,Very Low,True
+584,E02031,Melody Cooper,Development Engineer,Engineering,Research & Development,Female,Caucasian,44,2009-09-04,89695,0.0,United States,Austin,584,16.9,0.0,Very Low,False
+585,E04032,Emery Zhang,Field Engineer,Engineering,Corporate,Female,Asian,45,2012-02-28,89659,0.0,China,Beijing,585,14.4,0.0,Very Low,False
+586,E03799,Natalie Hwang,Sr. Analyst,Finance,Speciality Products,Female,Asian,63,1999-12-31,89523,0.0,United States,Phoenix,586,26.6,0.0,Very Low,False
+587,E02848,Emma Brooks,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30,2016-12-18,89458,0.0,United States,Austin,587,9.6,0.0,Very Low,True
+588,E01377,Grayson Luu,Quality Engineer,Engineering,Research & Development,Male,Asian,55,2011-04-30,89419,0.0,China,Shanghai,588,15.2,0.0,Very Low,False
+589,E04095,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38,2020-07-24,89390,0.0,United States,Seattle,589,6.0,0.0,Very Low,True
+590,E02943,Bella Lopez,Sr. Analyst,Marketing,Corporate,Female,Latino,32,2013-11-12,88895,0.0,United States,Chicago,590,12.7,0.0,Very Low,False
+591,E04547,Avery Grant,Enterprise Architect,IT,Research & Development,Female,Caucasian,49,2014-03-05,88777,0.0,United States,Chicago,591,12.4,0.0,Very Low,False
+592,E04458,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,2021-10-02,88758,0.0,United States,Seattle,592,4.8,0.0,Very Low,False
+593,E01611,Gabriella Zhu,Computer Systems Manager,IT,Speciality Products,Female,Asian,36,2014-11-29,88730,0.08,China,Chongqing,593,11.6,70.98,Very Low,False
+594,E04799,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30,2017-01-26,88663,0.0,United States,Phoenix,594,9.5,0.0,Very Low,False
+595,E02217,William Phillips,Network Architect,IT,Corporate,Male,Black,61,2004-01-27,88478,0.0,United States,Austin,595,22.5,0.0,Very Low,False
+596,E04108,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,Female,Latino,33,2012-05-14,88343,0.0,Brazil,Rio de Janerio,596,14.2,0.0,Very Low,False
+597,E03438,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52,2020-07-10,88272,0.0,Brazil,Sao Paulo,597,6.0,0.0,Very Low,False
+598,E03402,Isaac Liu,Field Engineer,Engineering,Manufacturing,Male,Asian,60,1992-10-13,88213,0.0,China,Chongqing,598,33.8,0.0,Very Low,False
+599,E02035,Eli Rahman,Service Desk Analyst,IT,Manufacturing,Male,Asian,45,2010-03-16,88182,0.0,China,Chengdu,599,16.3,0.0,Very Low,False
+600,E04931,Zoe Romero,Network Architect,IT,Manufacturing,Female,Latino,32,2021-10-05,88072,0.0,Brazil,Sao Paulo,600,4.8,0.0,Very Low,False
+601,E00306,Piper Patterson,Quality Engineer,Engineering,Corporate,Female,Caucasian,45,2019-06-19,88045,0.0,United States,Chicago,601,7.1,0.0,Very Low,True
+602,E02848,Lincoln Huynh,System Administrator ,IT,Research & Development,Male,Asian,55,2016-11-09,87851,0.0,China,Chongqing,602,9.7,0.0,Very Low,True
+603,E04639,Luna Taylor,Network Administrator,IT,Manufacturing,Female,Caucasian,47,2018-07-28,87806,0.0,United States,Seattle,603,8.0,0.0,Very Low,False
+604,E02903,Robert Vazquez,System Administrator ,IT,Corporate,Male,Latino,40,2021-09-26,87770,0.0,United States,Austin,604,4.8,0.0,Very Low,False
+605,E03359,Autumn Ortiz,Field Engineer,Engineering,Research & Development,Female,Latino,30,2017-12-17,87744,0.0,Brazil,Sao Paulo,605,8.6,0.0,Very Low,False
+606,E00697,Jonathan Chavez,System Administrator ,IT,Manufacturing,Male,Latino,29,2017-05-11,87536,0.0,United States,Seattle,606,9.2,0.0,Very Low,False
+607,E01760,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,2021-02-09,87427,0.0,Brazil,Sao Paulo,607,5.4,0.0,Very Low,False
+608,E00276,Kennedy Romero,Engineering Manager,Engineering,Research & Development,Female,Latino,37,2018-12-27,87359,0.11,Brazil,Rio de Janerio,608,7.6,96.09,Very Low,True
+609,E01966,Thomas Williams,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45,2015-11-21,87292,0.0,United States,Columbus,609,10.7,0.0,Very Low,False
+610,E03908,Miles Evans,Network Architect,IT,Manufacturing,Male,Caucasian,54,1994-10-24,87216,0.0,United States,Miami,610,31.7,0.0,Very Low,False
+611,E04167,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48,2005-04-12,87158,0.0,Brazil,Manaus,611,21.3,0.0,Very Low,False
+612,E03364,Audrey Lee,Development Engineer,Engineering,Speciality Products,Female,Asian,51,2017-02-11,87036,0.0,China,Chongqing,612,9.4,0.0,Very Low,False
+613,E04474,Mila Hong,Test Engineer,Engineering,Research & Development,Female,Asian,30,2017-05-22,86858,0.0,China,Chongqing,613,9.2,0.0,Very Low,False
+614,E04387,Everleigh White,Network Architect,IT,Speciality Products,Female,Caucasian,59,2017-10-20,86831,0.0,United States,Phoenix,614,8.7,0.0,Very Low,False
+615,E02770,Liliana Do,Service Desk Analyst,IT,Manufacturing,Female,Asian,30,2019-03-29,86774,0.0,China,Chengdu,615,7.3,0.0,Very Low,True
+616,E01533,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,49,1996-05-15,86658,0.0,United States,Phoenix,616,30.2,0.0,Very Low,False
+617,E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,2021-01-10,86538,0.0,China,Chengdu,617,5.5,0.0,Very Low,True
+618,E00181,Genesis Hu,Sr. Analyst,Marketing,Corporate,Female,Asian,46,2002-01-15,86510,0.0,China,Beijing,618,24.5,0.0,Very Low,False
+619,E03292,Cora Evans,Computer Systems Manager,IT,Speciality Products,Female,Black,45,2018-03-26,86478,0.06,United States,Austin,619,8.3,51.89,Very Low,False
+620,E01242,Emery Doan,Controls Engineer,Engineering,Corporate,Female,Asian,25,2021-06-23,86464,0.0,China,Shanghai,620,5.1,0.0,Very Low,False
+621,E03567,Silas Chavez,Technical Architect,IT,Research & Development,Male,Latino,51,2008-04-15,86431,0.0,United States,Columbus,621,18.3,0.0,Very Low,False
+622,E03890,Everett Khan,Solutions Architect,IT,Manufacturing,Male,Asian,43,2017-01-18,86417,0.0,United States,Chicago,622,9.5,0.0,Very Low,True
+623,E01754,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30,2017-05-29,86317,0.0,China,Chengdu,623,9.1,0.0,Very Low,False
+624,E00665,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55,1998-09-03,86299,0.0,United States,Seattle,624,27.9,0.0,Very Low,False
+625,E04538,Adeline Yang,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53,2011-07-20,86173,0.0,China,Chongqing,625,15.0,0.0,Very Low,False
+626,E03941,Isla Han,Technical Architect,IT,Manufacturing,Female,Asian,58,2005-06-18,86089,0.0,United States,Chicago,626,21.1,0.0,Very Low,False
+627,E03904,Hunter Ortiz,Sr. Analyst,Finance,Corporate,Male,Latino,46,2013-01-20,86061,0.0,Brazil,Rio de Janerio,627,13.5,0.0,Very Low,False
+628,E02284,Josephine Salazar,Field Engineer,Engineering,Speciality Products,Female,Latino,36,2016-03-14,85870,0.0,Brazil,Sao Paulo,628,10.3,0.0,Very Low,False
+629,E03430,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48,1998-04-22,85369,0.0,Brazil,Manaus,629,28.3,0.0,Very Low,False
+630,E00436,Lincoln Reyes,Computer Systems Manager,IT,Manufacturing,Male,Latino,60,1998-08-03,85120,0.09,United States,Seattle,630,28.0,76.61,Very Low,True
+631,E02832,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26,2019-09-27,84913,0.07,United States,Chicago,631,6.8,59.44,Very Low,False
+632,E01258,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29,2018-12-10,84596,0.0,United States,Miami,632,7.6,0.0,Very Low,False
+633,E00494,Robert Alvarez,Service Desk Analyst,IT,Corporate,Male,Latino,39,2016-10-21,84297,0.0,Brazil,Manaus,633,9.7,0.0,Very Low,False
+634,E00965,Jacob Khan,Computer Systems Manager,IT,Speciality Products,Male,Asian,53,2008-02-09,84193,0.09,China,Shanghai,634,18.4,75.77,Very Low,False
+635,E01797,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,2018-12-22,83990,0.0,United States,Chicago,635,7.6,0.0,Very Low,False
+636,E04290,Hannah Gomez,Technical Architect,IT,Manufacturing,Female,Latino,25,2021-05-11,83934,0.0,United States,Miami,636,5.2,0.0,Very Low,False
+637,E02838,Julia Pham,Engineering Manager,Engineering,Speciality Products,Female,Asian,65,2006-03-16,83756,0.14,China,Shanghai,637,20.3,117.26,Very Low,False
+638,E02720,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,Male,Asian,59,1997-03-13,83685,0.0,China,Beijing,638,29.4,0.0,Very Low,False
+639,E01499,Elias Zhang,Solutions Architect,IT,Research & Development,Male,Asian,54,2013-07-13,83639,0.0,China,Beijing,639,13.0,0.0,Very Low,True
+640,E03332,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50,2021-09-06,83418,0.0,China,Shanghai,640,4.9,0.0,Very Low,False
+641,E00144,Theodore Ngo,Controls Engineer,Engineering,Research & Development,Male,Asian,55,2018-04-29,83378,0.0,China,Beijing,641,8.2,0.0,Very Low,False
+642,E04035,Penelope Johnson,Sr. Analyst,Marketing,Research & Development,Female,Caucasian,34,2012-06-25,83066,0.0,United States,Chicago,642,14.1,0.0,Very Low,True
+643,E04242,Alice Lopez,Test Engineer,Engineering,Speciality Products,Female,Latino,48,2009-06-27,82907,0.0,United States,Seattle,643,17.1,0.0,Very Low,False
+644,E01417,Leah Pena,Enterprise Architect,IT,Corporate,Female,Latino,57,1994-01-03,82872,0.0,Brazil,Manaus,644,32.6,0.0,Very Low,False
+645,E02855,Piper Cheng,Enterprise Architect,IT,Manufacturing,Female,Asian,62,2009-03-15,82839,0.0,United States,Miami,645,17.3,0.0,Very Low,False
+646,E03830,Madison Her,Technical Architect,IT,Speciality Products,Female,Asian,56,1996-06-22,82806,0.0,United States,Seattle,646,30.1,0.0,Very Low,True
+647,E00488,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,2021-07-03,82739,0.0,United States,Phoenix,647,5.0,0.0,Very Low,False
+648,E00099,Brooklyn Salazar,IT Systems Architect,IT,Manufacturing,Female,Latino,44,2011-03-01,82462,0.0,United States,Austin,648,15.4,0.0,Very Low,False
+649,E03429,Ian Wu,Sr. Analyst,Marketing,Manufacturing,Male,Asian,51,2012-04-14,82300,0.0,China,Chengdu,649,14.3,0.0,Very Low,False
+650,E01638,Maria He,IT Systems Architect,IT,Corporate,Female,Asian,45,2010-08-28,82162,0.0,China,Beijing,650,15.9,0.0,Very Low,True
+651,E01484,Anna Zhu,Service Desk Analyst,IT,Manufacturing,Female,Asian,48,2003-08-22,82017,0.0,China,Beijing,651,22.9,0.0,Very Low,False
+652,E04335,Parker Allen,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31,2018-08-13,81828,0.0,United States,Miami,652,7.9,0.0,Very Low,False
+653,E01019,Dominic Scott,Sr. Analyst,Sales,Corporate,Male,Caucasian,45,2011-03-16,81687,0.0,United States,Phoenix,653,15.3,0.0,Very Low,False
+654,E01479,Serenity Bailey,IT Systems Architect,IT,Manufacturing,Female,Caucasian,55,2011-11-21,81218,0.0,United States,Chicago,654,14.7,0.0,Very Low,False
+655,E02939,Julian Fong,Quality Engineer,Engineering,Speciality Products,Male,Asian,61,2002-11-22,80950,0.0,China,Chongqing,655,23.7,0.0,Very Low,False
+656,E02861,Daniel Perry,Enterprise Architect,IT,Research & Development,Male,Caucasian,62,2001-04-15,80921,0.0,United States,Columbus,656,25.3,0.0,Very Low,False
+657,E04369,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,2018-09-11,80745,0.0,United States,Chicago,657,7.8,0.0,Very Low,False
+658,E00467,Sofia Dinh,Operations Engineer,Engineering,Corporate,Female,Asian,55,1995-08-04,80701,0.0,United States,Chicago,658,31.0,0.0,Very Low,False
+659,E04005,Lincoln Wong,Sr. Analyst,Finance,Corporate,Male,Asian,49,2019-06-07,80700,0.0,United States,Columbus,659,7.1,0.0,Very Low,False
+660,E00956,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37,2020-03-08,80659,0.0,United States,Phoenix,660,6.4,0.0,Very Low,False
+661,E04598,Violet Garcia,Sr. Analyst,Marketing,Speciality Products,Female,Latino,35,2017-01-10,80622,0.0,United States,Austin,661,9.5,0.0,Very Low,False
+662,E02535,Caroline Perez,Controls Engineer,Engineering,Corporate,Female,Latino,29,2018-01-14,80516,0.0,Brazil,Sao Paulo,662,8.5,0.0,Very Low,False
+663,E03691,Colton Garcia,Solutions Architect,IT,Speciality Products,Male,Latino,55,1993-11-17,80170,0.0,United States,Miami,663,32.7,0.0,Very Low,False
+664,E04784,Joshua Lin,Technical Architect,IT,Research & Development,Male,Asian,37,2016-02-05,80055,0.0,China,Beijing,664,10.4,0.0,Very Low,False
+665,E03906,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,2008-01-27,80024,0.0,United States,Columbus,665,18.5,0.0,Very Low,False
+666,E02185,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male,Latino,32,2013-03-20,79921,0.05,United States,Austin,666,13.3,39.96,Very Low,True
+667,E01291,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,2021-02-10,79882,0.0,United States,Phoenix,667,5.4,0.0,Very Low,False
+668,E04265,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female,Latino,62,2006-10-12,79785,0.0,United States,Austin,668,19.8,0.0,Very Low,False
+669,E00508,Thomas Jung,Sr. Analyst,Accounting,Research & Development,Male,Asian,50,2009-10-23,79447,0.0,China,Shanghai,669,16.7,0.0,Very Low,False
+670,E00553,Isla Yoon,Quality Engineer,Engineering,Research & Development,Female,Asian,50,2013-05-10,79388,0.0,United States,Austin,670,13.2,0.0,Very Low,False
+671,E00178,Harper Alexander,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26,2019-10-14,79356,0.0,United States,Phoenix,671,6.8,0.0,Very Low,False
+672,E00371,Melody Grant,Quality Engineer,Engineering,Corporate,Female,Caucasian,41,2005-10-07,79352,0.0,United States,Seattle,672,20.8,0.0,Very Low,False
+673,E04285,Riley Padilla,Technical Architect,IT,Manufacturing,Female,Latino,35,2013-05-15,78940,0.0,United States,Miami,673,13.2,0.0,Very Low,False
+674,E03532,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,Male,Latino,56,2018-09-20,78938,0.14,United States,Phoenix,674,7.8,110.51,Very Low,False
+675,E03349,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,2020-01-05,78844,0.0,United States,Seattle,675,6.5,0.0,Very Low,True
+676,E02185,Aubrey Yoon,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,60,2005-11-11,78388,0.0,China,Chongqing,676,20.7,0.0,Very Low,True
+677,E04332,Ezra Simmons,Automation Engineer,Engineering,Speciality Products,Male,Caucasian,38,2010-07-01,78237,0.0,United States,Phoenix,677,16.1,0.0,Very Low,True
+678,E01363,Ayla Daniels,Technical Architect,IT,Corporate,Female,Caucasian,53,1997-04-23,78153,0.0,United States,Miami,678,29.2,0.0,Very Low,False
+679,E02555,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38,2008-07-05,78056,0.0,Brazil,Sao Paulo,679,18.0,0.0,Very Low,False
+680,E01090,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59,2009-12-23,78006,0.0,United States,Miami,680,16.6,0.0,Very Low,True
+681,E01834,Chloe Allen,Solutions Architect,IT,Manufacturing,Female,Caucasian,64,2004-07-08,77903,0.0,United States,Seattle,681,22.0,0.0,Very Low,False
+682,E04157,William Cao,Sr. Analyst,Marketing,Manufacturing,Male,Asian,63,2017-02-12,77629,0.0,China,Beijing,682,9.4,0.0,Very Low,False
+683,E01649,Eva Alvarado,Computer Systems Manager,IT,Manufacturing,Female,Latino,46,2017-04-24,77461,0.09,Brazil,Sao Paulo,683,9.2,69.71,Very Low,False
+684,E02856,Amelia Kaur,Operations Engineer,Engineering,Research & Development,Female,Asian,30,2015-11-14,77442,0.0,United States,Columbus,684,10.7,0.0,Very Low,False
+685,E04927,Ezekiel Bryant,Sr. Analyst,Finance,Manufacturing,Male,Caucasian,55,2002-07-19,77396,0.0,United States,Miami,685,24.0,0.0,Very Low,False
+686,E03838,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34,2018-06-13,77203,0.0,United States,Chicago,686,8.1,0.0,Very Low,False
+687,E02192,Lucy Avila,Solutions Architect,IT,Speciality Products,Female,Latino,43,2010-04-22,76912,0.0,Brazil,Sao Paulo,687,16.2,0.0,Very Low,False
+688,E03689,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62,2003-04-22,76906,0.0,United States,Seattle,688,23.2,0.0,Very Low,False
+689,E00145,Alexander Rivera,Sr. Analyst,Sales,Research & Development,Male,Latino,58,2009-04-27,76802,0.0,Brazil,Manaus,689,17.2,0.0,Very Low,True
+690,E00431,Eliza Hernandez,Network Architect,IT,Corporate,Female,Latino,48,2019-07-04,76588,0.0,Brazil,Rio de Janerio,690,7.0,0.0,Very Low,True
+691,E01429,Dylan Wilson,Network Administrator,IT,Research & Development,Male,Caucasian,48,2006-09-27,76505,0.0,United States,Seattle,691,19.8,0.0,Very Low,False
+692,E02966,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,2002-05-23,76354,0.0,United States,Phoenix,692,24.2,0.0,Very Low,False
+693,E04466,Connor Bell,Network Administrator,IT,Corporate,Male,Black,54,2000-04-01,76352,0.0,United States,Austin,693,26.3,0.0,Very Low,False
+694,E02877,Mila Allen,Controls Engineer,Engineering,Corporate,Female,Caucasian,56,2015-10-14,76272,0.0,United States,Miami,694,10.8,0.0,Very Low,False
+695,E01591,Paisley Trinh,Technical Architect,IT,Corporate,Female,Asian,57,1992-05-04,76202,0.0,United States,Austin,695,34.2,0.0,Very Low,False
+696,E00747,Leilani Baker,Technical Architect,IT,Speciality Products,Female,Caucasian,59,2010-04-04,76027,0.0,United States,Seattle,696,16.3,0.0,Very Low,False
+697,E00900,Eleanor Delgado,Sr. Analyst,Marketing,Manufacturing,Female,Latino,33,2014-04-27,75869,0.0,Brazil,Sao Paulo,697,12.2,0.0,Very Low,False
+698,E02258,Eliza Chen,Enterprise Architect,IT,Research & Development,Female,Asian,36,2016-04-29,75862,0.0,United States,Austin,698,10.2,0.0,Very Low,False
+699,E03717,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,Male,Latino,45,2002-02-26,75819,0.0,Brazil,Sao Paulo,699,24.4,0.0,Very Low,False
+700,E03595,Christopher Howard,Enterprise Architect,IT,Speciality Products,Male,Caucasian,61,2019-08-26,75780,0.0,United States,Seattle,700,6.9,0.0,Very Low,False
+701,E00634,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,Female,Latino,53,2017-01-09,75769,0.0,Brazil,Manaus,701,9.5,0.0,Very Low,False
+702,E01286,Liam Sanders,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46,2007-02-20,75579,0.0,United States,Seattle,702,19.4,0.0,Very Low,True
+703,E00592,Josephine Richardson,System Administrator ,IT,Manufacturing,Female,Caucasian,57,1996-02-18,75354,0.0,United States,Austin,703,30.4,0.0,Very Low,False
+704,E02121,Levi Brown,Sr. Analyst,Sales,Corporate,Male,Black,36,2021-12-26,75119,0.0,United States,Chicago,704,4.6,0.0,Very Low,False
+705,E00608,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29,2019-11-09,75012,0.0,United States,Chicago,705,6.7,0.0,Very Low,False
+706,E00701,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45,2019-04-26,74891,0.0,Brazil,Rio de Janerio,706,7.2,0.0,High,False
+707,E04535,Charlotte Vo,System Administrator ,IT,Speciality Products,Female,Asian,57,2014-01-10,74854,0.0,United States,Seattle,707,12.5,0.0,High,False
+708,E02259,Emily Lau,Sr. Analyst,Finance,Manufacturing,Female,Asian,35,2019-03-18,74779,0.0,United States,Phoenix,708,7.3,0.0,High,False
+709,E04735,Nova Coleman,System Administrator ,IT,Manufacturing,Female,Caucasian,44,2006-12-13,74738,0.0,United States,Miami,709,19.6,0.0,High,False
+710,E00502,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44,2019-01-02,74691,0.0,Brazil,Manaus,710,7.5,0.0,High,False
+711,E03988,Dominic Thomas,Analyst II,Marketing,Manufacturing,Male,Caucasian,48,2005-09-28,74655,0.0,United States,Austin,711,20.8,0.0,High,False
+712,E00555,Christian Ali,Analyst II,Marketing,Research & Development,Male,Asian,65,2001-10-17,74631,0.0,China,Chongqing,712,24.8,0.0,High,True
+713,E04449,Miles Hsu,Analyst II,Finance,Research & Development,Male,Asian,55,2014-03-16,74552,0.0,China,Chengdu,713,12.3,0.0,High,False
+714,E02875,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,2007-01-09,74546,0.09,United States,Seattle,714,19.5,67.09,High,False
+715,E01339,Jeremiah Hernandez,Network Engineer,IT,Manufacturing,Male,Latino,26,2019-04-14,74467,0.0,United States,Columbus,715,7.3,0.0,High,False
+716,E04136,Mason Cao,Analyst II,Finance,Corporate,Male,Asian,52,2017-09-14,74449,0.0,China,Beijing,716,8.8,0.0,High,False
+717,E01091,Carter Reed,Development Engineer,Engineering,Manufacturing,Male,Black,40,2005-07-07,74412,0.0,United States,Seattle,717,21.0,0.0,High,False
+718,E01711,Benjamin Ford,Analyst II,Finance,Speciality Products,Male,Caucasian,31,2021-04-22,74215,0.0,United States,Phoenix,718,5.2,0.0,High,False
+719,E03149,Layla Collins,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26,2021-03-11,74170,0.0,United States,Austin,719,5.4,0.0,High,False
+720,E04477,Connor Grant,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27,2021-10-13,74077,0.0,United States,Seattle,720,4.8,0.0,High,False
+721,E00538,Caleb Xiong,Sr. Account Representative,Sales,Corporate,Male,Asian,38,2011-11-28,74010,0.0,United States,Chicago,721,14.6,0.0,High,False
+722,E01103,Lyla Alvarez,IT Systems Architect,IT,Research & Development,Female,Latino,55,1994-08-30,73955,0.0,United States,Phoenix,722,31.9,0.0,High,False
+723,E02313,Jeremiah Lu,Network Architect,IT,Manufacturing,Male,Asian,50,2001-03-06,73907,0.0,China,Shanghai,723,25.4,0.0,High,False
+724,E02428,Connor Luu,Computer Systems Manager,IT,Speciality Products,Male,Asian,35,2016-05-03,73899,0.05,China,Chengdu,724,10.2,36.95,High,False
+725,E02744,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31,2015-12-09,73854,0.0,United States,Seattle,725,10.6,0.0,High,False
+726,E02492,Sebastian Gupta,Sr. Analyst,Marketing,Corporate,Male,Asian,40,2014-09-22,73779,0.0,China,Chongqing,726,11.8,0.0,High,True
+727,E00813,Autumn Joseph,Enterprise Architect,IT,Corporate,Female,Black,39,2018-05-09,73317,0.0,United States,Miami,727,8.2,0.0,High,False
+728,E01499,Liam Jordan,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28,2020-08-08,73255,0.09,United States,Phoenix,728,5.9,65.93,High,True
+729,E04222,Quinn Xiong,Test Engineer,Engineering,Research & Development,Female,Asian,55,2013-09-08,73248,0.0,United States,Columbus,729,12.9,0.0,High,False
+730,E02613,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,2018-03-12,73200,0.0,China,Shanghai,730,8.4,0.0,High,True
+731,E03560,Ayla Ng,Account Representative,Sales,Manufacturing,Female,Asian,46,2004-03-20,73004,0.0,China,Beijing,731,22.3,0.0,High,False
+732,E00667,Skylar Shah,Field Engineer,Engineering,Manufacturing,Female,Asian,42,2012-04-27,72903,0.0,United States,Phoenix,732,14.2,0.0,High,False
+733,E03090,Penelope Choi,Technical Architect,IT,Speciality Products,Female,Asian,49,2010-09-10,72826,0.0,China,Beijing,733,15.9,0.0,High,False
+734,E01268,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63,2007-05-02,72805,0.0,China,Shanghai,734,19.2,0.0,High,False
+735,E04925,Athena Jordan,System Administrator ,IT,Manufacturing,Female,Black,42,2011-02-19,72486,0.0,United States,Seattle,735,15.4,0.0,High,False
+736,E03273,Daniel Shah,Analyst II,Sales,Research & Development,Male,Asian,41,2010-06-04,72425,0.0,China,Beijing,736,16.1,0.0,High,False
+737,E03170,Autumn Thao,Account Representative,Sales,Manufacturing,Female,Asian,63,2017-09-26,72340,0.0,United States,Phoenix,737,8.8,0.0,High,False
+738,E04224,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56,1998-01-21,72303,0.0,United States,Phoenix,738,28.5,0.0,High,False
+739,E00078,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,2021-04-11,72235,0.0,Brazil,Manaus,739,5.3,0.0,High,False
+740,E04853,Vivian Chu,Sr. Account Representative,Sales,Research & Development,Female,Asian,46,2021-01-17,72131,0.0,China,Shanghai,740,5.5,0.0,High,False
+741,E03805,Autumn Gonzales,Analyst II,Sales,Corporate,Female,Latino,34,2012-06-06,72126,0.0,Brazil,Manaus,741,14.1,0.0,High,False
+742,E00126,Isabella Scott,Network Administrator,IT,Research & Development,Female,Caucasian,58,2016-04-26,72045,0.0,United States,Phoenix,742,10.2,0.0,High,False
+743,E00527,Mateo Chu,Field Engineer,Engineering,Speciality Products,Male,Asian,27,2020-04-16,71864,0.0,China,Chengdu,743,6.3,0.0,High,False
+744,E02103,Andrew Ma,HRIS Analyst,Human Resources,Corporate,Male,Asian,31,2017-09-24,71755,0.0,China,Chongqing,744,8.8,0.0,High,False
+745,E04379,Scarlett Rodriguez,Sr. Analyst,Finance,Manufacturing,Female,Latino,60,2007-02-24,71699,0.0,Brazil,Manaus,745,19.4,0.0,High,False
+746,E03824,Jameson Martin,Technical Architect,IT,Corporate,Male,Caucasian,37,2008-02-15,71695,0.0,United States,Phoenix,746,18.4,0.0,High,True
+747,E01413,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,Female,Black,60,1997-07-30,71677,0.0,United States,Columbus,747,29.0,0.0,High,False
+748,E00417,Athena Carrillo,Analyst II,Finance,Speciality Products,Female,Latino,39,2006-04-06,71531,0.0,United States,Columbus,748,20.3,0.0,High,False
+749,E03720,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,2012-10-17,71476,0.0,United States,Phoenix,749,13.8,0.0,High,True
+750,E03465,Harper Phan,Analyst II,Finance,Manufacturing,Female,Asian,45,2016-12-07,71454,0.0,China,Shanghai,750,9.6,0.0,High,False
+751,E04288,Ella White,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25,2020-01-20,71359,0.0,United States,Phoenix,751,6.5,0.0,High,False
+752,E01898,Oliver Moua,IT Systems Architect,IT,Corporate,Male,Asian,29,2021-06-28,71234,0.0,United States,Seattle,752,5.1,0.0,High,False
+753,E04378,Ezra Simmons,Network Administrator,IT,Manufacturing,Male,Black,31,2016-05-07,71192,0.0,United States,Austin,753,10.2,0.0,High,False
+754,E02190,Gabriel Carter,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57,2018-07-18,71167,0.0,United States,Columbus,754,8.0,0.0,High,False
+755,E02047,Xavier Perez,Sr. Analyst,Sales,Manufacturing,Male,Latino,51,1998-02-26,71111,0.0,Brazil,Rio de Janerio,755,28.4,0.0,High,False
+756,E01631,Leilani Yee,Sr. Analyst,Marketing,Speciality Products,Female,Asian,47,2017-07-12,70996,0.0,China,Chengdu,756,9.0,0.0,High,False
+757,E00170,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35,2019-09-07,70992,0.0,United States,Austin,757,6.9,0.0,High,True
+758,E02063,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,2021-04-09,70980,0.0,Brazil,Rio de Janerio,758,5.3,0.0,High,False
+759,E00245,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64,1992-09-28,70778,0.0,United States,Austin,759,33.8,0.0,High,True
+760,E03018,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian,37,2017-09-17,70770,0.0,United States,Miami,760,8.8,0.0,High,False
+761,E00386,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45,2005-02-05,70505,0.0,United States,Austin,761,21.5,0.0,High,False
+762,E02072,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,2021-03-12,70369,0.0,United States,Seattle,762,5.3,0.0,High,False
+763,E00319,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55,2013-10-18,70334,0.0,United States,Miami,763,12.8,0.0,High,False
+764,E02378,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian,58,1995-10-27,70189,0.0,United States,Columbus,764,30.7,0.0,High,False
+765,E00825,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino,41,2016-06-12,70165,0.0,United States,Columbus,765,10.1,0.0,High,False
+766,E01724,Nolan Molina,Computer Systems Manager,IT,Corporate,Male,Latino,36,2020-12-27,70165,0.07,Brazil,Manaus,765,5.6,49.12,High,False
+767,E01132,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black,47,2002-10-21,70122,0.0,United States,Columbus,767,23.8,0.0,High,True
+768,E01820,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black,27,2019-05-28,70110,0.0,United States,Miami,768,7.1,0.0,High,False
+769,E03440,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41,2009-04-28,69803,0.0,Brazil,Manaus,769,17.2,0.0,High,False
+770,E02642,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38,2019-11-29,69647,0.0,United States,Miami,770,6.6,0.0,High,False
+771,E04811,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino,59,2014-09-16,69578,0.0,Brazil,Rio de Janerio,771,11.8,0.0,High,False
+772,E04877,Samuel Vega,Analyst II,Marketing,Speciality Products,Male,Latino,37,2013-03-30,69570,0.0,United States,Miami,772,13.3,0.0,High,False
+773,E02283,Jaxon Park,Network Architect,IT,Manufacturing,Male,Asian,33,2020-07-24,69453,0.0,China,Chengdu,773,6.0,0.0,High,False
+774,E03370,Ian Cortez,Analyst II,Marketing,Research & Development,Male,Latino,61,2008-04-30,69352,0.0,Brazil,Rio de Janerio,774,18.2,0.0,High,False
+775,E00869,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33,2017-10-21,69332,0.0,United States,Columbus,775,8.7,0.0,High,False
+776,E00523,Daniel Jordan,Network Administrator,IT,Corporate,Male,Caucasian,58,1993-07-26,69260,0.0,United States,Phoenix,776,33.0,0.0,High,False
+777,E04174,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26,2019-07-10,69110,0.05,United States,Chicago,777,7.0,34.56,High,False
+778,E00870,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,Female,Asian,40,2013-06-26,69096,0.0,United States,Seattle,778,13.1,0.0,High,False
+779,E04732,Benjamin Ramirez,Network Engineer,IT,Research & Development,Male,Latino,48,2005-07-27,68987,0.0,United States,Chicago,779,21.0,0.0,High,True
+780,E00824,Everleigh Adams,Analyst II,Marketing,Manufacturing,Female,Caucasian,33,2020-03-14,68846,0.0,United States,Chicago,780,6.3,0.0,High,False
+781,E02977,Nicholas Song,Analyst II,Marketing,Manufacturing,Male,Asian,52,1999-05-23,68807,0.0,China,Chengdu,781,27.2,0.0,High,False
+782,E00415,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black,27,2021-09-21,68728,0.0,United States,Phoenix,782,4.8,0.0,High,False
+783,E00422,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino,47,2015-08-29,68488,0.0,United States,Seattle,783,10.9,0.0,High,False
+784,E03354,Silas Estrada,IT Systems Architect,IT,Corporate,Male,Latino,49,2016-06-24,68426,0.0,Brazil,Rio de Janerio,784,10.1,0.0,High,True
+785,E00555,Sofia Trinh,Network Architect,IT,Speciality Products,Female,Asian,45,2006-12-18,68337,0.0,China,Chongqing,785,19.6,0.0,High,True
+786,E00521,Lily Carter,Network Architect,IT,Research & Development,Female,Caucasian,54,1998-05-18,68268,0.0,United States,Phoenix,786,28.2,0.0,High,False
+787,E03540,Emma Perry,Solutions Architect,IT,Manufacturing,Female,Caucasian,28,2018-01-22,68176,0.0,United States,Seattle,787,8.5,0.0,High,False
+788,E03981,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63,2018-05-07,67987,0.0,United States,Miami,788,8.2,0.0,High,False
+789,E03255,Jose Brown,System Administrator ,IT,Speciality Products,Male,Caucasian,43,2016-04-07,67976,0.0,United States,Seattle,789,10.3,0.0,High,False
+790,E00443,Nolan Bui,Computer Systems Manager,IT,Research & Development,Male,Asian,28,2020-05-26,67925,0.08,China,Shanghai,790,6.1,54.34,High,False
+791,E01985,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black,65,2000-09-29,67837,0.0,United States,Austin,791,25.8,0.0,High,False
+792,E01416,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black,30,2020-10-20,67753,0.0,United States,Phoenix,792,5.7,0.0,High,False
+793,E01941,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian,42,2010-05-09,67743,0.0,China,Beijing,793,16.2,0.0,High,False
+794,E02094,Matthew Gupta,Network Engineer,IT,Speciality Products,Male,Asian,45,2005-09-18,67686,0.0,China,Beijing,794,20.8,0.0,High,False
+795,E03058,Robert Wright,Technical Architect,IT,Manufacturing,Male,Caucasian,30,2015-06-14,67489,0.0,United States,Chicago,795,11.1,0.0,High,True
+796,E04079,Christopher Butler,Network Architect,IT,Manufacturing,Male,Caucasian,41,2017-10-05,67468,0.0,United States,Miami,796,8.8,0.0,High,False
+797,E03807,Kennedy Do,Computer Systems Manager,IT,Manufacturing,Female,Asian,42,2005-10-15,67398,0.07,United States,Phoenix,797,20.8,47.18,High,True
+798,E01281,Isaac Mitchell,Network Architect,IT,Speciality Products,Male,Black,46,2005-06-10,67374,0.0,United States,Austin,798,21.1,0.0,High,False
+799,E03637,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25,2021-01-21,67299,0.0,United States,Phoenix,799,5.5,0.0,High,False
+800,E02696,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25,2021-07-08,67275,0.0,United States,Columbus,800,5.0,0.0,High,False
+801,E03064,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian,31,2020-02-17,67171,0.0,China,Chongqing,801,6.4,0.0,High,False
+802,E04128,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55,2021-08-02,67130,0.0,United States,Miami,802,5.0,0.0,High,False
+803,E01684,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64,2019-03-03,67114,0.0,United States,Phoenix,803,7.4,0.0,High,False
+804,E00929,Allison Espinoza,Solutions Architect,IT,Speciality Products,Female,Latino,45,2020-04-16,66958,0.0,United States,Miami,804,6.3,0.0,High,False
+805,E04207,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino,35,2011-05-15,66889,0.0,United States,Columbus,805,15.2,0.0,High,False
+806,E02216,Caleb Marquez,IT Systems Architect,IT,Research & Development,Male,Latino,29,2019-10-15,66819,0.0,Brazil,Rio de Janerio,806,6.8,0.0,High,False
+807,E03278,Nevaeh James,Solutions Architect,IT,Speciality Products,Female,Caucasian,45,2017-11-03,66660,0.0,United States,Austin,807,8.7,0.0,High,True
+808,E02917,Everett Morales,Solutions Architect,IT,Speciality Products,Male,Latino,57,2014-07-10,66649,0.0,Brazil,Rio de Janerio,808,12.0,0.0,High,False
+809,E01994,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61,2008-07-11,66521,0.0,United States,Seattle,809,18.0,0.0,High,False
+810,E03648,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black,26,2019-08-21,66084,0.0,United States,Seattle,810,6.9,0.0,High,False
+811,E01496,Ava Ortiz,Enterprise Architect,IT,Manufacturing,Female,Latino,53,2004-07-20,65702,0.0,United States,Columbus,811,22.0,0.0,High,False
+812,E04308,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino,35,2017-05-23,65566,0.0,United States,Seattle,812,9.2,0.0,High,False
+813,E03404,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42,2021-02-05,65507,0.0,Brazil,Manaus,813,5.4,0.0,High,False
+814,E03881,Andrew Reed,System Administrator ,IT,Corporate,Male,Black,28,2019-06-17,65341,0.0,United States,Miami,814,7.1,0.0,High,False
+815,E04699,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian,48,2012-05-03,65340,0.0,China,Shanghai,815,14.2,0.0,High,False
+816,E02189,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino,29,2018-05-19,65334,0.0,Brazil,Rio de Janerio,816,8.2,0.0,High,False
+817,E02276,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian,32,2015-11-09,65247,0.0,United States,Phoenix,817,10.7,0.0,High,False
+818,E00725,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino,45,2014-05-10,65047,0.0,Brazil,Sao Paulo,818,12.2,0.0,High,False
+819,E03362,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61,2011-05-20,64937,0.0,United States,Phoenix,819,15.2,0.0,High,False
+820,E00935,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black,41,2016-09-13,64847,0.0,United States,Miami,820,9.8,0.0,High,False
+821,E04529,Gabriel Yu,Technical Architect,IT,Speciality Products,Male,Asian,42,2014-06-23,64677,0.0,China,Chongqing,821,12.1,0.0,High,False
+822,E00022,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian,62,2006-09-17,64669,0.0,China,Chongqing,822,19.8,0.0,High,False
+823,E04978,Peyton Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian,45,2009-04-05,64505,0.0,United States,Miami,823,17.3,0.0,High,False
+824,E00501,Melody Ho,Analyst II,Finance,Research & Development,Female,Asian,55,2007-12-02,64494,0.0,United States,Columbus,824,18.6,0.0,High,False
+825,E00816,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian,28,2021-10-08,64475,0.0,United States,Phoenix,825,4.8,0.0,High,False
+826,E04697,Eleanor Williams,Enterprise Architect,IT,Speciality Products,Female,Caucasian,61,2005-02-09,64462,0.0,United States,Chicago,826,21.4,0.0,High,False
+827,E02333,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,Male,Black,54,2010-12-28,64417,0.0,United States,Columbus,827,15.6,0.0,High,False
+828,E01075,Joshua Juarez,Analyst II,Finance,Manufacturing,Male,Latino,46,2015-05-05,64364,0.0,Brazil,Sao Paulo,828,11.2,0.0,High,False
+829,E02649,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino,27,2018-09-28,64247,0.0,Brazil,Rio de Janerio,829,7.8,0.0,High,False
+830,E00749,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian,37,2015-11-10,64204,0.0,United States,Columbus,830,10.7,0.0,High,False
+831,E00282,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino,58,2006-04-12,64202,0.0,United States,Columbus,831,20.3,0.0,High,False
+832,E01378,Genesis Xiong,System Administrator ,IT,Research & Development,Female,Asian,51,2012-02-25,64170,0.0,United States,Columbus,832,14.4,0.0,High,False
+833,E04917,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,2001-10-20,64057,0.0,United States,Phoenix,833,24.8,0.0,High,False
+834,E04972,Sophie Oh,Network Engineer,IT,Corporate,Female,Asian,29,2017-11-09,63985,0.0,United States,Miami,834,8.7,0.0,High,True
+835,E00465,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,2011-10-04,63959,0.0,United States,Seattle,835,14.8,0.0,High,True
+836,E03419,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian,47,2015-07-10,63880,0.0,China,Chongqing,836,11.0,0.0,High,False
+837,E01524,Ian Miller,Computer Systems Manager,IT,Corporate,Male,Black,31,2016-10-13,63744,0.08,United States,Austin,837,9.8,51.0,High,False
+838,E00647,Emily Gupta,HRIS Analyst,Human Resources,Corporate,Female,Asian,44,2006-02-23,63705,0.0,United States,Miami,838,20.4,0.0,High,True
+839,E01927,Charles Moore,Technical Architect,IT,Manufacturing,Male,Black,34,2016-02-16,63411,0.0,United States,Miami,839,10.4,0.0,High,False
+840,E00981,Miles Thao,System Administrator ,IT,Corporate,Male,Asian,57,2003-06-26,63318,0.0,United States,Columbus,840,23.1,0.0,High,False
+841,E02440,Grayson Turner,Solutions Architect,IT,Corporate,Male,Caucasian,54,1992-06-30,63196,0.0,United States,Chicago,841,34.1,0.0,High,False
+842,E02769,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian,26,2021-11-21,63137,0.0,United States,Chicago,842,4.7,0.0,High,True
+843,E01807,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50,2018-12-13,63098,0.0,United States,Columbus,843,7.6,0.0,High,True
+844,E02684,Aaron Maldonado,Analyst II,Finance,Manufacturing,Male,Latino,39,2008-09-17,62861,0.0,United States,Seattle,844,17.8,0.0,High,False
+845,E02627,Parker Avila,Analyst II,Marketing,Manufacturing,Male,Latino,47,2005-11-28,62749,0.0,Brazil,Manaus,845,20.6,0.0,High,False
+846,E00153,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39,2019-03-12,62644,0.0,United States,Seattle,846,7.4,0.0,High,False
+847,E00952,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,1996-03-29,62605,0.0,United States,Austin,847,30.3,0.0,High,True
+848,E04959,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56,2015-01-27,62575,0.0,United States,Miami,848,11.5,0.0,High,False
+849,E03863,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black,40,2009-05-27,62411,0.0,United States,Miami,849,17.1,0.0,High,False
+850,E00035,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43,2009-03-13,62335,0.0,Brazil,Manaus,850,17.4,0.0,High,False
+851,E03181,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian,60,2009-05-11,62239,0.0,China,Beijing,851,17.2,0.0,High,False
+852,E03685,Silas Hunter,Solutions Architect,IT,Corporate,Male,Black,55,1998-05-04,62174,0.0,United States,Chicago,852,28.2,0.0,High,False
+853,E01125,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian,34,2018-11-10,61944,0.0,China,Shanghai,853,7.7,0.0,High,False
+854,E01525,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,Female,Latino,32,2017-10-02,61886,0.09,Brazil,Rio de Janerio,854,8.8,55.7,High,True
+855,E01194,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,2013-04-22,61773,0.0,United States,Seattle,855,13.2,0.0,High,True
+856,E03902,Madison Hunter,Network Administrator,IT,Corporate,Female,Caucasian,40,2012-02-05,61523,0.0,United States,Columbus,856,14.5,0.0,High,False
+857,E03750,Jordan Cho,Analyst II,Accounting,Speciality Products,Male,Asian,28,2018-08-24,61410,0.0,United States,Phoenix,857,7.9,0.0,High,True
+858,E02274,Isabella Bailey,Network Administrator,IT,Manufacturing,Female,Caucasian,36,2010-08-23,61310,0.0,United States,Phoenix,858,15.9,0.0,High,False
+859,E01221,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino,48,2014-05-14,61216,0.0,United States,Seattle,859,12.2,0.0,High,False
+860,E01194,Ella Jenkins,Analyst II,Finance,Speciality Products,Female,Caucasian,52,2019-12-20,61026,0.0,United States,Phoenix,860,6.6,0.0,High,True
+861,E00836,Addison Roberts,Network Architect,IT,Manufacturing,Female,Caucasian,65,2018-05-14,60985,0.0,United States,Seattle,861,8.2,0.0,High,True
+862,E00994,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian,29,2016-11-17,60930,0.0,United States,Austin,862,9.7,0.0,High,False
+863,E03347,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian,35,2017-02-10,60132,0.0,China,Chongqing,863,9.4,0.0,High,False
+864,E03980,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian,45,2000-08-16,60113,0.0,United States,Chicago,864,25.9,0.0,High,False
+865,E01263,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino,36,2009-04-09,60055,0.0,United States,Seattle,865,17.3,0.0,High,False
+866,E04484,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian,45,2015-04-23,60017,0.0,United States,Chicago,866,11.2,0.0,High,False
+867,E04112,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian,43,2018-05-04,59888,0.0,China,Beijing,867,8.2,0.0,High,False
+868,E03262,Logan Mitchell,Analyst II,Marketing,Manufacturing,Male,Caucasian,65,2005-08-20,59833,0.0,United States,Columbus,868,20.9,0.0,High,False
+869,E00972,Amelia Salazar,Analyst II,Finance,Corporate,Female,Latino,26,2019-04-23,59817,0.0,Brazil,Sao Paulo,869,7.2,0.0,High,True
+870,E00758,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian,35,2013-08-30,59646,0.0,China,Shanghai,870,12.9,0.0,High,True
+871,E00788,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino,56,1992-06-15,59591,0.0,Brazil,Sao Paulo,871,34.1,0.0,High,False
+872,E03549,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian,30,2016-09-29,59100,0.0,China,Chongqing,872,9.8,0.0,High,False
+873,E01848,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black,46,2008-08-21,59067,0.0,United States,Miami,873,17.9,0.0,High,False
+874,E03578,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34,2018-03-10,58993,0.0,United States,Austin,874,8.4,0.0,High,False
+875,E01396,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian,43,2014-02-10,58875,0.0,China,Chengdu,875,12.4,0.0,High,False
+876,E04018,Emery Ford,Analyst II,Marketing,Corporate,Female,Caucasian,39,2017-04-18,58745,0.0,United States,Austin,876,9.2,0.0,High,False
+877,E01749,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian,29,2016-08-20,58703,0.0,United States,Columbus,877,9.9,0.0,High,False
+878,E04221,Roman King,Analyst II,Finance,Corporate,Male,Caucasian,60,2007-08-16,58671,0.0,United States,Columbus,878,18.9,0.0,High,False
+879,E00834,Vivian Guzman,Analyst II,Finance,Speciality Products,Female,Latino,53,2002-02-09,58605,0.0,United States,Phoenix,879,24.4,0.0,High,False
+880,E00577,Nora Nunez,Analyst II,Finance,Research & Development,Female,Latino,45,2012-08-06,58586,0.0,Brazil,Sao Paulo,880,14.0,0.0,High,False
+881,E03007,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian,54,1998-09-24,58006,0.0,United States,Seattle,881,27.8,0.0,High,False
+882,E04590,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49,2001-03-29,57606,0.0,United States,Miami,882,25.3,0.0,High,False
+883,E00412,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian,37,2010-04-23,57531,0.0,United States,Chicago,883,16.2,0.0,High,False
+884,E04444,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,Female,Latino,61,2014-08-10,57446,0.0,United States,Phoenix,884,11.9,0.0,High,False
+885,E04131,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian,40,2018-12-06,57225,0.0,United States,Columbus,885,7.6,0.0,High,True
+886,E04938,Brooklyn Daniels,Analyst,Marketing,Speciality Products,Female,Caucasian,64,2003-02-10,57032,0.0,United States,Miami,886,23.4,0.0,High,False
+887,E00254,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino,34,2015-06-27,57008,0.0,United States,Phoenix,887,11.1,0.0,High,False
+888,E00646,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian,49,2011-12-17,56878,0.0,United States,Seattle,888,14.6,0.0,High,False
+889,E04739,Ruby Washington,Analyst,Marketing,Research & Development,Female,Black,65,2011-06-17,56686,0.0,United States,Seattle,889,15.1,0.0,High,False
+890,E02968,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino,25,2020-07-12,56565,0.0,Brazil,Sao Paulo,890,6.0,0.0,High,False
+891,E01089,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian,43,2017-10-20,56555,0.0,United States,Phoenix,891,8.7,0.0,High,False
+892,E03000,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian,33,2021-01-22,56405,0.0,United States,Chicago,892,5.5,0.0,High,False
+893,E00184,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino,58,2010-04-19,56350,0.0,Brazil,Rio de Janerio,893,16.3,0.0,High,False
+894,E04636,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian,54,2021-03-16,56239,0.0,China,Chongqing,894,5.3,0.0,High,False
+895,E03520,Nolan Pena,Analyst,Marketing,Manufacturing,Male,Latino,30,2018-06-21,56154,0.0,Brazil,Sao Paulo,895,8.1,0.0,High,False
+896,E04600,William Vu,Account Representative,Sales,Speciality Products,Male,Asian,37,2013-11-14,56037,0.0,China,Shanghai,896,12.7,0.0,High,False
+897,E01844,Jayden Kang,Analyst,Finance,Research & Development,Male,Asian,46,2011-04-24,55894,0.0,United States,Seattle,897,15.2,0.0,High,False
+898,E00013,Elena Vang,Analyst,Finance,Corporate,Female,Asian,52,2019-02-19,55859,0.0,China,Beijing,898,7.4,0.0,High,True
+899,E04562,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31,2017-07-22,55854,0.0,United States,Austin,899,9.0,0.0,High,True
+900,E02153,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino,26,2019-01-24,55767,0.0,United States,Phoenix,900,7.5,0.0,High,False
+901,E00091,Emilia Chu,Analyst II,Finance,Manufacturing,Female,Asian,48,2003-06-24,55760,0.0,United States,Austin,901,23.1,0.0,High,False
+902,E00650,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian,45,2000-08-17,55563,0.0,China,Chengdu,902,25.9,0.0,High,False
+903,E04150,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian,54,2006-12-29,55518,0.0,United States,Columbus,903,19.6,0.0,High,False
+904,E00402,Dominic Guzman,Analyst,Finance,Manufacturing,Male,Latino,65,2004-05-16,55499,0.0,Brazil,Manaus,904,22.2,0.0,High,False
+905,E04887,Emery Do,Account Representative,Sales,Research & Development,Female,Asian,40,2018-03-16,55457,0.0,United States,Columbus,905,8.3,0.0,High,False
+906,E00116,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian,64,2005-01-28,55369,0.0,United States,Phoenix,906,21.5,0.0,High,False
+907,E02833,Adrian Fernandez,Systems Analyst,IT,Research & Development,Male,Latino,45,2001-08-23,54994,0.0,United States,Columbus,907,24.9,0.0,High,False
+908,E03880,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian,56,2019-12-25,54829,0.0,United States,Phoenix,908,6.6,0.0,High,False
+909,E02594,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian,28,2017-06-25,54775,0.0,United States,Columbus,909,9.1,0.0,High,False
+910,E00826,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian,55,2011-12-22,54733,0.0,China,Chongqing,910,14.6,0.0,High,False
+911,E00399,Connor Walker,Analyst II,Finance,Manufacturing,Male,Caucasian,30,2019-03-18,54714,0.0,United States,Columbus,911,7.3,0.0,High,False
+912,E00459,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black,48,2020-09-21,54654,0.0,United States,Phoenix,912,5.8,0.0,High,False
+913,E02295,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian,47,2013-02-28,54635,0.0,United States,Chicago,913,13.4,0.0,High,False
+914,E00436,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,2009-10-23,54415,0.0,United States,Seattle,914,16.7,0.0,High,True
+915,E03045,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian,57,1997-04-28,54051,0.0,United States,Miami,915,29.2,0.0,High,False
+916,E03694,Eli Reed,Systems Analyst,IT,Corporate,Male,Caucasian,51,2014-02-27,53929,0.0,United States,Miami,916,12.4,0.0,High,True
+917,E03042,Ava Nelson,Systems Analyst,IT,Manufacturing,Female,Caucasian,63,1992-04-01,53809,0.0,United States,Phoenix,917,34.3,0.0,High,False
+918,E03864,Ella Hunter,Analyst,Finance,Manufacturing,Female,Caucasian,51,2017-01-18,53799,0.0,United States,Columbus,918,9.5,0.0,High,False
+919,E01714,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44,2009-01-28,53301,0.0,United States,Seattle,919,17.5,0.0,High,False
+920,E01540,Miles Salazar,IT Coordinator,IT,Manufacturing,Male,Latino,36,2010-12-23,53215,0.0,Brazil,Sao Paulo,920,15.6,0.0,High,False
+921,E00311,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino,34,2016-10-21,52811,0.0,United States,Miami,921,9.7,0.0,High,False
+922,E00340,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian,56,2009-08-20,52800,0.0,United States,Phoenix,922,16.9,0.0,High,False
+923,E03166,Austin Edwards,IT Coordinator,IT,Manufacturing,Male,Black,42,2006-09-24,52733,0.0,United States,Chicago,923,19.8,0.0,High,False
+924,E01947,Sophie Owens,Analyst II,Finance,Research & Development,Female,Caucasian,30,2015-03-05,52697,0.0,United States,Seattle,924,11.4,0.0,High,False
+925,E02221,Julian Delgado,Systems Analyst,IT,Speciality Products,Male,Latino,29,2016-05-19,52693,0.0,Brazil,Rio de Janerio,925,10.2,0.0,High,False
+926,E03611,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45,2019-04-02,52621,0.0,China,Beijing,926,7.3,0.0,High,False
+927,E01261,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,2007-04-05,52310,0.0,United States,Miami,927,19.3,0.0,High,False
+928,E04358,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino,34,2015-08-03,52200,0.0,United States,Columbus,928,11.0,0.0,High,False
+929,E03547,Owen Han,Analyst,Accounting,Corporate,Male,Asian,28,2017-05-12,52069,0.0,China,Chongqing,929,9.2,0.0,High,False
+930,E03097,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45,2015-12-19,51983,0.0,United States,Columbus,930,10.6,0.0,High,False
+931,E04277,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian,60,2014-01-08,51877,0.0,China,Beijing,931,12.5,0.0,High,False
+932,E01687,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41,2007-10-24,51630,0.0,China,Beijing,932,18.7,0.0,High,False
+933,E04472,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black,35,2020-07-03,51513,0.0,United States,Columbus,933,6.0,0.0,High,False
+934,E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,2005-10-14,51404,0.0,Brazil,Manaus,934,20.8,0.0,High,True
+935,E03580,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino,39,2007-05-27,51234,0.0,United States,Seattle,935,19.2,0.0,High,False
+936,E00644,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian,57,2017-01-24,50994,0.0,China,Chongqing,936,9.5,0.0,High,False
+937,E03305,Cooper Jiang,Analyst II,Accounting,Corporate,Male,Asian,49,2019-07-25,50883,0.0,China,Chongqing,937,7.0,0.0,High,True
+938,E02632,Alice Soto,Analyst,Accounting,Corporate,Female,Latino,56,1995-04-13,50857,0.0,Brazil,Manaus,938,31.3,0.0,High,False
+939,E03325,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62,2004-10-11,50825,0.0,United States,Seattle,939,21.8,0.0,High,False
+940,E02337,Emma Cao,Analyst,Accounting,Corporate,Female,Asian,27,2019-08-24,50809,0.0,China,Chongqing,940,6.9,0.0,High,False
+941,E02803,Eli Soto,Analyst,Marketing,Speciality Products,Male,Latino,38,2016-05-02,50784,0.0,Brazil,Rio de Janerio,941,10.2,0.0,High,False
+942,E01052,Parker Vang,Analyst,Sales,Corporate,Male,Asian,40,2016-12-17,50733,0.0,United States,Miami,942,9.6,0.0,High,True
+943,E02628,Nora Nelson,Analyst II,Finance,Manufacturing,Female,Caucasian,41,2007-01-09,50685,0.0,United States,Columbus,943,19.5,0.0,High,False
+944,E00972,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,Female,Latino,52,2021-04-18,50548,0.0,Brazil,Sao Paulo,944,5.2,0.0,High,True
+945,E00941,Sophie Ali,Analyst,Finance,Manufacturing,Female,Asian,55,2002-03-28,50475,0.0,United States,Columbus,945,24.3,0.0,High,False
+946,E03300,Maria Chin,Analyst,Marketing,Manufacturing,Female,Asian,65,2013-09-26,50341,0.0,China,Beijing,946,12.8,0.0,High,False
+947,E04567,Madeline Hoang,Systems Analyst,IT,Research & Development,Female,Asian,28,2019-10-25,50111,0.0,China,Chengdu,947,6.7,0.0,High,False
+948,E01351,Leo Owens,Systems Analyst,IT,Corporate,Male,Caucasian,47,2020-04-23,50069,0.0,United States,Seattle,948,6.2,0.0,High,False
+949,E00671,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,2019-09-05,49998,0.0,United States,Seattle,949,6.9,0.0,Medium,True
+950,E01638,Elizabeth Huang,Analyst,Finance,Speciality Products,Female,Asian,62,2002-09-20,49738,0.0,China,Beijing,950,23.8,0.0,Medium,True
+951,E00671,Miles Cho,Systems Analyst,IT,Speciality Products,Male,Asian,47,1999-03-10,49404,0.0,China,Beijing,951,27.4,0.0,Medium,True
+952,E03223,Ethan Joseph,IT Coordinator,IT,Research & Development,Male,Caucasian,45,2018-05-28,49219,0.0,United States,Columbus,952,8.1,0.0,Medium,False
+953,E04386,Cameron Powell,Business Partner,Human Resources,Manufacturing,Male,Black,41,2004-08-20,49186,0.0,United States,Austin,953,21.9,0.0,Medium,False
+954,E03247,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27,2018-05-06,49011,0.0,United States,Chicago,954,8.2,0.0,Medium,True
+955,E03824,Penelope Coleman,Analyst,Finance,Corporate,Female,Black,36,2021-08-27,48906,0.0,United States,Miami,955,4.9,0.0,Medium,True
+956,E03227,Eli Richardson,IT Coordinator,IT,Speciality Products,Male,Caucasian,38,2015-04-19,48762,0.0,United States,Seattle,956,11.2,0.0,Medium,False
+957,E02062,Nora Santiago,Analyst,Accounting,Research & Development,Female,Latino,55,1996-06-26,48687,0.0,Brazil,Rio de Janerio,957,30.1,0.0,Medium,False
+958,E03571,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28,2021-06-27,48510,0.0,United States,Chicago,958,5.1,0.0,Medium,False
+959,E04041,Clara Huynh,IT Coordinator,IT,Speciality Products,Female,Asian,39,2020-11-18,48415,0.0,China,Shanghai,959,5.7,0.0,Medium,False
+960,E01516,Willow Mai,Business Partner,Human Resources,Manufacturing,Female,Asian,45,2003-12-17,48345,0.0,China,Chengdu,960,22.6,0.0,Medium,False
+961,E03849,Evelyn Jung,Analyst,Sales,Research & Development,Female,Asian,30,2021-02-14,48340,0.0,China,Beijing,961,5.4,0.0,Medium,True
+962,E01639,Everleigh Simmons,Analyst,Finance,Manufacturing,Female,Caucasian,55,2021-04-16,48266,0.0,United States,Chicago,962,5.3,0.0,Medium,True
+963,E00951,Everly Lin,Business Partner,Human Resources,Manufacturing,Female,Asian,25,2021-03-15,47974,0.0,China,Chongqing,963,5.3,0.0,Medium,False
+964,E00480,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31,2018-03-12,47913,0.0,United States,Seattle,964,8.4,0.0,Medium,False
+965,E01909,Lillian Khan,Analyst,Finance,Speciality Products,Female,Asian,44,2010-05-31,47387,0.0,China,Chengdu,965,16.1,0.0,Medium,False
+966,E02044,Caroline Alexander,Business Partner,Human Resources,Manufacturing,Female,Black,42,2020-09-18,47071,0.0,United States,Columbus,966,5.8,0.0,Medium,False
+967,E01148,Scarlett Kumar,Systems Analyst,IT,Corporate,Female,Asian,55,2009-01-07,47032,0.0,United States,Columbus,967,17.5,0.0,Medium,False
+968,E02857,Valentina Davis,Analyst,Sales,Speciality Products,Female,Caucasian,33,2014-04-13,46878,0.0,United States,Miami,968,12.3,0.0,Medium,True
+969,E01466,Connor Vang,Analyst,Sales,Speciality Products,Male,Asian,25,2021-07-28,46845,0.0,United States,Miami,969,5.0,0.0,Medium,False
+970,E02252,Lillian Park,Analyst,Marketing,Research & Development,Female,Asian,40,2021-02-24,46833,0.0,China,Chengdu,970,5.4,0.0,Medium,False
+971,E00203,Julia Doan,Business Partner,Human Resources,Speciality Products,Female,Asian,53,2017-09-07,46727,0.0,United States,Columbus,971,8.9,0.0,Medium,False
+972,E01981,Genesis Banks,Analyst,Finance,Corporate,Female,Caucasian,63,2012-03-16,46081,0.0,United States,Chicago,972,14.3,0.0,Medium,False
+973,E00145,Kinsley Dixon,Analyst,Accounting,Manufacturing,Female,Caucasian,28,2019-05-25,45819,0.0,United States,Miami,973,7.1,0.0,Medium,True
+974,E02639,Sebastian Le,Analyst,Finance,Corporate,Male,Asian,37,2015-11-09,45369,0.0,China,Beijing,974,10.7,0.0,Medium,True
+975,E01264,Hazel Alvarez,Business Partner,Human Resources,Research & Development,Female,Latino,62,2014-04-19,45295,0.0,Brazil,Sao Paulo,975,12.2,0.0,Medium,False
+976,E03455,Hadley Ford,Systems Analyst,IT,Research & Development,Female,Caucasian,52,2005-02-23,45286,0.0,United States,Chicago,976,21.4,0.0,Medium,False
+977,E02562,Christian Medina,Analyst,Marketing,Corporate,Male,Latino,51,2007-06-19,45206,0.0,United States,Columbus,977,19.1,0.0,Medium,False
+978,E03655,Samantha Rogers,Analyst,Marketing,Speciality Products,Female,Caucasian,28,2020-01-17,45061,0.0,United States,Miami,978,6.5,0.0,Medium,False
+979,E01877,Abigail Garza,Analyst,Accounting,Manufacturing,Female,Latino,33,2018-05-27,45049,0.0,United States,Seattle,979,8.1,0.0,Medium,False
+980,E01432,Peyton Garza,Systems Analyst,IT,Manufacturing,Female,Latino,53,2004-08-15,44735,0.0,Brazil,Manaus,980,21.9,0.0,Medium,False
+981,E00568,Ian Vargas,Analyst,Sales,Manufacturing,Male,Latino,26,2021-03-02,44732,0.0,Brazil,Rio de Janerio,981,5.4,0.0,Medium,True
+982,E00691,Avery Yee,Systems Analyst,IT,Manufacturing,Female,Asian,34,2016-05-22,44614,0.0,United States,Miami,982,10.2,0.0,Medium,True
+983,E02531,Jameson Foster,Analyst,Marketing,Manufacturing,Male,Caucasian,28,2021-07-18,43391,0.0,United States,Columbus,983,5.0,0.0,Medium,False
+984,E04601,Allison Ayala,Analyst,Finance,Corporate,Female,Latino,36,2009-06-30,43363,0.0,United States,Austin,984,17.1,0.0,Medium,False
+985,E03461,Nathan Lau,Business Partner,Human Resources,Research & Development,Male,Asian,35,2011-02-22,43336,0.0,United States,Austin,985,15.4,0.0,Medium,False
+986,E02798,Charles Henderson,Systems Analyst,IT,Speciality Products,Male,Caucasian,48,2002-02-11,43080,0.0,United States,Austin,986,24.4,0.0,Medium,False
+987,E00403,Liliana Soto,Business Partner,Human Resources,Manufacturing,Female,Latino,58,2010-10-12,43001,0.0,United States,Austin,987,15.8,0.0,Medium,False
+988,E02023,Maverick Mehta,Systems Analyst,IT,Manufacturing,Male,Asian,40,2007-07-30,41859,0.0,United States,Seattle,988,19.0,0.0,Medium,False
+989,E01895,Gabriel Zhou,IT Coordinator,IT,Manufacturing,Male,Asian,25,2021-01-17,41844,0.0,China,Chongqing,989,5.5,0.0,Medium,True
+990,E01388,Cooper Gupta,Business Partner,Human Resources,Speciality Products,Male,Asian,58,2014-06-20,41728,0.0,China,Chongqing,990,12.1,0.0,Medium,True
+991,E01361,Emma Hill,IT Coordinator,IT,Manufacturing,Female,Caucasian,54,2016-12-27,41673,0.0,United States,Miami,991,9.6,0.0,Medium,False
+992,E01832,Ezra Singh,Analyst,Finance,Manufacturing,Male,Asian,56,2006-05-10,41561,0.0,United States,Austin,992,20.2,0.0,Medium,False
+993,E01895,Peyton Walker,Analyst,Marketing,Research & Development,Female,Caucasian,43,2019-07-13,41545,0.0,United States,Miami,993,7.0,0.0,Medium,True
+994,E02183,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino,47,2015-06-09,41429,0.0,United States,Seattle,994,11.1,0.0,Medium,False
+995,E04332,Luke Martin,Analyst,Finance,Manufacturing,Male,Black,25,2020-05-16,41336,0.0,United States,Miami,995,6.2,0.0,Medium,True
+996,E02732,Alice Tran,Analyst,Marketing,Corporate,Female,Asian,39,2014-07-29,40897,0.0,United States,Seattle,996,12.0,0.0,Medium,False
+997,E03719,Jack Brown,Analyst,Marketing,Corporate,Male,Caucasian,55,2004-12-07,40752,0.0,United States,Phoenix,997,21.6,0.0,Medium,False
+998,E00862,Levi Moreno,Systems Analyst,IT,Research & Development,Male,Latino,64,2020-06-27,40316,0.0,Brazil,Manaus,998,6.1,0.0,Medium,False
+999,E04109,Leah Bryant,IT Coordinator,IT,Manufacturing,Female,Caucasian,55,2004-04-30,40124,0.0,United States,Austin,999,22.2,0.0,Medium,False
+1000,E03928,Miles Dang,IT Coordinator,IT,Speciality Products,Male,Asian,61,2000-09-24,40063,0.0,United States,Miami,1000,25.8,0.0,Medium,False

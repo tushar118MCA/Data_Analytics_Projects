@@ -1,0 +1,29 @@
+"department","business_unit","count_of_an_employee_each_department","avg_salary","avg_age","min_salary","max_salary"
+"Human Resources","Corporate",26,140712.88,44.5,50825,250953
+"Marketing","Corporate",31,139768.55,42.7,40752,257194
+"Marketing","Speciality Products",32,138866.00,41.5,45061,255230
+"Marketing","Research & Development",27,135386.48,42.4,41545,256420
+"Finance","Research & Development",25,134263.60,43.9,49011,223404
+"Accounting","Corporate",21,133091.19,44.0,50809,258426
+"Finance","Corporate",39,132796.59,45.0,43363,255369
+"Human Resources","Speciality Products",36,128394.06,41.6,41728,249801
+"Finance","Speciality Products",28,127803.96,44.9,47387,249686
+"Accounting","Speciality Products",29,126790.45,41.9,52310,245360
+"Engineering","Manufacturing",33,120300.36,46.8,60055,255431
+"Accounting","Research & Development",18,118166.22,47.7,48687,192213
+"Sales","Manufacturing",33,117570.64,43.9,44732,258498
+"Accounting","Manufacturing",28,115117.04,42.5,45049,252325
+"Sales","Corporate",33,114972.97,41.9,41429,258081
+"Engineering","Speciality Products",47,112417.04,44.8,60132,246231
+"Sales","Research & Development",33,109790.91,44.5,48340,249506
+"Engineering","Corporate",35,108925.83,44.5,62644,240488
+"IT","Research & Development",55,108922.85,45.3,40316,256561
+"Marketing","Manufacturing",30,104253.07,46.3,43391,219474
+"Human Resources","Manufacturing",35,103738.49,46.0,43001,211291
+"Sales","Speciality Products",41,103657.10,44.1,46845,253249
+"Human Resources","Research & Development",28,101633.46,46.2,43336,220937
+"IT","Speciality Products",52,98001.29,44.4,40063,246619
+"IT","Corporate",52,97155.65,46.5,47032,249870
+"Engineering","Research & Development",43,96782.47,46.7,60017,200246
+"Finance","Manufacturing",28,93649.25,47.3,41336,231567
+"IT","Manufacturing",82,90592.45,42.3,40124,247874

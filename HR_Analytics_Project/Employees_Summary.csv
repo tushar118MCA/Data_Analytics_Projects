@@ -1,0 +1,1001 @@
+"employee_row_id","eeid","full_name","job_title","department","business_unit","gender","ethnicity","age","hire_date","tenure_years","annual_salary","salary_band","bonus_pct","bonus_amount","country","city","is_duplicate_eeid"
+1,"E04354","Raelynn Rios","Vice President","Sales","Manufacturing","Female","Latino",43,"2016-08-21 00:00:00",9.9,258498,"Very Low",0.35,904.74,"United States","Columbus",False
+2,"E04742","Kinsley Vega","Vice President","Accounting","Corporate","Female","Latino",33,"2020-12-16 00:00:00",5.6,258426,"Very Low",0.4,1033.7,"Brazil","Rio de Janerio",False
+3,"E02522","Silas Rivera","Vice President","Sales","Corporate","Male","Latino",48,"2000-02-28 00:00:00",26.4,258081,"Very Low",0.3,774.24,"United States","Chicago",False
+4,"E01371","Dominic Le","Vice President","Marketing","Corporate","Male","Asian",41,"2014-10-04 00:00:00",11.8,257194,"Very Low",0.35,900.18,"China","Chongqing",False
+5,"E04170","Grayson Chin","Vice President","IT","Research & Development","Male","Asian",26,"2020-05-09 00:00:00",6.2,256561,"Very Low",0.39,1000.59,"United States","Austin",False
+6,"E01628","Jackson Perry","Vice President","Marketing","Research & Development","Male","Caucasian",27,"2019-10-20 00:00:00",6.7,256420,"Very Low",0.3,769.26,"United States","Phoenix",False
+7,"E00917","Skylar Bell","Vice President","Engineering","Manufacturing","Female","Caucasian",30,"2018-03-06 00:00:00",8.4,255431,"Very Low",0.36,919.55,"United States","Columbus",False
+8,"E04103","Isabella Soto","Vice President","Finance","Corporate","Female","Latino",27,"2021-12-15 00:00:00",4.6,255369,"Very Low",0.33,842.72,"Brazil","Sao Paulo",False
+9,"E01584","Henry Zhu","Vice President","Marketing","Speciality Products","Male","Asian",38,"2021-08-25 00:00:00",4.9,255230,"Very Low",0.36,918.83,"United States","Austin",True
+10,"E02825","Wyatt Li","Vice President","Engineering","Manufacturing","Male","Asian",63,"2013-06-03 00:00:00",13.1,254289,"Very Low",0.39,991.73,"United States","Chicago",False
+11,"E00325","Jameson Chen","Vice President","Marketing","Research & Development","Male","Asian",39,"2019-12-05 00:00:00",6.6,254057,"Very Low",0.39,990.82,"China","Shanghai",False
+12,"E02563","Emily Clark","Vice President","Accounting","Corporate","Female","Caucasian",36,"2020-01-13 00:00:00",6.5,253294,"Very Low",0.4,1013.18,"United States","Miami",True
+13,"E00218","David Desai","Vice President","Sales","Speciality Products","Male","Asian",47,"2016-11-22 00:00:00",9.7,253249,"Very Low",0.31,785.07,"United States","Austin",False
+14,"E03289","Christopher Lam","Vice President","Accounting","Manufacturing","Male","Asian",64,"2013-03-29 00:00:00",13.3,252325,"Very Low",0.4,1009.3,"United States","Columbus",False
+15,"E02599","Daniel Huang","Vice President","Human Resources","Corporate","Male","Asian",31,"2015-09-03 00:00:00",10.9,250953,"Very Low",0.34,853.24,"United States","Columbus",False
+16,"E03226","Angel Stewart","Vice President","Finance","Corporate","Male","Caucasian",28,"2019-06-22 00:00:00",7.1,250767,"Very Low",0.38,952.91,"United States","Seattle",False
+17,"E01070","Grayson Brown","Vice President","IT","Corporate","Male","Caucasian",38,"2016-06-22 00:00:00",10.1,249870,"Very Low",0.34,849.56,"United States","Chicago",True
+18,"E02391","Natalia Santos","Vice President","Human Resources","Speciality Products","Female","Latino",45,"2019-02-25 00:00:00",7.4,249801,"Very Low",0.39,974.22,"Brazil","Sao Paulo",True
+19,"E01546","Maria Hong","Vice President","Finance","Speciality Products","Female","Asian",43,"2005-07-31 00:00:00",21.0,249686,"Very Low",0.31,774.03,"China","Chongqing",False
+20,"E02783","Levi Mendez","Vice President","Sales","Research & Development","Male","Latino",39,"2011-08-23 00:00:00",14.9,249506,"Very Low",0.3,748.52,"Brazil","Rio de Janerio",False
+21,"E00549","Isabella Xi","Vice President","Marketing","Research & Development","Female","Asian",41,"2013-03-13 00:00:00",13.4,249270,"Very Low",0.3,747.81,"United States","Seattle",False
+22,"E00842","John Vega","Vice President","Finance","Corporate","Male","Latino",50,"2004-01-18 00:00:00",22.5,247939,"Very Low",0.35,867.79,"Brazil","Rio de Janerio",False
+23,"E01423","James Castillo","Vice President","IT","Manufacturing","Male","Latino",51,"2001-07-19 00:00:00",25.0,247874,"Very Low",0.33,817.98,"Brazil","Manaus",False
+24,"E04568","Rylee Yu","Vice President","Finance","Speciality Products","Female","Asian",54,"2011-07-10 00:00:00",15.0,247022,"Very Low",0.3,741.07,"China","Beijing",False
+25,"E04123","Andrew Holmes","Vice President","IT","Speciality Products","Male","Black",59,"2010-12-30 00:00:00",15.6,246619,"Very Low",0.36,887.83,"United States","Miami",False
+26,"E03247","Aaliyah Mai","Vice President","IT","Speciality Products","Female","Asian",57,"2016-11-11 00:00:00",9.7,246589,"Very Low",0.33,813.74,"United States","Phoenix",True
+27,"E00154","Wyatt Chin","Vice President","Engineering","Speciality Products","Male","Asian",43,"2004-06-07 00:00:00",22.1,246231,"Very Low",0.31,763.32,"United States","Seattle",False
+28,"E00715","Elijah Kang","Vice President","Engineering","Manufacturing","Male","Asian",35,"2011-10-10 00:00:00",14.8,245482,"Very Low",0.39,957.38,"United States","Seattle",False
+29,"E02202","Emilia Bailey","Vice President","Accounting","Speciality Products","Female","Caucasian",41,"2012-08-09 00:00:00",13.9,245360,"Very Low",0.37,907.83,"United States","Austin",False
+30,"E04249","Hadley Dang","Vice President","Accounting","Corporate","Female","Asian",47,"2021-12-26 00:00:00",4.6,243568,"Very Low",0.33,803.77,"United States","Austin",False
+31,"E03394","Joseph Ly","Vice President","Marketing","Speciality Products","Male","Asian",40,"2009-02-28 00:00:00",17.4,242919,"Very Low",0.31,753.05,"China","Chongqing",False
+32,"E01519","Anthony Marquez","Vice President","IT","Speciality Products","Male","Latino",54,"2009-08-15 00:00:00",16.9,241083,"Very Low",0.39,940.22,"United States","Columbus",False
+33,"E02464","Sophie Silva","Vice President","Engineering","Corporate","Female","Latino",28,"2017-07-06 00:00:00",9.0,240488,"Very Low",0.4,961.95,"Brazil","Rio de Janerio",False
+34,"E03774","Hannah Mejia","Vice President","Marketing","Corporate","Female","Latino",47,"1999-03-13 00:00:00",27.4,239394,"Very Low",0.32,766.06,"United States","Austin",False
+35,"E03106","Xavier Davis","Vice President","Finance","Corporate","Male","Caucasian",36,"2009-01-17 00:00:00",17.5,238236,"Very Low",0.31,738.53,"United States","Seattle",False
+36,"E02112","Christian Sanders","Vice President","Human Resources","Speciality Products","Male","Black",45,"2013-08-07 00:00:00",12.9,236946,"Very Low",0.37,876.7,"United States","Seattle",False
+37,"E01899","Xavier Jackson","Vice President","Marketing","Speciality Products","Male","Caucasian",52,"2002-06-11 00:00:00",24.1,236314,"Very Low",0.34,803.47,"United States","Miami",False
+38,"E01249","Samuel Bailey","Vice President","Accounting","Speciality Products","Male","Caucasian",41,"2013-08-17 00:00:00",12.9,235619,"Very Low",0.3,706.86,"United States","Seattle",True
+39,"E03058","Angel Xiong","Vice President","IT","Research & Development","Male","Asian",35,"2015-06-11 00:00:00",11.1,234723,"Very Low",0.36,845.0,"China","Shanghai",True
+40,"E00810","Hunter Nunez","Vice President","Human Resources","Corporate","Male","Latino",62,"2002-08-16 00:00:00",23.9,234594,"Very Low",0.33,774.16,"United States","Seattle",False
+41,"E01403","Xavier Park","Vice President","IT","Research & Development","Male","Asian",40,"2020-11-08 00:00:00",5.7,234469,"Very Low",0.31,726.85,"China","Chengdu",False
+42,"E00161","Ryan Ha","Vice President","Marketing","Corporate","Male","Asian",60,"2007-01-27 00:00:00",19.5,234311,"Very Low",0.37,866.95,"United States","Miami",False
+43,"E02920","Willow Woods","Vice President","Human Resources","Speciality Products","Female","Caucasian",28,"2021-07-25 00:00:00",5.0,231850,"Very Low",0.39,904.22,"United States","Miami",False
+44,"E04072","Emery Mitchell","Vice President","Finance","Manufacturing","Female","Caucasian",48,"2018-06-02 00:00:00",8.1,231567,"Very Low",0.36,833.64,"United States","Seattle",False
+45,"E00304","Dylan Choi","Vice President","IT","Corporate","Male","Asian",63,"2012-05-11 00:00:00",14.2,231141,"Very Low",0.34,785.88,"China","Beijing",False
+46,"E00446","Isaac Han","Vice President","Human Resources","Speciality Products","Male","Asian",31,"2015-01-14 00:00:00",11.5,230025,"Very Low",0.34,782.08,"United States","Phoenix",True
+47,"E03371","Jack Alexander","Vice President","IT","Manufacturing","Male","Caucasian",56,"2006-05-29 00:00:00",20.1,228822,"Very Low",0.36,823.76,"United States","Miami",False
+48,"E01095","Isla Lai","Vice President","Finance","Corporate","Female","Asian",37,"2011-12-06 00:00:00",14.6,225558,"Very Low",0.33,744.34,"China","Shanghai",False
+49,"E03694","Elena Patterson","Vice President","Finance","Speciality Products","Female","Black",38,"2018-11-09 00:00:00",7.7,223805,"Very Low",0.36,805.7,"United States","Chicago",True
+50,"E03947","Logan Soto","Vice President","Finance","Research & Development","Male","Latino",36,"2018-08-18 00:00:00",7.9,223404,"Very Low",0.32,714.89,"United States","Columbus",False
+51,"E04607","Landon Brown","Vice President","Marketing","Corporate","Male","Caucasian",26,"2020-09-27 00:00:00",5.8,223055,"Very Low",0.3,669.16,"United States","Columbus",False
+52,"E02944","Joshua Fong","Vice President","Engineering","Speciality Products","Male","Asian",47,"2012-06-11 00:00:00",14.1,222941,"Very Low",0.39,869.47,"China","Beijing",False
+53,"E02633","Allison Roberts","Vice President","Sales","Manufacturing","Female","Black",54,"2000-08-19 00:00:00",25.9,222224,"Very Low",0.38,844.45,"United States","Columbus",False
+54,"E01995","Jonathan Ho","Vice President","IT","Manufacturing","Male","Asian",37,"2011-06-25 00:00:00",15.1,221592,"Very Low",0.31,686.94,"United States","Columbus",False
+55,"E03893","Alice Xiong","Vice President","Engineering","Manufacturing","Female","Asian",55,"2018-09-02 00:00:00",7.9,221465,"Very Low",0.34,752.98,"China","Chengdu",False
+56,"E02639","Hadley Parker","Vice President","Marketing","Corporate","Female","Black",30,"2016-09-21 00:00:00",9.8,221217,"Very Low",0.32,707.89,"United States","Columbus",True
+57,"E01232","Samantha Foster","Vice President","Human Resources","Research & Development","Female","Black",34,"2019-07-27 00:00:00",7.0,220937,"Very Low",0.38,839.56,"United States","Austin",False
+58,"E03890","Nevaeh Jones","Vice President","Sales","Manufacturing","Female","Caucasian",31,"2020-08-20 00:00:00",5.9,219693,"Very Low",0.3,659.08,"United States","Austin",True
+59,"E03159","Claire Romero","Vice President","Marketing","Manufacturing","Female","Latino",37,"2011-07-21 00:00:00",15.0,219474,"Very Low",0.36,790.11,"Brazil","Manaus",False
+60,"E00752","Luna Liu","Vice President","Sales","Manufacturing","Female","Asian",36,"2014-02-22 00:00:00",12.4,218530,"Very Low",0.3,655.59,"China","Shanghai",False
+61,"E00380","Alice Thompson","Vice President","Accounting","Speciality Products","Female","Caucasian",48,"2007-04-25 00:00:00",19.2,217783,"Very Low",0.36,784.02,"United States","Seattle",False
+62,"E04088","Ezra Liang","Vice President","Finance","Research & Development","Male","Asian",52,"1997-05-26 00:00:00",29.2,216999,"Very Low",0.37,802.9,"United States","Miami",False
+63,"E04729","Ezekiel Fong","Vice President","Sales","Research & Development","Male","Asian",56,"2004-02-25 00:00:00",22.4,216949,"Very Low",0.32,694.24,"China","Shanghai",False
+64,"E03545","Sofia Cheng","Vice President","Accounting","Corporate","Female","Asian",63,"2020-07-26 00:00:00",6.0,216195,"Very Low",0.31,670.2,"United States","Miami",False
+65,"E00672","Landon Luu","Vice President","IT","Research & Development","Male","Asian",31,"2015-07-12 00:00:00",11.0,215388,"Very Low",0.33,710.78,"United States","Miami",True
+66,"E02468","Ella Huang","Vice President","Marketing","Corporate","Female","Asian",45,"2016-02-28 00:00:00",10.4,211637,"Very Low",0.31,656.07,"United States","Chicago",False
+67,"E03737","Kennedy Rahman","Vice President","Human Resources","Manufacturing","Female","Asian",49,"2003-02-28 00:00:00",23.4,211291,"Very Low",0.37,781.78,"China","Chongqing",False
+68,"E01006","Autumn Leung","Vice President","Finance","Research & Development","Female","Asian",25,"2021-11-15 00:00:00",4.7,210708,"Very Low",0.33,695.34,"United States","Chicago",False
+69,"E01249","Penelope Guerrero","Vice President","IT","Speciality Products","Female","Latino",43,"2009-08-04 00:00:00",17.0,208415,"Very Low",0.35,729.45,"United States","Seattle",True
+70,"E04795","Eloise Alexander","Vice President","Human Resources","Corporate","Female","Black",28,"2018-01-21 00:00:00",8.5,208210,"Very Low",0.3,624.63,"United States","Seattle",False
+71,"E02071","Mateo Her","Vice President","Sales","Speciality Products","Male","Asian",44,"2014-03-02 00:00:00",12.4,207172,"Very Low",0.31,642.23,"China","Chongqing",False
+72,"E00791","Thomas Padilla","Vice President","Marketing","Research & Development","Male","Latino",57,"2003-07-26 00:00:00",23.0,206624,"Very Low",0.4,826.5,"Brazil","Sao Paulo",False
+73,"E01425","Anthony Rogers","Vice President","Engineering","Corporate","Male","Caucasian",33,"2015-06-18 00:00:00",11.1,205314,"Very Low",0.3,615.94,"United States","Columbus",False
+74,"E00447","Hailey Sanchez","Vice President","Marketing","Corporate","Female","Latino",32,"2014-02-05 00:00:00",12.4,203445,"Very Low",0.34,691.71,"Brazil","Manaus",False
+75,"E03579","Robert Zhang","Vice President","Marketing","Corporate","Male","Asian",45,"2015-09-24 00:00:00",10.8,202680,"Very Low",0.32,648.58,"United States","Phoenix",False
+76,"E02687","Caroline Nelson","Vice President","Finance","Corporate","Female","Caucasian",36,"2014-01-11 00:00:00",12.5,202323,"Very Low",0.39,789.06,"United States","Chicago",False
+77,"E03583","Brooks Marquez","Vice President","Sales","Corporate","Male","Latino",61,"2019-09-24 00:00:00",6.8,201464,"Very Low",0.37,745.42,"United States","Chicago",True
+78,"E02140","Naomi Zhao","Vice President","Human Resources","Speciality Products","Female","Asian",45,"2021-09-22 00:00:00",4.8,201396,"Very Low",0.32,644.47,"United States","Miami",False
+79,"E02914","Maria Wilson","Vice President","Engineering","Research & Development","Female","Caucasian",51,"1996-06-14 00:00:00",30.1,200246,"Very Low",0.34,680.84,"United States","Columbus",False
+80,"E01967","John Dang","Director","Sales","Corporate","Male","Asian",58,"1992-03-19 00:00:00",34.3,199848,"Very Low",0.16,319.76,"China","Chongqing",False
+81,"E03574","John Moore","Vice President","IT","Speciality Products","Male","Caucasian",52,"2005-11-08 00:00:00",20.7,199808,"Very Low",0.32,639.39,"United States","Seattle",False
+82,"E03758","Liam Zhang","Director","Marketing","Research & Development","Male","Asian",29,"2021-09-15 00:00:00",4.8,199783,"Very Low",0.21,419.54,"United States","Chicago",False
+83,"E03055","Austin Rojas","Vice President","Finance","Corporate","Male","Latino",29,"2018-12-05 00:00:00",7.6,199504,"Very Low",0.3,598.51,"United States","Austin",False
+84,"E01090","Ethan Mehta","Director","Sales","Research & Development","Male","Asian",49,"2001-07-20 00:00:00",25.0,199176,"Very Low",0.24,478.02,"United States","Phoenix",True
+85,"E03816","Leilani Chow","Director","Human Resources","Corporate","Female","Asian",27,"2021-02-23 00:00:00",5.4,199041,"Very Low",0.16,318.47,"China","Beijing",False
+86,"E00952","Leilani Thao","Director","Human Resources","Speciality Products","Female","Asian",38,"2007-05-30 00:00:00",19.1,198562,"Very Low",0.22,436.84,"United States","Seattle",True
+87,"E00044","Scarlett Jenkins","Vice President","IT","Research & Development","Female","Caucasian",53,"2011-11-09 00:00:00",14.7,198473,"Very Low",0.32,635.11,"United States","Miami",False
+88,"E04359","Greyson Lam","Vice President","Accounting","Manufacturing","Male","Asian",25,"2021-02-08 00:00:00",5.4,198243,"Very Low",0.31,614.55,"United States","Miami",True
+89,"E02193","Josephine Acosta","Director","Human Resources","Speciality Products","Female","Latino",40,"2020-09-20 00:00:00",5.8,198176,"Very Low",0.17,336.9,"Brazil","Manaus",False
+90,"E00103","Nora Park","Director","Accounting","Speciality Products","Female","Asian",29,"2017-06-28 00:00:00",9.1,197649,"Very Low",0.2,395.3,"United States","Columbus",False
+91,"E03506","Jaxson Mai","Vice President","Human Resources","Research & Development","Male","Asian",48,"2014-03-08 00:00:00",12.4,197367,"Very Low",0.39,769.73,"United States","Austin",False
+92,"E00130","Paisley Kang","Vice President","Human Resources","Corporate","Female","Asian",61,"2017-03-10 00:00:00",9.4,196951,"Very Low",0.33,649.94,"China","Beijing",False
+93,"E03858","John Cho","Director","Human Resources","Speciality Products","Male","Asian",47,"2019-11-03 00:00:00",6.7,195385,"Very Low",0.21,410.31,"China","Chengdu",False
+94,"E04940","Hudson Williams","Vice President","Sales","Speciality Products","Male","Black",36,"2018-03-19 00:00:00",8.3,195200,"Very Low",0.36,702.72,"United States","Austin",False
+95,"E03268","Everly Coleman","Vice President","IT","Corporate","Female","Caucasian",48,"2015-02-18 00:00:00",11.4,194871,"Very Low",0.35,682.05,"United States","Columbus",True
+96,"E03354","Austin Brown","Director","Marketing","Research & Development","Male","Caucasian",48,"2007-08-08 00:00:00",19.0,194723,"Very Low",0.25,486.81,"United States","Phoenix",True
+97,"E02781","Athena Vu","Director","Accounting","Manufacturing","Female","Asian",63,"2007-03-06 00:00:00",19.4,193044,"Very Low",0.15,289.57,"United States","Miami",False
+98,"E02747","Kinsley Acosta","Vice President","IT","Speciality Products","Female","Latino",32,"2020-07-22 00:00:00",6.0,192749,"Very Low",0.31,597.52,"United States","Chicago",False
+99,"E01486","Mason Cho","Vice President","Accounting","Research & Development","Male","Asian",59,"2011-05-18 00:00:00",15.2,192213,"Very Low",0.4,768.85,"United States","Chicago",False
+100,"E01014","Lucas Phan","Director","Marketing","Research & Development","Male","Asian",49,"1999-02-19 00:00:00",27.4,191807,"Very Low",0.21,402.79,"China","Chongqing",False
+101,"E04766","Lyla Yoon","Vice President","Accounting","Manufacturing","Female","Asian",38,"2012-12-13 00:00:00",13.6,191571,"Very Low",0.32,613.03,"United States","Austin",False
+102,"E04637","Samuel Song","Director","Sales","Corporate","Male","Asian",31,"2015-06-29 00:00:00",11.1,191026,"Very Low",0.16,305.64,"United States","Columbus",False
+103,"E00085","Isla Wong","Vice President","Accounting","Corporate","Female","Asian",56,"2014-03-16 00:00:00",12.3,190815,"Very Low",0.4,763.26,"United States","Austin",True
+104,"E02310","Jordan Phillips","Vice President","Human Resources","Corporate","Male","Black",45,"2010-12-12 00:00:00",15.6,190512,"Very Low",0.32,609.64,"United States","Columbus",False
+105,"E04342","Samantha Barnes","Vice President","Marketing","Speciality Products","Female","Caucasian",29,"2017-01-05 00:00:00",9.5,190401,"Very Low",0.37,704.48,"United States","Columbus",False
+106,"E03907","Camila Watson","Vice President","Finance","Speciality Products","Female","Caucasian",32,"2018-01-02 00:00:00",8.5,190253,"Very Low",0.33,627.83,"United States","Austin",False
+107,"E00187","Miles Mehta","Director","Finance","Research & Development","Male","Asian",64,"1996-05-02 00:00:00",30.2,189933,"Very Low",0.23,436.85,"United States","Miami",False
+108,"E00416","Everleigh Fernandez","Director","Engineering","Research & Development","Female","Latino",30,"2016-05-22 00:00:00",10.2,189702,"Very Low",0.28,531.17,"Brazil","Manaus",False
+109,"E02678","Nicholas Rivera","Director","Engineering","Corporate","Male","Latino",45,"2007-04-13 00:00:00",19.3,189680,"Very Low",0.23,436.26,"Brazil","Sao Paulo",False
+110,"E03025","Lucy Alexander","Director","Engineering","Manufacturing","Female","Caucasian",45,"2014-10-29 00:00:00",11.7,189420,"Very Low",0.2,378.84,"United States","Seattle",False
+111,"E00119","Jack Maldonado","Director","Engineering","Research & Development","Male","Latino",31,"2020-08-26 00:00:00",5.9,189290,"Very Low",0.22,416.44,"Brazil","Sao Paulo",False
+112,"E04194","Madison Kumar","Director","Accounting","Speciality Products","Female","Asian",55,"2010-10-17 00:00:00",15.8,188727,"Very Low",0.23,434.07,"China","Chengdu",False
+113,"E00023","Gabriel Joseph","Director","Engineering","Manufacturing","Male","Caucasian",52,"2006-10-28 00:00:00",19.7,187992,"Very Low",0.28,526.38,"United States","Miami",False
+114,"E00500","Henry Shah","Director","Accounting","Manufacturing","Male","Asian",55,"2010-06-11 00:00:00",16.1,187389,"Very Low",0.25,468.47,"China","Chengdu",False
+115,"E04641","Scarlett Hill","Director","Engineering","Speciality Products","Female","Black",45,"2018-04-22 00:00:00",8.2,187205,"Very Low",0.24,449.29,"United States","Columbus",False
+116,"E04683","Ezekiel Delgado","Director","Engineering","Speciality Products","Male","Latino",40,"2020-02-07 00:00:00",6.4,187187,"Very Low",0.18,336.94,"Brazil","Manaus",False
+117,"E00207","Hailey Lai","Vice President","Human Resources","Manufacturing","Female","Asian",52,"2012-07-23 00:00:00",14.0,187048,"Very Low",0.32,598.55,"China","Chengdu",False
+118,"E02033","Grace Sun","Director","Finance","Research & Development","Female","Asian",25,"2021-04-17 00:00:00",5.2,186870,"Very Low",0.2,373.74,"China","Shanghai",False
+119,"E03240","Aiden Silva","Vice President","IT","Research & Development","Male","Latino",42,"2010-11-29 00:00:00",15.6,186725,"Very Low",0.32,597.52,"Brazil","Manaus",False
+120,"E04116","David Barnes","Director","IT","Corporate","Male","Caucasian",64,"2013-11-03 00:00:00",12.7,186503,"Very Low",0.24,447.61,"United States","Columbus",False
+121,"E04415","Penelope Fong","Director","Accounting","Corporate","Female","Asian",60,"2004-05-14 00:00:00",22.2,186378,"Very Low",0.26,484.58,"China","Chongqing",True
+122,"E01712","James Singh","Director","Marketing","Corporate","Male","Asian",45,"2008-03-12 00:00:00",18.4,186138,"Very Low",0.28,521.19,"China","Chongqing",False
+123,"E01347","Aiden Gonzales","Vice President","Marketing","Speciality Products","Male","Latino",44,"2021-03-28 00:00:00",5.3,186033,"Very Low",0.34,632.51,"Brazil","Sao Paulo",False
+124,"E02748","Genesis Zhu","Director","Finance","Speciality Products","Female","Asian",34,"2020-07-20 00:00:00",6.0,184960,"Very Low",0.18,332.93,"United States","Seattle",False
+125,"E04114","Christopher Lim","Director","IT","Research & Development","Male","Asian",55,"2007-03-13 00:00:00",19.4,184648,"Very Low",0.24,443.16,"China","Shanghai",False
+126,"E02942","Daniel Richardson","Director","Engineering","Speciality Products","Male","Caucasian",30,"2018-05-20 00:00:00",8.2,184368,"Very Low",0.29,534.67,"United States","Austin",False
+127,"E00440","Adeline Thao","Vice President","Finance","Corporate","Female","Asian",54,"2007-09-05 00:00:00",18.9,183239,"Very Low",0.32,586.36,"United States","Seattle",True
+128,"E04645","Elias Ahmed","Vice President","Marketing","Corporate","Male","Asian",57,"2017-08-04 00:00:00",9.0,183190,"Very Low",0.36,659.48,"United States","Chicago",False
+129,"E02421","Jordan Truong","Director","Engineering","Speciality Products","Male","Asian",45,"2014-08-28 00:00:00",11.9,183161,"Very Low",0.22,402.95,"United States","Miami",False
+130,"E04572","Jade Li","Director","IT","Speciality Products","Female","Asian",47,"2012-10-26 00:00:00",13.7,183156,"Very Low",0.3,549.47,"United States","Seattle",False
+131,"E00268","Ian Flores","Director","Engineering","Corporate","Male","Latino",48,"2019-12-10 00:00:00",6.6,183113,"Very Low",0.24,439.47,"Brazil","Rio de Janerio",False
+132,"E03683","Raelynn Hong","Director","Marketing","Speciality Products","Female","Asian",28,"2019-12-11 00:00:00",6.6,182321,"Very Low",0.28,510.5,"China","Beijing",False
+133,"E03935","Cora Jiang","Vice President","IT","Corporate","Female","Asian",53,"2008-04-30 00:00:00",18.2,182202,"Very Low",0.3,546.61,"United States","Austin",False
+134,"E02613","Everly Lai","Vice President","Marketing","Speciality Products","Female","Asian",52,"1998-04-01 00:00:00",28.3,182035,"Very Low",0.3,546.1,"United States","Chicago",True
+135,"E00556","Grayson Walker","Director","Accounting","Manufacturing","Male","Caucasian",29,"2017-02-19 00:00:00",9.4,181854,"Very Low",0.29,527.38,"United States","Seattle",False
+136,"E04962","Elena Tan","Vice President","Engineering","Manufacturing","Female","Asian",50,"2008-10-13 00:00:00",17.8,181801,"Very Low",0.4,727.2,"China","Chongqing",False
+137,"E04127","Emery Acosta","Vice President","Sales","Research & Development","Female","Latino",42,"2013-09-11 00:00:00",12.9,181452,"Very Low",0.3,544.36,"United States","Columbus",False
+138,"E03349","Adam He","Director","Accounting","Speciality Products","Male","Asian",35,"2017-08-16 00:00:00",8.9,181356,"Very Low",0.23,417.12,"China","Beijing",True
+139,"E02554","Joshua Ramirez","Vice President","Human Resources","Corporate","Male","Latino",44,"2007-09-10 00:00:00",18.9,181247,"Very Low",0.33,598.12,"Brazil","Sao Paulo",False
+140,"E04101","Olivia Harris","Director","Sales","Speciality Products","Female","Caucasian",63,"2020-06-14 00:00:00",6.1,181216,"Very Low",0.27,489.28,"United States","Columbus",False
+141,"E04779","Cameron Young","Vice President","Engineering","Manufacturing","Male","Caucasian",63,"2016-01-18 00:00:00",10.5,180994,"Very Low",0.39,705.88,"United States","Seattle",False
+142,"E01970","Vivian Barnes","Director","Human Resources","Research & Development","Female","Caucasian",51,"2021-03-28 00:00:00",5.3,180687,"Very Low",0.19,343.31,"United States","Phoenix",False
+143,"E03383","Lincoln Hall","Director","Accounting","Speciality Products","Male","Caucasian",26,"2020-07-28 00:00:00",6.0,180664,"Very Low",0.27,487.79,"United States","Chicago",False
+144,"E01668","Naomi Xi","Director","Finance","Corporate","Female","Asian",53,"2002-02-17 00:00:00",24.4,179494,"Very Low",0.2,358.99,"China","Chongqing",False
+145,"E02139","Rylee Yu","Director","Accounting","Research & Development","Female","Asian",36,"2015-09-29 00:00:00",10.8,178700,"Very Low",0.29,518.23,"United States","Seattle",False
+146,"E04571","Hadley Contreras","Director","Engineering","Corporate","Female","Latino",60,"2017-01-04 00:00:00",9.5,178502,"Very Low",0.2,357.0,"United States","Austin",False
+147,"E00607","Jameson Allen","Director","Marketing","Speciality Products","Male","Caucasian",32,"2016-11-28 00:00:00",9.6,177443,"Very Low",0.16,283.91,"United States","Seattle",False
+148,"E04562","Kinsley Martinez","Director","Human Resources","Speciality Products","Female","Latino",52,"1993-08-28 00:00:00",32.9,177443,"Very Low",0.25,443.61,"Brazil","Sao Paulo",True
+149,"E04398","Oliver Yang","Director","Marketing","Speciality Products","Male","Asian",31,"2019-06-10 00:00:00",7.1,176710,"Very Low",0.15,265.06,"United States","Miami",False
+150,"E02980","Hailey Shin","Director","Human Resources","Corporate","Female","Asian",57,"2016-10-24 00:00:00",9.7,176324,"Very Low",0.23,405.55,"China","Shanghai",False
+151,"E00128","Everleigh Espinoza","Director","Human Resources","Manufacturing","Female","Latino",54,"2018-01-22 00:00:00",8.5,176294,"Very Low",0.28,493.62,"United States","Austin",False
+152,"E00163","Bella Powell","Director","Finance","Research & Development","Female","Black",65,"2002-03-04 00:00:00",24.4,175837,"Very Low",0.2,351.67,"United States","Phoenix",False
+153,"E02017","Connor Joseph","Director","Human Resources","Corporate","Male","Caucasian",50,"1998-07-22 00:00:00",28.0,174895,"Very Low",0.15,262.34,"United States","Chicago",False
+154,"E03278","Nicholas Wong","Director","Sales","Research & Development","Male","Asian",27,"2019-11-07 00:00:00",6.7,174607,"Very Low",0.29,506.36,"United States","Columbus",True
+155,"E01337","Andrew Coleman","Director","Finance","Corporate","Male","Caucasian",41,"2019-05-15 00:00:00",7.2,174415,"Very Low",0.23,401.15,"United States","Miami",False
+156,"E02307","Skylar Evans","Director","Accounting","Research & Development","Female","Caucasian",42,"2009-06-04 00:00:00",17.1,174099,"Very Low",0.26,452.66,"United States","Austin",False
+157,"E00568","Ava Garza","Director","Accounting","Manufacturing","Female","Latino",27,"2018-06-25 00:00:00",8.1,174097,"Very Low",0.21,365.6,"United States","Phoenix",True
+158,"E03802","Thomas Vazquez","Director","Engineering","Corporate","Male","Latino",46,"2014-07-19 00:00:00",12.0,173629,"Very Low",0.21,364.62,"Brazil","Sao Paulo",False
+159,"E01309","Everleigh Jiang","Director","Accounting","Research & Development","Female","Asian",58,"2003-05-14 00:00:00",23.2,173071,"Very Low",0.29,501.91,"United States","Columbus",False
+160,"E03484","Logan Rivera","Director","IT","Research & Development","Male","Latino",59,"2002-05-24 00:00:00",24.2,172787,"Very Low",0.28,483.8,"Brazil","Rio de Janerio",False
+161,"E00364","Matthew Howard","Director","Human Resources","Manufacturing","Male","Caucasian",50,"2021-10-17 00:00:00",4.7,172180,"Very Low",0.3,516.54,"United States","Columbus",False
+162,"E04872","Isaac Stewart","Director","Marketing","Speciality Products","Male","Caucasian",25,"2020-08-15 00:00:00",5.9,172007,"Very Low",0.26,447.22,"United States","Miami",False
+163,"E00005","Riley Washington","Director","Sales","Speciality Products","Female","Caucasian",39,"2007-04-29 00:00:00",19.2,171487,"Very Low",0.23,394.42,"United States","Phoenix",False
+164,"E02420","Madison Li","Director","Marketing","Manufacturing","Female","Asian",35,"2017-03-06 00:00:00",9.4,171426,"Very Low",0.15,257.14,"China","Beijing",False
+165,"E02889","Mia Herrera","Director","Marketing","Research & Development","Female","Latino",43,"2014-10-16 00:00:00",11.8,171360,"Very Low",0.23,394.13,"Brazil","Manaus",False
+166,"E03591","Piper Sun","Director","Marketing","Manufacturing","Female","Asian",64,"2011-02-14 00:00:00",15.4,171217,"Very Low",0.19,325.31,"United States","Seattle",False
+167,"E02850","Evelyn Dinh","Director","Sales","Research & Development","Female","Asian",41,"2018-08-10 00:00:00",7.9,171173,"Very Low",0.21,359.46,"United States","Columbus",False
+168,"E02895","Mila Soto","Director","Finance","Research & Development","Female","Latino",65,"2008-10-07 00:00:00",17.8,170221,"Very Low",0.15,255.33,"Brazil","Manaus",False
+169,"E01787","Lillian Romero","Director","Engineering","Corporate","Female","Latino",27,"2018-12-07 00:00:00",7.6,170164,"Very Low",0.17,289.28,"United States","Austin",False
+170,"E01271","Luke Munoz","Director","Engineering","Speciality Products","Male","Latino",64,"2017-08-25 00:00:00",8.9,169509,"Very Low",0.18,305.12,"Brazil","Manaus",False
+171,"E03901","Luca Truong","Director","Marketing","Corporate","Male","Asian",45,"2004-12-11 00:00:00",21.6,168846,"Very Low",0.24,405.23,"China","Chongqing",False
+172,"E00360","Dylan Thao","Director","Engineering","Manufacturing","Male","Asian",53,"2012-10-22 00:00:00",13.7,168510,"Very Low",0.29,488.68,"United States","Seattle",False
+173,"E01896","Adam Nelson","Director","Finance","Speciality Products","Male","Caucasian",25,"2020-01-14 00:00:00",6.5,168014,"Very Low",0.27,453.64,"United States","Chicago",False
+174,"E00624","William Watson","Director","Accounting","Speciality Products","Male","Caucasian",41,"2013-06-04 00:00:00",13.1,167526,"Very Low",0.26,435.57,"United States","Miami",False
+175,"E03830","Eva Coleman","Director","IT","Research & Development","Female","Black",37,"2009-09-20 00:00:00",16.8,167199,"Very Low",0.2,334.4,"United States","Seattle",True
+176,"E01387","Cora Zheng","Director","IT","Manufacturing","Female","Asian",27,"2018-01-03 00:00:00",8.5,167100,"Very Low",0.2,334.2,"China","Chengdu",False
+177,"E00691","Ezekiel Desai","Director","Finance","Research & Development","Male","Asian",42,"2003-01-15 00:00:00",23.5,166599,"Very Low",0.26,433.16,"United States","Seattle",True
+178,"E04625","Adam Dang","Director","Sales","Research & Development","Male","Asian",45,"2002-07-09 00:00:00",24.0,166331,"Very Low",0.18,299.4,"China","Chongqing",False
+179,"E04762","Audrey Richardson","Director","IT","Manufacturing","Female","Caucasian",46,"2018-10-06 00:00:00",7.8,166259,"Very Low",0.17,282.64,"United States","Chicago",False
+180,"E01499","Jade Rojas","Director","Finance","Speciality Products","Female","Latino",37,"2019-01-28 00:00:00",7.5,165927,"Very Low",0.2,331.85,"United States","Phoenix",True
+181,"E02818","Aaron Garza","Director","Sales","Research & Development","Male","Latino",39,"2013-12-27 00:00:00",12.6,165756,"Very Low",0.28,464.12,"United States","Columbus",False
+182,"E02285","Aria Xi","Director","Sales","Research & Development","Female","Asian",45,"2002-03-01 00:00:00",24.4,165181,"Very Low",0.16,264.29,"United States","Seattle",False
+183,"E04363","Savannah Singh","Director","Marketing","Speciality Products","Female","Asian",53,"1997-06-20 00:00:00",29.1,164399,"Very Low",0.25,411.0,"United States","Seattle",False
+184,"E03124","Caleb Nelson","Director","Marketing","Corporate","Male","Caucasian",33,"2017-06-12 00:00:00",9.1,164396,"Very Low",0.29,476.75,"United States","Columbus",False
+185,"E03521","Jackson Navarro","Director","Sales","Corporate","Male","Latino",52,"2020-09-25 00:00:00",5.8,163143,"Very Low",0.28,456.8,"Brazil","Sao Paulo",False
+186,"E02572","Luna Sanders","Director","Finance","Speciality Products","Female","Caucasian",50,"2006-10-26 00:00:00",19.7,163099,"Very Low",0.2,326.2,"United States","Chicago",False
+187,"E00758","Alice Roberts","Director","Human Resources","Manufacturing","Female","Caucasian",54,"1994-09-26 00:00:00",31.8,162978,"Very Low",0.17,277.06,"United States","Miami",True
+188,"E01870","Carson Chau","Director","Finance","Corporate","Male","Asian",58,"2007-10-12 00:00:00",18.8,162038,"Very Low",0.24,388.89,"China","Chongqing",True
+189,"E01123","Madison Nelson","Director","Accounting","Corporate","Female","Caucasian",27,"2021-07-16 00:00:00",5.0,161759,"Very Low",0.16,258.81,"United States","Miami",False
+190,"E03167","Luke Zheng","Director","Human Resources","Speciality Products","Male","Asian",39,"2006-11-28 00:00:00",19.6,161690,"Very Low",0.29,468.9,"China","Beijing",False
+191,"E04994","Bella Holmes","Director","Accounting","Research & Development","Female","Caucasian",35,"2017-06-26 00:00:00",9.1,161269,"Very Low",0.27,435.43,"United States","Miami",False
+192,"E04903","Skylar Liu","Director","IT","Research & Development","Female","Asian",29,"2020-08-09 00:00:00",5.9,161203,"Very Low",0.15,241.8,"China","Chengdu",False
+193,"E02791","Aubrey Romero","Director","Sales","Corporate","Female","Latino",49,"1998-04-02 00:00:00",28.3,160832,"Very Low",0.3,482.5,"United States","Phoenix",False
+194,"E04323","Melody Valdez","Director","IT","Manufacturing","Female","Latino",28,"2021-01-25 00:00:00",5.5,160385,"Very Low",0.23,368.89,"United States","Miami",False
+195,"E00432","Eli Gupta","Director","Human Resources","Research & Development","Male","Asian",37,"2012-05-19 00:00:00",14.2,160280,"Very Low",0.19,304.53,"China","Beijing",False
+196,"E02534","Victoria Johnson","Sr. Manger","Accounting","Corporate","Female","Caucasian",55,"2004-05-28 00:00:00",22.1,159885,"Very Low",0.12,191.86,"United States","Columbus",True
+197,"E00344","Savannah He","Director","IT","Research & Development","Female","Asian",52,"1996-02-14 00:00:00",30.4,159724,"Very Low",0.23,367.37,"China","Beijing",False
+198,"E03612","Grayson Cooper","Sr. Manger","Finance","Speciality Products","Male","Black",64,"2013-06-29 00:00:00",13.1,159571,"Very Low",0.1,159.57,"United States","Columbus",False
+199,"E00170","Claire Adams","Director","Sales","Manufacturing","Female","Black",61,"1997-08-19 00:00:00",28.9,159567,"Very Low",0.28,446.79,"United States","Phoenix",True
+200,"E01582","Elijah Coleman","Sr. Manger","Sales","Research & Development","Male","Caucasian",53,"2014-10-19 00:00:00",11.7,159538,"Very Low",0.11,175.49,"United States","Miami",False
+201,"E00699","Ava Ayala","Sr. Manger","IT","Corporate","Female","Latino",55,"2006-08-16 00:00:00",19.9,159044,"Very Low",0.1,159.04,"Brazil","Manaus",False
+202,"E00515","Joseph Vazquez","Sr. Manger","Accounting","Speciality Products","Male","Latino",40,"2019-01-23 00:00:00",7.5,159031,"Very Low",0.1,159.03,"United States","Miami",False
+203,"E03349","Dylan Chin","Director","Finance","Corporate","Male","Asian",60,"2017-06-05 00:00:00",9.1,158898,"Very Low",0.18,286.02,"United States","Miami",True
+204,"E00530","Naomi Chu","Sr. Manger","Sales","Manufacturing","Female","Asian",46,"2004-02-29 00:00:00",22.4,158897,"Very Low",0.1,158.9,"China","Chongqing",True
+205,"E03750","Elias Dang","Director","Engineering","Speciality Products","Male","Asian",64,"1995-08-29 00:00:00",30.9,158787,"Very Low",0.18,285.82,"China","Chengdu",True
+206,"E02038","Ellie Chung","Sr. Manger","Marketing","Corporate","Female","Asian",59,"2008-08-29 00:00:00",17.9,157969,"Very Low",0.1,157.97,"China","Chongqing",False
+207,"E02992","Paisley Sanders","Sr. Manger","Marketing","Speciality Products","Female","Caucasian",55,"2001-03-27 00:00:00",25.3,157812,"Very Low",0.11,173.59,"United States","Miami",False
+208,"E02801","Santiago f Brooks","Sr. Manger","Sales","Corporate","Male","Black",51,"2000-09-01 00:00:00",25.9,157487,"Very Low",0.12,188.98,"United States","Phoenix",False
+209,"E02810","Layla Torres","Sr. Manger","Finance","Manufacturing","Female","Latino",37,"2013-02-24 00:00:00",13.4,157474,"Very Low",0.11,173.22,"Brazil","Rio de Janerio",False
+210,"E00591","Savannah Ali","Sr. Manger","Human Resources","Manufacturing","Female","Asian",36,"2009-02-11 00:00:00",17.4,157333,"Very Low",0.15,236.0,"United States","Miami",False
+211,"E02534","Leah Khan","Director","Marketing","Corporate","Female","Asian",36,"2010-09-13 00:00:00",15.8,157070,"Very Low",0.28,439.8,"China","Chongqing",True
+212,"E03971","Lillian Chen","Sr. Manger","Marketing","Research & Development","Female","Asian",25,"2020-04-09 00:00:00",6.3,157057,"Very Low",0.1,157.06,"United States","Columbus",False
+213,"E02391","Piper Ramos","Sr. Manger","Sales","Manufacturing","Female","Latino",49,"1996-04-02 00:00:00",30.3,157057,"Very Low",0.12,188.47,"United States","Miami",True
+214,"E00225","Angel Delgado","Director","Finance","Corporate","Male","Latino",31,"2017-08-10 00:00:00",8.9,156931,"Very Low",0.28,439.41,"United States","Seattle",False
+215,"E02693","Grace Campos","Director","Engineering","Research & Development","Female","Latino",37,"2008-03-21 00:00:00",18.3,156277,"Very Low",0.22,343.81,"Brazil","Manaus",False
+216,"E03834","Anthony Carter","Director","Engineering","Speciality Products","Male","Caucasian",41,"2007-03-15 00:00:00",19.4,155926,"Very Low",0.24,374.22,"United States","Columbus",False
+217,"E03550","Stella Wu","Sr. Manger","Marketing","Speciality Products","Female","Asian",35,"2014-02-20 00:00:00",12.4,155905,"Very Low",0.14,218.27,"United States","Phoenix",False
+218,"E02884","Axel Johnson","Director","Human Resources","Corporate","Male","Caucasian",60,"2015-04-14 00:00:00",11.3,155788,"Very Low",0.17,264.84,"United States","Seattle",False
+219,"E03251","Ruby Medina","Director","Sales","Manufacturing","Female","Latino",50,"2018-12-18 00:00:00",7.6,155351,"Very Low",0.2,310.7,"United States","Seattle",False
+220,"E03096","Kennedy Zhang","Director","Finance","Research & Development","Female","Asian",63,"2000-10-27 00:00:00",25.7,155320,"Very Low",0.17,264.04,"China","Chongqing",False
+221,"E00880","Grace Carter","Sr. Manger","Human Resources","Speciality Products","Female","Black",25,"2021-03-17 00:00:00",5.3,155080,"Very Low",0.1,155.08,"United States","Austin",False
+222,"E04749","Caroline Phan","Sr. Manger","Finance","Corporate","Female","Asian",41,"2004-03-14 00:00:00",22.4,155004,"Very Low",0.12,186.0,"United States","Austin",False
+223,"E00943","Elena Mendoza","Director","Sales","Speciality Products","Female","Latino",27,"2018-10-24 00:00:00",7.7,154973,"Very Low",0.29,449.42,"Brazil","Sao Paulo",False
+224,"E04920","Nevaeh Hsu","Sr. Manger","Human Resources","Manufacturing","Female","Asian",32,"2017-04-14 00:00:00",9.3,154956,"Very Low",0.13,201.44,"United States","Phoenix",False
+225,"E01427","Mia Cheng","Sr. Manger","Sales","Manufacturing","Female","Asian",34,"2015-04-22 00:00:00",11.2,154941,"Very Low",0.13,201.42,"United States","Phoenix",False
+226,"E03778","Luke Vu","Sr. Manger","Marketing","Speciality Products","Male","Asian",52,"2018-06-04 00:00:00",8.1,154884,"Very Low",0.1,154.88,"China","Shanghai",False
+227,"E00884","Camila Silva","Sr. Manger","Marketing","Speciality Products","Female","Latino",64,"2003-12-01 00:00:00",22.6,154828,"Very Low",0.13,201.28,"United States","Seattle",False
+228,"E03795","Hazel Young","Sr. Manger","Sales","Speciality Products","Female","Black",30,"2017-08-13 00:00:00",8.9,154624,"Very Low",0.15,231.94,"United States","Austin",False
+229,"E03168","Nora Le","Sr. Manger","IT","Manufacturing","Female","Asian",53,"1997-04-12 00:00:00",29.3,154388,"Very Low",0.1,154.39,"United States","Seattle",False
+230,"E02938","John Trinh","Director","Marketing","Corporate","Male","Asian",49,"2014-06-26 00:00:00",12.1,153961,"Very Low",0.25,384.9,"China","Shanghai",True
+231,"E00976","Zoe Rodriguez","Director","Human Resources","Speciality Products","Female","Latino",65,"2004-05-23 00:00:00",22.2,153938,"Very Low",0.2,307.88,"United States","Phoenix",False
+232,"E03310","Dylan Campbell","Director","Engineering","Speciality Products","Male","Caucasian",45,"2010-11-29 00:00:00",15.6,153767,"Very Low",0.27,415.17,"United States","Phoenix",False
+233,"E01193","Raelynn Lu","Director","Finance","Research & Development","Female","Asian",27,"2020-05-26 00:00:00",6.1,153628,"Very Low",0.29,445.52,"China","Chongqing",False
+234,"E00711","Melody Chin","Sr. Manger","Finance","Corporate","Female","Asian",43,"2006-10-15 00:00:00",19.8,153492,"Very Low",0.11,168.84,"United States","Chicago",False
+235,"E04299","Paisley Hall","Director","Human Resources","Speciality Products","Female","Caucasian",41,"2010-05-21 00:00:00",16.2,153275,"Very Low",0.24,367.86,"United States","Columbus",False
+236,"E01238","Eloise Griffin","Director","Sales","Manufacturing","Female","Caucasian",55,"1995-10-29 00:00:00",30.7,153271,"Very Low",0.15,229.91,"United States","Austin",False
+237,"E01350","Natalie Carter","Director","Finance","Corporate","Female","Caucasian",64,"2012-12-21 00:00:00",13.6,153253,"Very Low",0.24,367.81,"United States","Austin",False
+238,"E04417","Chloe Salazar","Sr. Manger","Human Resources","Speciality Products","Female","Latino",45,"2011-05-22 00:00:00",15.2,152353,"Very Low",0.14,213.29,"United States","Seattle",False
+239,"E02206","Jose Henderson","Director","Human Resources","Speciality Products","Male","Black",41,"2015-04-17 00:00:00",11.3,152239,"Very Low",0.23,350.15,"United States","Columbus",False
+240,"E01234","Jack Cheng","Director","Human Resources","Manufacturing","Male","Asian",42,"2014-01-16 00:00:00",12.5,152214,"Very Low",0.3,456.64,"China","Beijing",False
+241,"E01883","Isla Guzman","Sr. Manger","Accounting","Speciality Products","Female","Latino",28,"2019-07-06 00:00:00",7.0,152036,"Very Low",0.15,228.05,"Brazil","Rio de Janerio",True
+242,"E02477","Amelia Bui","Director","Engineering","Speciality Products","Female","Asian",46,"2020-10-21 00:00:00",5.7,151853,"Very Low",0.16,242.96,"China","Chengdu",False
+243,"E01488","Penelope Griffin","Director","Sales","Manufacturing","Female","Caucasian",61,"2021-01-23 00:00:00",5.5,151783,"Very Low",0.26,394.64,"United States","Seattle",True
+244,"E04732","Eva Rivera","Director","Sales","Manufacturing","Female","Latino",36,"2021-04-02 00:00:00",5.3,151703,"Very Low",0.21,318.58,"United States","Miami",True
+245,"E02558","Jose Richardson","Director","Marketing","Research & Development","Male","Caucasian",26,"2019-10-15 00:00:00",6.8,151556,"Very Low",0.2,303.11,"United States","Miami",False
+246,"E03027","Elijah Watson","Sr. Manger","Sales","Manufacturing","Male","Caucasian",29,"2017-03-16 00:00:00",9.3,151413,"Very Low",0.15,227.12,"United States","Seattle",False
+247,"E02561","Samantha Vargas","Director","Human Resources","Corporate","Female","Latino",53,"2006-07-21 00:00:00",20.0,151246,"Very Low",0.21,317.62,"Brazil","Sao Paulo",False
+248,"E02681","Caroline Owens","Director","IT","Speciality Products","Female","Caucasian",26,"2021-07-26 00:00:00",5.0,151108,"Very Low",0.22,332.44,"United States","Phoenix",False
+249,"E01116","Jaxon Tran","Sr. Manger","Sales","Manufacturing","Male","Asian",45,"2007-09-07 00:00:00",18.9,151027,"Very Low",0.1,151.03,"China","Shanghai",False
+250,"E04662","Julia Morris","Sr. Manger","Human Resources","Corporate","Female","Caucasian",60,"2008-10-18 00:00:00",17.8,150855,"Very Low",0.11,165.94,"United States","Phoenix",False
+251,"E02108","Madeline Coleman","Sr. Manger","Finance","Research & Development","Female","Caucasian",51,"2006-04-28 00:00:00",20.2,150758,"Very Low",0.13,195.99,"United States","Chicago",False
+252,"E01924","Anna Gutierrez","Director","Engineering","Research & Development","Female","Latino",59,"2003-04-15 00:00:00",23.3,150699,"Very Low",0.29,437.03,"Brazil","Sao Paulo",False
+253,"E02191","Maria Sun","Director","Sales","Corporate","Female","Asian",25,"2021-12-19 00:00:00",4.6,150666,"Very Low",0.23,346.53,"China","Chengdu",False
+254,"E04132","Kinsley Henry","Director","Marketing","Manufacturing","Female","Black",45,"2008-02-29 00:00:00",18.4,150577,"Very Low",0.25,376.44,"United States","Miami",False
+255,"E01465","Hannah White","Sr. Manger","Accounting","Corporate","Female","Caucasian",62,"2009-01-30 00:00:00",17.5,150555,"Very Low",0.13,195.72,"United States","Phoenix",False
+256,"E03630","Jacob Davis","Director","Accounting","Research & Development","Male","Caucasian",36,"2016-09-03 00:00:00",9.9,150399,"Very Low",0.28,421.12,"United States","Chicago",False
+257,"E04035","Hailey Lai","Sr. Manger","Finance","Manufacturing","Female","Asian",42,"2011-03-18 00:00:00",15.3,150034,"Very Low",0.12,180.04,"China","Beijing",True
+258,"E02706","Lucy Figueroa","Sr. Manger","Finance","Research & Development","Female","Latino",45,"2016-01-10 00:00:00",10.5,149761,"Very Low",0.12,179.71,"United States","Columbus",True
+259,"E00957","Genesis Perry","Sr. Manger","Sales","Corporate","Female","Caucasian",46,"2013-07-18 00:00:00",13.0,149712,"Very Low",0.14,209.6,"United States","Columbus",False
+260,"E00702","Nathan Pham","Sr. Manger","Accounting","Manufacturing","Male","Asian",45,"2006-12-12 00:00:00",19.6,149537,"Very Low",0.14,209.35,"United States","Seattle",False
+261,"E01300","Sadie Lee","Sr. Manger","Marketing","Corporate","Female","Asian",65,"2000-10-24 00:00:00",25.7,149417,"Very Low",0.13,194.24,"China","Chengdu",False
+262,"E02800","Eva Estrada","Sr. Manger","Sales","Speciality Products","Female","Latino",45,"2018-07-24 00:00:00",8.0,148991,"Very Low",0.12,178.79,"Brazil","Sao Paulo",False
+263,"E04972","Logan Bryant","Sr. Manger","Marketing","Speciality Products","Male","Caucasian",30,"2020-07-18 00:00:00",6.0,148485,"Very Low",0.15,222.73,"United States","Miami",True
+264,"E03807","Noah Chen","Sr. Manger","Marketing","Manufacturing","Male","Asian",63,"2015-03-01 00:00:00",11.4,148321,"Very Low",0.15,222.48,"China","Beijing",True
+265,"E00156","Madelyn Scott","Sr. Manger","IT","Research & Development","Female","Caucasian",46,"2002-01-09 00:00:00",24.5,148035,"Very Low",0.14,207.25,"United States","Phoenix",False
+266,"E01943","Vivian Espinoza","Sr. Manger","Sales","Corporate","Female","Latino",52,"2006-10-05 00:00:00",19.8,147966,"Very Low",0.11,162.76,"Brazil","Rio de Janerio",False
+267,"E01052","Jaxson Dinh","Sr. Manger","Marketing","Research & Development","Male","Asian",45,"2001-05-03 00:00:00",25.2,147752,"Very Low",0.12,177.3,"China","Shanghai",True
+268,"E01578","Anthony Hong","Sr. Manger","IT","Research & Development","Male","Asian",37,"2010-11-29 00:00:00",15.6,146961,"Very Low",0.11,161.66,"United States","Columbus",False
+269,"E04239","Everleigh Ng","Sr. Manger","Finance","Research & Development","Female","Asian",51,"2021-06-10 00:00:00",5.1,146742,"Very Low",0.1,146.74,"China","Shanghai",False
+270,"E03680","Elias Alvarado","Sr. Manger","IT","Manufacturing","Male","Latino",56,"2012-01-09 00:00:00",14.5,146140,"Very Low",0.1,146.14,"Brazil","Manaus",False
+271,"E02965","Andrew Do","Sr. Manger","Finance","Research & Development","Male","Asian",43,"2021-04-17 00:00:00",5.2,146140,"Very Low",0.15,219.21,"United States","Seattle",False
+272,"E04037","Roman Martinez","Sr. Manger","Finance","Research & Development","Male","Latino",31,"2015-09-19 00:00:00",10.8,145846,"Very Low",0.15,218.77,"Brazil","Manaus",False
+273,"E01111","Santiago f Moua","Sr. Manger","Human Resources","Corporate","Male","Asian",45,"2010-05-07 00:00:00",16.2,145093,"Very Low",0.12,174.11,"United States","Chicago",False
+274,"E02088","Skylar Ayala","Sr. Manger","Finance","Corporate","Female","Latino",55,"2017-02-06 00:00:00",9.4,144986,"Very Low",0.12,173.98,"United States","Phoenix",False
+275,"E04130","Elias Figueroa","Sr. Manger","Finance","Corporate","Male","Latino",45,"2021-12-24 00:00:00",4.6,144754,"Very Low",0.15,217.13,"United States","Phoenix",False
+276,"E00276","Ezekiel Jordan","Sr. Manger","Accounting","Corporate","Male","Caucasian",33,"2013-02-10 00:00:00",13.4,144231,"Very Low",0.14,201.92,"United States","Columbus",True
+277,"E03866","Jordan Zhu","Sr. Manger","Marketing","Manufacturing","Male","Asian",32,"2017-01-29 00:00:00",9.5,143970,"Very Low",0.12,172.76,"United States","Seattle",False
+278,"E02907","Jose Singh","Sr. Manger","Finance","Speciality Products","Male","Asian",44,"2010-04-06 00:00:00",16.3,142878,"Very Low",0.12,171.45,"United States","Columbus",False
+279,"E01789","Charles Luu","Sr. Manger","Sales","Manufacturing","Male","Asian",25,"2021-06-15 00:00:00",5.1,142731,"Very Low",0.11,157.0,"China","Shanghai",False
+280,"E03327","Julia Luong","Sr. Manger","Accounting","Research & Development","Female","Asian",55,"2006-06-20 00:00:00",20.1,142628,"Very Low",0.12,171.15,"China","Chongqing",False
+281,"E01412","Eva Jenkins","Sr. Manger","Human Resources","Manufacturing","Female","Black",55,"2004-11-10 00:00:00",21.7,142318,"Very Low",0.14,199.25,"United States","Chicago",False
+282,"E02166","John Soto","Sr. Manger","Finance","Manufacturing","Male","Latino",60,"2015-09-23 00:00:00",10.8,141899,"Very Low",0.15,212.85,"United States","Phoenix",True
+283,"E02387","Emily Davis","Sr. Manger","IT","Research & Development","Female","Black",55,"2016-04-08 00:00:00",10.3,141604,"Very Low",0.15,212.41,"United States","Seattle",False
+284,"E01407","Ellie Guerrero","Sr. Manger","Human Resources","Corporate","Female","Latino",29,"2020-07-13 00:00:00",6.0,141555,"Very Low",0.11,155.71,"Brazil","Manaus",False
+285,"E00595","Everly Chow","Sr. Manger","Finance","Speciality Products","Female","Asian",33,"2018-04-21 00:00:00",8.2,140402,"Very Low",0.15,210.6,"China","Beijing",False
+286,"E01076","Sofia Vu","Sr. Manger","Human Resources","Research & Development","Female","Asian",52,"2017-09-05 00:00:00",8.9,140042,"Very Low",0.13,182.05,"United States","Austin",False
+287,"E02604","Brooklyn Collins","Sr. Manger","Finance","Corporate","Female","Black",59,"2018-10-27 00:00:00",7.7,139208,"Very Low",0.11,153.13,"United States","Austin",False
+288,"E03528","Leo Hsu","Sr. Manger","Human Resources","Manufacturing","Male","Asian",62,"2017-11-22 00:00:00",8.7,138808,"Very Low",0.15,208.21,"China","Chongqing",False
+289,"E01921","Sarah Daniels","Sr. Manger","Accounting","Manufacturing","Female","Caucasian",55,"2011-01-09 00:00:00",15.5,138521,"Very Low",0.1,138.52,"United States","Miami",False
+290,"E03956","Everly Walker","Sr. Manger","Sales","Research & Development","Female","Caucasian",62,"1999-08-02 00:00:00",27.0,137995,"Very Low",0.14,193.19,"United States","Austin",False
+291,"E01422","Lydia Espinoza","Sr. Manger","Marketing","Speciality Products","Female","Latino",29,"2020-05-15 00:00:00",6.2,137106,"Very Low",0.12,164.53,"Brazil","Sao Paulo",False
+292,"E04165","Sophie Vang","Sr. Manger","Marketing","Manufacturing","Female","Asian",25,"2021-09-14 00:00:00",4.8,136810,"Very Low",0.14,191.53,"China","Chongqing",False
+293,"E04089","Sebastian Fong","Sr. Manger","IT","Manufacturing","Male","Asian",46,"2017-12-16 00:00:00",8.6,136716,"Very Low",0.12,164.06,"United States","Austin",False
+294,"E03412","Joshua Martin","Sr. Manger","Human Resources","Research & Development","Male","Black",42,"2003-10-20 00:00:00",22.8,135558,"Very Low",0.14,189.78,"United States","Phoenix",False
+295,"E01064","Clara Kang","Sr. Manger","IT","Manufacturing","Female","Asian",39,"2017-03-25 00:00:00",9.3,135325,"Very Low",0.14,189.46,"United States","Phoenix",False
+296,"E00716","John Chow","Sr. Manger","Marketing","Research & Development","Male","Asian",45,"2021-03-11 00:00:00",5.4,135062,"Very Low",0.15,202.59,"China","Chengdu",False
+297,"E03393","Henry Figueroa","Sr. Manger","Finance","Manufacturing","Male","Latino",46,"2010-07-19 00:00:00",16.0,134881,"Very Low",0.15,202.32,"Brazil","Manaus",False
+298,"E01642","Mia Lam","Sr. Manger","IT","Manufacturing","Female","Asian",49,"2006-04-18 00:00:00",20.3,134486,"Very Low",0.14,188.28,"United States","Austin",False
+299,"E02363","Eliza Liang","Sr. Manger","Human Resources","Speciality Products","Female","Asian",36,"2010-03-11 00:00:00",16.4,134006,"Very Low",0.13,174.21,"China","Beijing",False
+300,"E00647","Dylan Ali","Sr. Manger","Human Resources","Speciality Products","Male","Asian",27,"2021-04-16 00:00:00",5.3,133400,"Very Low",0.11,146.74,"United States","Phoenix",True
+301,"E01652","Avery Dominguez","Sr. Manger","Sales","Corporate","Female","Latino",27,"2019-09-13 00:00:00",6.8,133297,"Very Low",0.13,173.29,"Brazil","Rio de Janerio",False
+302,"E02888","Elijah Ramos","Sr. Manger","IT","Speciality Products","Male","Latino",33,"2012-12-24 00:00:00",13.6,132544,"Very Low",0.1,132.54,"Brazil","Rio de Janerio",False
+303,"E04972","Ivy Daniels","Sr. Manger","Human Resources","Speciality Products","Female","Caucasian",41,"2008-10-26 00:00:00",17.7,131841,"Very Low",0.13,171.39,"United States","Columbus",True
+304,"E02665","Bella Butler","Sr. Manger","Finance","Manufacturing","Female","Black",33,"2019-10-25 00:00:00",6.7,131652,"Very Low",0.11,144.82,"United States","Seattle",False
+305,"E00089","Sofia Yoon","Sr. Manger","Human Resources","Research & Development","Female","Asian",37,"2011-01-17 00:00:00",15.5,131353,"Very Low",0.11,144.49,"China","Shanghai",False
+306,"E01755","Audrey Patel","Sr. Manger","Finance","Speciality Products","Female","Asian",37,"2011-04-24 00:00:00",15.2,131183,"Very Low",0.14,183.66,"China","Shanghai",False
+307,"E01188","Alexander James","Sr. Manger","Human Resources","Manufacturing","Male","Caucasian",42,"2013-04-18 00:00:00",13.3,131179,"Very Low",0.15,196.77,"United States","Columbus",False
+308,"E00085","Mason Watson","Sr. Manger","IT","Corporate","Male","Caucasian",46,"2004-09-14 00:00:00",21.8,130274,"Very Low",0.11,143.3,"United States","Chicago",True
+309,"E02857","Mason Jimenez","Sr. Manger","Finance","Speciality Products","Male","Latino",44,"2019-08-08 00:00:00",6.9,130133,"Very Low",0.15,195.2,"United States","Austin",True
+310,"E04564","Luke Sanchez","Sr. Manger","Human Resources","Manufacturing","Male","Latino",41,"2015-12-27 00:00:00",10.6,129903,"Very Low",0.13,168.87,"Brazil","Sao Paulo",False
+311,"E04630","Maria Griffin","Manager","Marketing","Manufacturing","Female","Caucasian",59,"2007-04-25 00:00:00",19.2,129708,"Very Low",0.05,64.85,"United States","Miami",False
+312,"E04542","Camila Cortez","Manager","Marketing","Manufacturing","Female","Latino",29,"2021-05-09 00:00:00",5.2,129541,"Very Low",0.08,103.63,"United States","Phoenix",False
+313,"E04890","Eleanor Chan","Sr. Manger","Accounting","Manufacturing","Female","Asian",49,"2001-04-02 00:00:00",25.3,129124,"Very Low",0.12,154.95,"China","Shanghai",False
+314,"E03131","Ezekiel Reed","Sr. Manger","IT","Manufacturing","Male","Caucasian",37,"2014-02-25 00:00:00",12.4,128984,"Very Low",0.12,154.78,"United States","Miami",False
+315,"E02375","Lincoln Huynh","Sr. Manger","Finance","Manufacturing","Male","Asian",63,"2002-02-08 00:00:00",24.4,128703,"Very Low",0.13,167.31,"United States","Austin",False
+316,"E02716","Dominic Dinh","Sr. Manger","Marketing","Speciality Products","Male","Asian",45,"2005-04-11 00:00:00",21.3,128468,"Very Low",0.11,141.31,"United States","Chicago",False
+317,"E03220","Alexander Gonzales","Manager","Accounting","Research & Development","Male","Latino",34,"2018-06-04 00:00:00",8.1,128329,"Very Low",0.08,102.66,"United States","Phoenix",False
+318,"E03081","Ayla Brown","Sr. Manger","Sales","Manufacturing","Female","Caucasian",49,"2013-04-15 00:00:00",13.3,128303,"Very Low",0.15,192.45,"United States","Phoenix",False
+319,"E02770","James Huang","Manager","Human Resources","Speciality Products","Male","Asian",54,"1997-03-11 00:00:00",29.4,128136,"Very Low",0.05,64.07,"China","Beijing",True
+320,"E04419","Sophia Ahmed","Sr. Manger","Sales","Speciality Products","Female","Asian",30,"2015-06-13 00:00:00",11.1,127972,"Very Low",0.11,140.77,"United States","Seattle",False
+321,"E03490","Henry Campos","Sr. Manger","Human Resources","Corporate","Male","Latino",38,"2009-09-27 00:00:00",16.8,127801,"Very Low",0.15,191.7,"United States","Phoenix",False
+322,"E01108","Hannah Martinez","Manager","Marketing","Manufacturing","Female","Latino",65,"2006-09-07 00:00:00",19.9,127626,"Very Low",0.1,127.63,"United States","Miami",False
+323,"E02427","Addison Mehta","Manager","Sales","Corporate","Female","Asian",27,"2018-09-15 00:00:00",7.8,127616,"Very Low",0.07,89.33,"United States","Columbus",False
+324,"E03616","Josiah Lewis","Manager","IT","Research & Development","Male","Caucasian",46,"2021-08-11 00:00:00",4.9,127559,"Very Low",0.1,127.56,"United States","Austin",False
+325,"E01002","Elias Ali","Manager","Sales","Corporate","Male","Asian",28,"2021-03-19 00:00:00",5.3,127543,"Very Low",0.06,76.53,"China","Shanghai",False
+326,"E04095","Ryan Holmes","Sr. Manger","Marketing","Speciality Products","Male","Caucasian",45,"2018-01-11 00:00:00",8.5,127422,"Very Low",0.15,191.13,"United States","Columbus",True
+327,"E04888","Elijah Henry","Manager","IT","Corporate","Male","Caucasian",32,"2014-01-03 00:00:00",12.5,127148,"Very Low",0.1,127.15,"United States","Miami",False
+328,"E00676","Isaac Yoon","Manager","Human Resources","Corporate","Male","Asian",41,"2019-02-06 00:00:00",7.4,126950,"Very Low",0.1,126.95,"United States","Chicago",False
+329,"E03854","Camila Li","Sr. Manger","IT","Research & Development","Female","Asian",60,"2010-07-24 00:00:00",16.0,126911,"Very Low",0.1,126.91,"China","Shanghai",False
+330,"E01860","Jack Edwards","Manager","Marketing","Manufacturing","Male","Caucasian",38,"2008-04-06 00:00:00",18.3,126856,"Very Low",0.06,76.11,"United States","Columbus",False
+331,"E01338","Jaxson Coleman","Manager","Finance","Manufacturing","Male","Caucasian",32,"2020-04-15 00:00:00",6.3,126671,"Very Low",0.09,114.0,"United States","Miami",False
+332,"E03277","Caroline Hu","Sr. Manger","Marketing","Speciality Products","Female","Asian",31,"2019-08-18 00:00:00",6.9,126353,"Very Low",0.12,151.62,"China","Shanghai",False
+333,"E02899","Joshua Cortez","Sr. Manger","Finance","Corporate","Male","Latino",44,"2007-08-11 00:00:00",18.9,126277,"Very Low",0.13,164.16,"Brazil","Manaus",False
+334,"E04682","Colton Thao","Manager","Human Resources","Manufacturing","Male","Asian",55,"1995-11-16 00:00:00",30.7,125936,"Very Low",0.08,100.75,"China","Chongqing",False
+335,"E01584","Carter Mejia","Sr. Manger","Human Resources","Research & Development","Male","Latino",29,"2019-05-09 00:00:00",7.2,125828,"Very Low",0.15,188.74,"Brazil","Sao Paulo",True
+336,"E01902","Eleanor Li","Sr. Manger","Human Resources","Research & Development","Female","Asian",64,"2003-12-07 00:00:00",22.6,125807,"Very Low",0.15,188.71,"United States","Chicago",False
+337,"E01977","Raelynn Gupta","Sr. Manger","Finance","Corporate","Female","Asian",48,"2001-09-10 00:00:00",24.9,125730,"Very Low",0.11,138.3,"China","Chongqing",False
+338,"E02862","Peyton Huang","Sr. Manger","IT","Manufacturing","Female","Asian",25,"2021-07-02 00:00:00",5.0,125633,"Very Low",0.11,138.2,"China","Beijing",False
+339,"E01070","Leonardo Martin","Manager","Finance","Speciality Products","Male","Black",51,"1995-02-16 00:00:00",31.4,125375,"Very Low",0.09,112.84,"United States","Chicago",True
+340,"E01241","Hadley Guerrero","Sr. Manger","IT","Research & Development","Female","Latino",49,"2004-01-14 00:00:00",22.5,125086,"Very Low",0.1,125.09,"Brazil","Sao Paulo",False
+341,"E00324","Hailey Song","Manager","Finance","Research & Development","Female","Asian",37,"2016-08-23 00:00:00",9.9,124928,"Very Low",0.06,74.96,"China","Chongqing",False
+342,"E02661","Maya Chan","Controls Engineer","Engineering","Speciality Products","Female","Asian",37,"2013-02-13 00:00:00",13.4,124827,"Very Low",0.0,0.0,"China","Beijing",False
+343,"E04536","Layla Scott","Sr. Manger","Accounting","Speciality Products","Female","Caucasian",48,"2010-07-30 00:00:00",16.0,124774,"Very Low",0.12,149.73,"United States","Phoenix",False
+344,"E03694","Hailey Watson","Sr. Manger","Accounting","Corporate","Female","Black",31,"2017-01-20 00:00:00",9.5,124629,"Very Low",0.1,124.63,"United States","Columbus",True
+345,"E02844","Charles Diaz","Sr. Manger","Sales","Corporate","Male","Latino",55,"2013-11-16 00:00:00",12.7,124129,"Very Low",0.15,186.19,"Brazil","Sao Paulo",False
+346,"E01733","Eloise Pham","Manager","Sales","Speciality Products","Female","Asian",45,"2011-10-20 00:00:00",14.7,123640,"Very Low",0.07,86.55,"China","Shanghai",False
+347,"E02024","Addison Perez","Operations Engineer","Engineering","Speciality Products","Female","Latino",29,"2020-09-25 00:00:00",5.8,123588,"Very Low",0.0,0.0,"Brazil","Sao Paulo",True
+348,"E03189","Asher Jackson","Sr. Manger","Sales","Speciality Products","Male","Caucasian",50,"2003-03-25 00:00:00",23.3,123405,"Very Low",0.13,160.43,"United States","Columbus",False
+349,"E00206","Theodore Xi","Manager","Finance","Corporate","Male","Asian",52,"2009-10-05 00:00:00",16.8,122890,"Very Low",0.07,86.02,"China","Shanghai",False
+350,"E02769","Riley Marquez","Sr. Manger","Finance","Research & Development","Female","Latino",39,"2019-10-18 00:00:00",6.7,122829,"Very Low",0.11,135.11,"United States","Chicago",True
+351,"E01986","Wesley Sharma","Manager","IT","Corporate","Male","Asian",51,"1994-02-23 00:00:00",32.4,122802,"Very Low",0.05,61.4,"China","Shanghai",False
+352,"E03252","James Bui","Manager","Finance","Manufacturing","Male","Asian",64,"1998-07-20 00:00:00",28.0,122753,"Very Low",0.09,110.48,"China","Chongqing",False
+353,"E02059","Roman Munoz","Sr. Manger","Sales","Speciality Products","Male","Latino",54,"2011-10-20 00:00:00",14.7,122644,"Very Low",0.12,147.17,"United States","Austin",False
+354,"E00342","Wesley Doan","Manager","Finance","Corporate","Male","Asian",63,"2004-04-19 00:00:00",22.3,122487,"Very Low",0.08,97.99,"China","Shanghai",False
+355,"E00586","Sadie Washington","Sr. Manger","Marketing","Research & Development","Female","Caucasian",29,"2019-05-24 00:00:00",7.2,122350,"Very Low",0.12,146.82,"United States","Phoenix",False
+356,"E01636","Naomi Coleman","Manager","Marketing","Corporate","Female","Caucasian",29,"2016-11-02 00:00:00",9.7,122054,"Very Low",0.06,73.23,"United States","Phoenix",False
+357,"E03968","Joshua Chin","Sr. Manger","Marketing","Manufacturing","Male","Asian",60,"2021-07-26 00:00:00",5.0,121480,"Very Low",0.14,170.07,"United States","Phoenix",False
+358,"E00034","Caroline Herrera","Sr. Manger","Marketing","Manufacturing","Female","Latino",45,"2004-08-19 00:00:00",21.9,121065,"Very Low",0.15,181.6,"Brazil","Rio de Janerio",False
+359,"E01753","Connor Fong","Manager","Accounting","Speciality Products","Male","Asian",40,"2018-02-16 00:00:00",8.4,120905,"Very Low",0.05,60.45,"United States","Seattle",False
+360,"E02761","Luca Duong","Manager","Human Resources","Research & Development","Male","Asian",48,"2004-06-30 00:00:00",22.1,120660,"Very Low",0.07,84.46,"China","Chengdu",False
+361,"E04226","Andrew Moore","Operations Engineer","Engineering","Manufacturing","Male","Caucasian",47,"2001-01-02 00:00:00",25.6,120628,"Very Low",0.0,0.0,"United States","Chicago",False
+362,"E04798","Aurora Ali","Manager","Marketing","Research & Development","Female","Asian",30,"2016-04-24 00:00:00",10.2,120341,"Very Low",0.07,84.24,"United States","Seattle",False
+363,"E03248","Lyla Stewart","Sr. Manger","IT","Speciality Products","Female","Caucasian",43,"2015-03-27 00:00:00",11.3,120321,"Very Low",0.12,144.39,"United States","Austin",False
+364,"E00535","Nathan Mendez","Manager","IT","Speciality Products","Male","Latino",53,"2006-10-31 00:00:00",19.7,120128,"Very Low",0.1,120.13,"United States","Austin",False
+365,"E02987","Mateo Harris","Manager","IT","Corporate","Male","Caucasian",30,"2017-08-05 00:00:00",9.0,119906,"Very Low",0.05,59.95,"United States","Columbus",False
+366,"E01550","Ruby Barnes","Manager","IT","Corporate","Female","Caucasian",27,"2020-07-01 00:00:00",6.0,119746,"Very Low",0.1,119.75,"United States","Phoenix",False
+367,"E03457","Ivy Desai","Controls Engineer","Engineering","Research & Development","Female","Asian",59,"2001-04-09 00:00:00",25.3,119699,"Very Low",0.0,0.0,"China","Shanghai",False
+368,"E04168","Mila Juarez","Manager","Sales","Speciality Products","Female","Latino",38,"2017-09-21 00:00:00",8.8,119647,"Very Low",0.09,107.68,"Brazil","Sao Paulo",False
+369,"E02478","Alexander Morris","Manager","Sales","Speciality Products","Male","Caucasian",33,"2013-06-21 00:00:00",13.1,119631,"Very Low",0.06,71.78,"United States","Phoenix",False
+370,"E02703","Austin Vang","Manager","Marketing","Speciality Products","Male","Asian",49,"2018-05-20 00:00:00",8.2,119397,"Very Low",0.09,107.46,"China","Beijing",False
+371,"E04403","Dominic Hu","Manager","Accounting","Speciality Products","Male","Asian",34,"2012-02-13 00:00:00",14.4,118708,"Very Low",0.07,83.1,"China","Shanghai",False
+372,"E00503","Leah Patterson","Manager","Human Resources","Research & Development","Female","Caucasian",33,"2012-06-11 00:00:00",14.1,118253,"Very Low",0.08,94.6,"United States","Austin",False
+373,"E02938","Jace Washington","Manager","Accounting","Research & Development","Male","Caucasian",44,"2002-02-09 00:00:00",24.4,117545,"Very Low",0.06,70.53,"United States","Phoenix",True
+374,"E00742","Cooper Mitchell","Manager","Sales","Speciality Products","Male","Caucasian",43,"2006-01-31 00:00:00",20.5,117518,"Very Low",0.07,82.26,"United States","Seattle",False
+375,"E04517","Amelia Choi","Manager","Marketing","Speciality Products","Female","Asian",43,"2006-06-11 00:00:00",20.1,117278,"Very Low",0.09,105.55,"United States","Miami",False
+376,"E03379","Landon Kim","Manager","Human Resources","Speciality Products","Male","Asian",50,"2012-03-15 00:00:00",14.3,117226,"Very Low",0.08,93.78,"United States","Phoenix",False
+377,"E04937","Ian Ngo","Manager","Sales","Speciality Products","Male","Asian",52,"2014-08-07 00:00:00",11.9,117062,"Very Low",0.07,81.94,"United States","Phoenix",False
+378,"E01525","Jose Ross","Engineering Manager","Engineering","Research & Development","Male","Caucasian",53,"1992-04-08 00:00:00",34.3,116878,"Very Low",0.11,128.57,"United States","Miami",True
+379,"E04415","Leonardo Luong","Manager","Finance","Manufacturing","Male","Asian",52,"1999-12-29 00:00:00",26.6,116527,"Very Low",0.07,81.57,"United States","Phoenix",True
+380,"E01167","Kinsley Collins","Automation Engineer","Engineering","Speciality Products","Female","Caucasian",28,"2018-11-14 00:00:00",7.7,115854,"Very Low",0.0,0.0,"United States","Phoenix",False
+381,"E02166","Lucas Thomas","Manager","Accounting","Research & Development","Male","Caucasian",55,"2000-04-28 00:00:00",26.2,115798,"Very Low",0.05,57.9,"United States","Miami",True
+382,"E03563","Ian Barnes","Operations Engineer","Engineering","Corporate","Male","Caucasian",47,"2020-06-08 00:00:00",6.1,115765,"Very Low",0.0,0.0,"United States","Miami",False
+383,"E00703","Wesley Dominguez","Engineering Manager","Engineering","Corporate","Male","Latino",45,"2018-04-27 00:00:00",8.2,115490,"Very Low",0.12,138.59,"United States","Chicago",False
+384,"E00365","Jonathan Patel","Manager","Marketing","Corporate","Male","Asian",28,"2020-02-02 00:00:00",6.5,115417,"Very Low",0.06,69.25,"China","Shanghai",False
+385,"E02576","Gianna Ha","Manager","IT","Research & Development","Female","Asian",55,"2005-02-08 00:00:00",21.4,115145,"Very Low",0.05,57.57,"China","Chongqing",False
+386,"E03305","Hannah King","Manager","Accounting","Speciality Products","Female","Caucasian",31,"2014-10-07 00:00:00",11.8,114911,"Very Low",0.07,80.44,"United States","Chicago",True
+387,"E00785","Hannah Hoang","Manager","Accounting","Speciality Products","Female","Asian",25,"2021-12-15 00:00:00",4.6,114893,"Very Low",0.06,68.94,"China","Chengdu",False
+388,"E00440","Jack Huynh","Manager","Marketing","Research & Development","Male","Asian",27,"2018-09-25 00:00:00",7.8,114441,"Very Low",0.1,114.44,"China","Chongqing",True
+389,"E03919","Grayson Chan","Engineering Manager","Engineering","Speciality Products","Male","Asian",46,"2011-10-20 00:00:00",14.7,114250,"Very Low",0.14,159.95,"China","Chengdu",False
+390,"E01118","Roman Yang","Manager","Human Resources","Manufacturing","Male","Asian",42,"2009-12-12 00:00:00",16.6,114242,"Very Low",0.08,91.39,"United States","Phoenix",False
+391,"E01409","Jose Molina","Controls Engineer","Engineering","Manufacturing","Male","Latino",40,"2008-02-28 00:00:00",18.4,113987,"Very Low",0.0,0.0,"Brazil","Manaus",False
+392,"E04751","Grayson James","Operations Engineer","Engineering","Speciality Products","Male","Caucasian",54,"2010-12-05 00:00:00",15.6,113982,"Very Low",0.0,0.0,"United States","Seattle",False
+393,"E04247","Camila Evans","Manager","Marketing","Research & Development","Female","Black",55,"1992-12-20 00:00:00",33.6,113950,"Very Low",0.09,102.56,"United States","Miami",False
+394,"E03889","Caleb Flores","Manager","Human Resources","Manufacturing","Male","Latino",34,"2013-08-13 00:00:00",12.9,113909,"Very Low",0.06,68.35,"Brazil","Rio de Janerio",False
+395,"E03664","Aria Castro","Engineering Manager","Engineering","Speciality Products","Female","Latino",45,"2014-03-14 00:00:00",12.3,113873,"Very Low",0.11,125.26,"Brazil","Rio de Janerio",False
+396,"E04413","Andrew Thomas","Controls Engineer","Engineering","Manufacturing","Male","Caucasian",36,"2016-12-02 00:00:00",9.6,113781,"Very Low",0.0,0.0,"United States","Columbus",False
+397,"E04533","Easton Bailey","Manager","Accounting","Manufacturing","Male","Caucasian",29,"2019-01-25 00:00:00",7.5,113527,"Very Low",0.06,68.12,"United States","Austin",False
+398,"E03102","Cooper Valdez","Manager","Sales","Corporate","Male","Latino",50,"2012-04-25 00:00:00",14.2,113269,"Very Low",0.09,101.94,"Brazil","Sao Paulo",False
+399,"E03749","Kennedy Foster","Manager","Marketing","Speciality Products","Female","Caucasian",53,"2013-11-23 00:00:00",12.7,113135,"Very Low",0.05,56.57,"United States","Austin",False
+400,"E02563","Clara Sanchez","Controls Engineer","Engineering","Corporate","Female","Latino",47,"2018-10-02 00:00:00",7.8,111404,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",True
+401,"E02710","Silas Huang","Engineering Manager","Engineering","Research & Development","Male","Asian",57,"1992-01-09 00:00:00",34.5,111299,"Very Low",0.12,133.56,"United States","Miami",False
+402,"E02147","Allison Medina","Manager","Finance","Speciality Products","Female","Latino",55,"2010-04-29 00:00:00",16.2,111038,"Very Low",0.05,55.52,"Brazil","Sao Paulo",False
+403,"E04213","Hailey Xi","Manager","Accounting","Corporate","Female","Asian",52,"2021-11-19 00:00:00",4.7,111006,"Very Low",0.08,88.8,"China","Chongqing",False
+404,"E02066","Grayson Yee","Manager","Human Resources","Corporate","Male","Asian",48,"2015-07-16 00:00:00",11.0,110565,"Very Low",0.09,99.51,"China","Beijing",False
+405,"E00605","Nova Williams","Manager","Finance","Speciality Products","Female","Black",61,"2010-04-25 00:00:00",16.2,110302,"Very Low",0.06,66.18,"United States","Miami",False
+406,"E01501","Hudson Liu","Engineering Manager","Engineering","Speciality Products","Male","Asian",34,"2017-11-16 00:00:00",8.7,110054,"Very Low",0.15,165.08,"United States","Miami",False
+407,"E00276","Alexander Jackson","Manager","Human Resources","Corporate","Male","Caucasian",45,"2012-07-09 00:00:00",14.0,109883,"Very Low",0.07,76.92,"United States","Columbus",True
+408,"E03344","Camila Rogers","Controls Engineer","Engineering","Speciality Products","Female","Caucasian",27,"2021-10-21 00:00:00",4.7,109851,"Very Low",0.0,0.0,"United States","Seattle",False
+409,"E01225","Christian Fong","Manager","Sales","Research & Development","Male","Asian",49,"2012-08-10 00:00:00",13.9,109850,"Very Low",0.07,76.9,"China","Beijing",False
+410,"E00105","Isla Espinoza","Manager","Accounting","Speciality Products","Female","Latino",38,"2021-11-16 00:00:00",4.7,109812,"Very Low",0.09,98.83,"Brazil","Manaus",False
+411,"E04969","Abigail Vang","Operations Engineer","Engineering","Research & Development","Female","Asian",40,"2016-09-09 00:00:00",9.9,109680,"Very Low",0.0,0.0,"China","Chengdu",False
+412,"E04345","Eliana Grant","Engineering Manager","Engineering","Speciality Products","Female","Caucasian",64,"1994-06-20 00:00:00",32.1,109456,"Very Low",0.1,109.46,"United States","Chicago",False
+413,"E01706","Avery Sun","Operations Engineer","Engineering","Manufacturing","Female","Asian",45,"2004-03-11 00:00:00",22.4,109422,"Very Low",0.0,0.0,"China","Chongqing",False
+414,"E04087","Adam Kaur","Manager","IT","Corporate","Male","Asian",60,"2000-01-29 00:00:00",26.5,109059,"Very Low",0.07,76.34,"China","Chengdu",False
+415,"E03697","Isaac Woods","Manager","Sales","Corporate","Male","Caucasian",28,"2021-01-08 00:00:00",5.5,108826,"Very Low",0.1,108.83,"United States","Miami",False
+416,"E03059","Hailey Dang","Manager","Marketing","Manufacturing","Female","Asian",64,"2019-09-21 00:00:00",6.8,108780,"Very Low",0.06,65.27,"China","Shanghai",False
+417,"E01762","Maya Ngo","Manager","Sales","Speciality Products","Female","Asian",55,"2012-10-20 00:00:00",13.7,108686,"Very Low",0.06,65.21,"United States","Columbus",False
+418,"E01845","Leo Fernandez","Manager","Finance","Research & Development","Male","Latino",54,"1998-04-28 00:00:00",28.2,108268,"Very Low",0.09,97.44,"Brazil","Sao Paulo",False
+419,"E00518","Lydia Morales","Manager","Finance","Speciality Products","Female","Latino",51,"2013-06-14 00:00:00",13.1,108221,"Very Low",0.05,54.11,"Brazil","Manaus",False
+420,"E02846","Julia Mai","Manager","Marketing","Manufacturing","Female","Asian",50,"2012-03-11 00:00:00",14.4,108134,"Very Low",0.1,108.13,"China","Shanghai",False
+421,"E04380","Naomi Washington","Manager","IT","Speciality Products","Female","Caucasian",51,"2020-03-13 00:00:00",6.3,107195,"Very Low",0.09,96.48,"United States","Austin",False
+422,"E03642","Aria Roberts","Manager","Accounting","Corporate","Female","Caucasian",38,"2015-08-12 00:00:00",10.9,106858,"Very Low",0.05,53.43,"United States","Seattle",False
+423,"E00287","Luca Nelson","Manager","Finance","Speciality Products","Male","Caucasian",60,"2010-06-15 00:00:00",16.1,106578,"Very Low",0.09,95.92,"United States","Miami",True
+424,"E00717","Madelyn Chan","Manager","Sales","Speciality Products","Female","Asian",64,"2003-05-21 00:00:00",23.2,106444,"Very Low",0.05,53.22,"United States","Phoenix",True
+425,"E01262","Miles Mehta","Manager","Finance","Manufacturing","Male","Asian",50,"2018-05-19 00:00:00",8.2,106437,"Very Low",0.07,74.51,"China","Chongqing",False
+426,"E03894","Charlotte Chang","Manager","Sales","Research & Development","Female","Asian",50,"2000-05-07 00:00:00",26.2,106428,"Very Low",0.07,74.5,"United States","Chicago",False
+427,"E02148","Christopher Vega","Engineering Manager","Engineering","Research & Development","Male","Latino",54,"2007-10-27 00:00:00",18.7,106313,"Very Low",0.15,159.47,"United States","Chicago",False
+428,"E04464","Cooper Yoon","Engineering Manager","Engineering","Research & Development","Male","Asian",60,"2018-02-15 00:00:00",8.4,106079,"Very Low",0.14,148.51,"United States","Austin",False
+429,"E03423","Santiago f Gonzalez","Manager","Sales","Research & Development","Male","Latino",36,"2012-07-26 00:00:00",14.0,105891,"Very Low",0.07,74.12,"United States","Seattle",False
+430,"E00369","Genesis Woods","Manager","Human Resources","Speciality Products","Female","Black",33,"2013-08-21 00:00:00",12.9,105390,"Very Low",0.06,63.23,"United States","Columbus",False
+431,"E00682","Sofia Fernandez","Manager","Accounting","Manufacturing","Female","Latino",44,"2005-10-17 00:00:00",20.8,105223,"Very Low",0.1,105.22,"United States","Phoenix",False
+432,"E00530","Eli Jones","Manager","Human Resources","Manufacturing","Male","Caucasian",59,"1999-03-14 00:00:00",27.4,105086,"Very Low",0.09,94.58,"United States","Austin",True
+433,"E03061","Vivian Lewis","Manager","Marketing","Manufacturing","Female","Caucasian",65,"2011-09-07 00:00:00",14.9,104903,"Very Low",0.1,104.9,"United States","Columbus",False
+434,"E01209","Jayden Williams","Manager","Human Resources","Manufacturing","Male","Caucasian",64,"1992-12-26 00:00:00",33.6,104668,"Very Low",0.08,83.73,"United States","Columbus",False
+435,"E00638","David Simmons","Manager","Marketing","Corporate","Male","Caucasian",51,"1997-01-26 00:00:00",29.5,104431,"Very Low",0.07,73.1,"United States","Phoenix",False
+436,"E04348","Natalia Owens","Manager","Human Resources","Manufacturing","Female","Caucasian",31,"2021-01-18 00:00:00",5.5,104162,"Very Low",0.07,72.91,"United States","Austin",False
+437,"E02652","Nathan Sun","Manager","Accounting","Speciality Products","Male","Asian",63,"2015-07-29 00:00:00",11.0,103724,"Very Low",0.05,51.86,"China","Shanghai",False
+438,"E02900","Elena Richardson","Manager","Accounting","Manufacturing","Female","Caucasian",34,"2014-10-03 00:00:00",11.8,103707,"Very Low",0.09,93.34,"United States","Columbus",False
+439,"E02249","Allison Daniels","Manager","Finance","Manufacturing","Female","Caucasian",37,"2020-04-14 00:00:00",6.3,103524,"Very Low",0.09,93.17,"United States","Phoenix",False
+440,"E02872","Liam Jung","Manager","Finance","Corporate","Male","Asian",39,"2010-01-14 00:00:00",16.5,103504,"Very Low",0.07,72.45,"China","Chengdu",False
+441,"E01883","Olivia Gray","Manager","Marketing","Research & Development","Female","Black",42,"2015-09-19 00:00:00",10.8,103423,"Very Low",0.06,62.05,"United States","Columbus",True
+442,"E03994","Henry Jung","Automation Engineer","Engineering","Manufacturing","Male","Asian",57,"2018-02-26 00:00:00",8.4,103183,"Very Low",0.0,0.0,"United States","Austin",False
+443,"E03718","Zoe Zhou","Manager","Finance","Corporate","Female","Asian",61,"2009-10-06 00:00:00",16.8,103096,"Very Low",0.07,72.17,"China","Beijing",False
+444,"E03328","Lucy Johnson","Manager","IT","Research & Development","Female","Caucasian",57,"2020-04-27 00:00:00",6.2,103058,"Very Low",0.07,72.14,"United States","Columbus",False
+445,"E03720","Genesis Hunter","Manager","Finance","Corporate","Female","Caucasian",48,"1999-04-22 00:00:00",27.3,102847,"Very Low",0.05,51.42,"United States","Chicago",True
+446,"E02843","Lily Pena","Manager","Human Resources","Speciality Products","Female","Latino",55,"2010-02-24 00:00:00",16.4,102839,"Very Low",0.05,51.42,"United States","Miami",False
+447,"E00864","Samantha Aguilar","Manager","Accounting","Speciality Products","Female","Latino",46,"2010-04-24 00:00:00",16.2,102636,"Very Low",0.06,61.58,"United States","Seattle",False
+448,"E00245","Lucas Daniels","Manager","Sales","Corporate","Male","Black",42,"2011-05-29 00:00:00",15.1,102440,"Very Low",0.06,61.46,"United States","Chicago",True
+449,"E04163","David Herrera","Engineering Manager","Engineering","Speciality Products","Male","Latino",32,"2021-10-09 00:00:00",4.8,102298,"Very Low",0.13,132.99,"Brazil","Rio de Janerio",False
+450,"E00874","Alexander Choi","Manager","Marketing","Research & Development","Male","Asian",55,"1994-09-18 00:00:00",31.8,102270,"Very Low",0.1,102.27,"United States","Chicago",False
+451,"E04029","Jayden Jimenez","Manager","Human Resources","Corporate","Male","Latino",46,"2011-09-24 00:00:00",14.8,102167,"Very Low",0.06,61.3,"Brazil","Rio de Janerio",False
+452,"E01839","Stella Alexander","Automation Engineer","Engineering","Corporate","Female","Caucasian",52,"2005-12-10 00:00:00",20.6,102043,"Very Low",0.0,0.0,"United States","Chicago",False
+453,"E03113","Willow Chen","Manager","Accounting","Corporate","Female","Asian",50,"2012-09-03 00:00:00",13.9,102033,"Very Low",0.08,81.63,"United States","Austin",False
+454,"E02492","Parker Sandoval","Manager","Human Resources","Speciality Products","Male","Latino",59,"2015-06-10 00:00:00",11.1,101985,"Very Low",0.07,71.39,"United States","Miami",True
+455,"E03910","Nova Hsu","Manager","Human Resources","Speciality Products","Female","Asian",32,"2017-01-03 00:00:00",9.5,101870,"Very Low",0.1,101.87,"United States","Phoenix",False
+456,"E00836","Wesley King","Manager","Accounting","Manufacturing","Male","Caucasian",57,"2019-01-19 00:00:00",7.5,101577,"Very Low",0.05,50.79,"United States","Chicago",True
+457,"E01722","Asher Huynh","Manager","IT","Manufacturing","Male","Asian",45,"2015-01-22 00:00:00",11.5,101288,"Very Low",0.1,101.29,"United States","Phoenix",False
+458,"E03471","Julia Sandoval","Manager","Human Resources","Corporate","Female","Latino",42,"2017-11-19 00:00:00",8.7,101143,"Very Low",0.06,60.69,"United States","Miami",False
+459,"E01508","Penelope Rodriguez","Engineering Manager","Engineering","Manufacturing","Female","Latino",49,"2016-03-12 00:00:00",10.4,100810,"Very Low",0.12,120.97,"Brazil","Rio de Janerio",False
+460,"E03446","Julian Ross","Manager","Marketing","Research & Development","Male","Caucasian",51,"2020-07-02 00:00:00",6.0,100099,"Very Low",0.08,80.08,"United States","Miami",False
+461,"E04152","Adeline Huang","Controls Engineer","Engineering","Manufacturing","Female","Asian",34,"2019-12-16 00:00:00",6.6,99989,"Very Low",0.0,0.0,"China","Chengdu",False
+462,"E04105","Theodore Dinh","Technical Architect","IT","Manufacturing","Male","Asian",59,"1997-11-29 00:00:00",28.6,99975,"Very Low",0.0,0.0,"China","Chongqing",False
+463,"E04756","Aiden Le","Cloud Infrastructure Architect","IT","Corporate","Male","Asian",55,"1994-12-24 00:00:00",31.6,99774,"Very Low",0.0,0.0,"United States","Austin",False
+464,"E04155","Dylan Dominguez","Sr. Analyst","Marketing","Research & Development","Male","Latino",42,"2015-04-07 00:00:00",11.3,99697,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+465,"E01807","Matthew Lim","Sr. Analyst","Sales","Research & Development","Male","Asian",52,"1994-02-18 00:00:00",32.4,99624,"Very Low",0.0,0.0,"United States","Seattle",True
+466,"E02074","Nora Brown","Enterprise Architect","IT","Manufacturing","Female","Caucasian",32,"2014-02-11 00:00:00",12.4,99575,"Very Low",0.0,0.0,"United States","Austin",False
+467,"E01870","Easton Moore","Computer Systems Manager","IT","Research & Development","Male","Caucasian",52,"2013-05-23 00:00:00",13.2,99557,"Very Low",0.09,89.6,"United States","Seattle",True
+468,"E03343","Carson Lu","Engineering Manager","Engineering","Speciality Products","Male","Asian",64,"1996-12-04 00:00:00",29.6,99354,"Very Low",0.12,119.22,"China","Beijing",False
+469,"E03583","Kayden Jordan","Cloud Infrastructure Architect","IT","Research & Development","Male","Caucasian",48,"2010-09-14 00:00:00",15.8,99335,"Very Low",0.0,0.0,"United States","Phoenix",True
+470,"E02298","Emily Doan","Engineering Manager","Engineering","Corporate","Female","Asian",32,"2014-12-04 00:00:00",11.6,99202,"Very Low",0.11,109.12,"United States","Phoenix",False
+471,"E02971","Mia Wu","Enterprise Architect","IT","Corporate","Female","Asian",45,"2013-08-25 00:00:00",12.9,99169,"Very Low",0.0,0.0,"China","Beijing",False
+472,"E01286","Mateo Mendez","Development Engineer","Engineering","Research & Development","Male","Latino",47,"1998-07-14 00:00:00",28.0,99091,"Very Low",0.0,0.0,"United States","Austin",True
+473,"E02227","Sofia Parker","Cloud Infrastructure Architect","IT","Manufacturing","Female","Caucasian",36,"2014-05-30 00:00:00",12.1,99080,"Very Low",0.0,0.0,"United States","Chicago",False
+474,"E04769","Mila Leung","Sr. Analyst","Marketing","Corporate","Female","Asian",39,"2007-11-05 00:00:00",18.7,99017,"Very Low",0.0,0.0,"China","Beijing",False
+475,"E03972","Jordan Gomez","Sr. Analyst","Accounting","Research & Development","Male","Latino",58,"1994-09-15 00:00:00",31.9,98769,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+476,"E04545","Abigail Mejia","Quality Engineer","Engineering","Corporate","Female","Latino",56,"2005-02-05 00:00:00",21.5,98581,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+477,"E01488","Stella Lai","Sr. Analyst","Accounting","Manufacturing","Female","Asian",44,"2021-04-28 00:00:00",5.2,98520,"Very Low",0.0,0.0,"United States","Miami",True
+478,"E03094","Wesley Young","Sr. Analyst","Marketing","Speciality Products","Male","Caucasian",33,"2016-09-18 00:00:00",9.8,98427,"Very Low",0.0,0.0,"United States","Columbus",False
+479,"E03114","Jameson Juarez","Development Engineer","Engineering","Speciality Products","Male","Latino",62,"1994-10-09 00:00:00",31.8,98230,"Very Low",0.0,0.0,"United States","Miami",False
+480,"E04952","Paisley Gomez","Sr. Analyst","Sales","Manufacturing","Female","Latino",57,"2007-10-02 00:00:00",18.8,98150,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+481,"E01357","Paisley Hunter","Engineering Manager","Engineering","Research & Development","Female","Caucasian",61,"2010-01-15 00:00:00",16.5,98110,"Very Low",0.13,127.54,"United States","Chicago",False
+482,"E01150","Allison Leung","Sr. Analyst","Sales","Research & Development","Female","Asian",62,"2020-05-18 00:00:00",6.2,97830,"Very Low",0.0,0.0,"United States","Austin",False
+483,"E03474","Violet Hall","Solutions Architect","IT","Corporate","Female","Caucasian",40,"2010-12-10 00:00:00",15.6,97807,"Very Low",0.0,0.0,"United States","Chicago",False
+484,"E03269","Charlotte Chu","Network Engineer","IT","Manufacturing","Female","Asian",50,"2001-01-23 00:00:00",25.5,97537,"Very Low",0.0,0.0,"China","Chengdu",False
+485,"E02005","Isabella Bui","Enterprise Architect","IT","Manufacturing","Female","Asian",36,"2014-11-21 00:00:00",11.7,97500,"Very Low",0.0,0.0,"United States","Miami",False
+486,"E01132","Gabriella Johnson","Computer Systems Manager","IT","Research & Development","Female","Caucasian",42,"2006-03-01 00:00:00",20.4,97433,"Very Low",0.05,48.72,"United States","Seattle",True
+487,"E04926","Emma Luna","Field Engineer","Engineering","Speciality Products","Female","Latino",52,"2008-03-25 00:00:00",18.3,97398,"Very Low",0.0,0.0,"Brazil","Manaus",False
+488,"E00306","Mateo Williams","Enterprise Architect","IT","Manufacturing","Male","Caucasian",40,"2011-01-22 00:00:00",15.5,97339,"Very Low",0.0,0.0,"United States","Austin",True
+489,"E03626","Nicholas Avila","Enterprise Architect","IT","Research & Development","Male","Latino",28,"2017-09-28 00:00:00",8.8,97336,"Very Low",0.0,0.0,"United States","Austin",False
+490,"E02728","Thomas Chang","Sr. Analyst","Accounting","Research & Development","Male","Asian",34,"2011-07-26 00:00:00",15.0,97231,"Very Low",0.0,0.0,"China","Beijing",False
+491,"E03496","Robert Yang","Sr. Analyst","Accounting","Speciality Products","Male","Asian",31,"2017-11-04 00:00:00",8.7,97078,"Very Low",0.0,0.0,"United States","Austin",False
+492,"E01713","Nolan Guzman","Field Engineer","Engineering","Speciality Products","Male","Latino",46,"1999-06-20 00:00:00",27.1,96997,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+493,"E04004","Everleigh Shah","Test Engineer","Engineering","Research & Development","Female","Asian",36,"2018-12-14 00:00:00",7.6,96757,"Very Low",0.0,0.0,"United States","Columbus",False
+494,"E04802","Lucy Fong","Sr. Account Representative","Sales","Corporate","Female","Asian",40,"2011-01-20 00:00:00",15.5,96719,"Very Low",0.0,0.0,"China","Chengdu",False
+495,"E02179","Peyton Owens","Controls Engineer","Engineering","Speciality Products","Female","Caucasian",48,"2014-09-25 00:00:00",11.8,96693,"Very Low",0.0,0.0,"United States","Chicago",False
+496,"E02730","Axel Soto","Quality Engineer","Engineering","Corporate","Male","Latino",46,"2005-04-22 00:00:00",21.2,96639,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+497,"E04546","Jade Hunter","Cloud Infrastructure Architect","IT","Corporate","Female","Caucasian",42,"2020-02-05 00:00:00",6.4,96636,"Very Low",0.0,0.0,"United States","Columbus",False
+498,"E01415","Henry Green","Sr. Account Representative","Sales","Speciality Products","Male","Caucasian",32,"2020-02-03 00:00:00",6.5,96598,"Very Low",0.0,0.0,"United States","Phoenix",False
+499,"E01037","Jeremiah Chu","IT Systems Architect","IT","Research & Development","Male","Asian",31,"2020-09-12 00:00:00",5.8,96567,"Very Low",0.0,0.0,"China","Shanghai",False
+500,"E00481","Jameson Nelson","Network Architect","IT","Research & Development","Male","Caucasian",61,"2016-03-08 00:00:00",10.4,96566,"Very Low",0.0,0.0,"United States","Columbus",False
+501,"E02012","Anna Han","System Administrator ","IT","Research & Development","Female","Asian",65,"2003-05-08 00:00:00",23.2,96548,"Very Low",0.0,0.0,"United States","Austin",False
+502,"E03875","Aurora Simmons","Development Engineer","Engineering","Corporate","Female","Caucasian",51,"1995-12-22 00:00:00",30.6,96475,"Very Low",0.0,0.0,"United States","Austin",False
+503,"E03160","Carter Ortiz","Quality Engineer","Engineering","Speciality Products","Male","Latino",54,"2012-04-29 00:00:00",14.2,96441,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+504,"E04189","Ariana Kim","Network Architect","IT","Manufacturing","Female","Asian",33,"2014-06-29 00:00:00",12.1,96366,"Very Low",0.0,0.0,"China","Chengdu",False
+505,"E00632","Angel Chang","Network Architect","IT","Research & Development","Male","Asian",37,"2017-07-06 00:00:00",9.0,96331,"Very Low",0.0,0.0,"China","Shanghai",False
+506,"E00863","Lincoln Ramos","Operations Engineer","Engineering","Corporate","Male","Latino",59,"2008-09-10 00:00:00",17.9,96313,"Very Low",0.0,0.0,"United States","Austin",False
+507,"E00446","Hudson Hill","Sr. Analyst","Sales","Research & Development","Male","Caucasian",30,"2019-11-04 00:00:00",6.7,96092,"Very Low",0.0,0.0,"United States","Austin",True
+508,"E03268","Emilia Rivera","Test Engineer","Engineering","Research & Development","Female","Latino",42,"2017-11-23 00:00:00",8.6,96023,"Very Low",0.0,0.0,"United States","Miami",True
+509,"E02802","Matthew Chau","Sr. Business Partner","Human Resources","Research & Development","Male","Asian",53,"2002-11-16 00:00:00",23.7,95998,"Very Low",0.0,0.0,"United States","Seattle",False
+510,"E04816","Jace Zhang","Service Desk Analyst","IT","Speciality Products","Male","Asian",31,"2017-02-14 00:00:00",9.4,95963,"Very Low",0.0,0.0,"China","Chengdu",False
+511,"E02521","Lily Nguyen","Sr. Analyst","Finance","Speciality Products","Female","Asian",33,"2012-01-28 00:00:00",14.5,95960,"Very Low",0.0,0.0,"China","Chengdu",False
+512,"E01366","William Walker","Computer Systems Manager","IT","Research & Development","Male","Black",40,"2019-02-24 00:00:00",7.4,95899,"Very Low",0.1,95.9,"United States","Columbus",False
+513,"E01141","Gianna Williams","Quality Engineer","Engineering","Research & Development","Female","Black",27,"2021-01-28 00:00:00",5.5,95786,"Very Low",0.0,0.0,"United States","Chicago",False
+514,"E02813","Kai Chow","Engineering Manager","Engineering","Corporate","Male","Asian",45,"2001-04-12 00:00:00",25.3,95743,"Very Low",0.15,143.61,"United States","Austin",False
+515,"E04720","Christopher Chung","Controls Engineer","Engineering","Corporate","Male","Asian",28,"2021-12-18 00:00:00",4.6,95670,"Very Low",0.0,0.0,"United States","Phoenix",False
+516,"E03615","Daniel Dixon","Operations Engineer","Engineering","Speciality Products","Male","Caucasian",51,"1999-10-09 00:00:00",26.8,95639,"Very Low",0.0,0.0,"United States","Austin",False
+517,"E03984","Hailey Foster","Controls Engineer","Engineering","Manufacturing","Female","Black",55,"2021-03-21 00:00:00",5.3,95562,"Very Low",0.0,0.0,"United States","Chicago",False
+518,"E04448","Adrian Ruiz","Sr. Analyst","Finance","Corporate","Male","Latino",34,"2014-09-04 00:00:00",11.9,95499,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+519,"E01639","Austin Vo","Sr. Analyst","Finance","Manufacturing","Male","Asian",55,"1995-11-20 00:00:00",30.7,95409,"Very Low",0.0,0.0,"United States","Phoenix",True
+520,"E03047","Gabriella Gupta","Sr. Account Representative","Sales","Corporate","Female","Asian",41,"2005-02-15 00:00:00",21.4,95372,"Very Low",0.0,0.0,"China","Shanghai",False
+521,"E00639","Benjamin Mai","System Administrator ","IT","Corporate","Male","Asian",54,"1998-06-15 00:00:00",28.1,95239,"Very Low",0.0,0.0,"United States","Phoenix",False
+522,"E00769","Jose Kang","Engineering Manager","Engineering","Corporate","Male","Asian",57,"1999-04-25 00:00:00",27.2,95061,"Very Low",0.1,95.06,"China","Shanghai",False
+523,"E00626","Luna Simmons","Sr. Analyst","Finance","Corporate","Female","Caucasian",28,"2020-09-04 00:00:00",5.9,95045,"Very Low",0.0,0.0,"United States","Chicago",False
+524,"E00013","Raelynn Ma","Sr. Analyst","Finance","Speciality Products","Female","Asian",33,"2015-10-08 00:00:00",10.8,94876,"Very Low",0.0,0.0,"United States","Miami",True
+525,"E00287","Maverick Figueroa","IT Systems Architect","IT","Corporate","Male","Latino",48,"2008-07-06 00:00:00",18.0,94815,"Very Low",0.0,0.0,"United States","Chicago",True
+526,"E04618","Mason Zhao","Technical Architect","IT","Research & Development","Male","Asian",46,"2021-10-26 00:00:00",4.7,94790,"Very Low",0.0,0.0,"China","Chongqing",False
+527,"E04670","Angel Do","IT Systems Architect","IT","Speciality Products","Male","Asian",34,"2019-09-20 00:00:00",6.8,94735,"Very Low",0.0,0.0,"China","Beijing",False
+528,"E03065","Ezra Ortiz","Quality Engineer","Engineering","Research & Development","Male","Latino",41,"2012-01-21 00:00:00",14.5,94658,"Very Low",0.0,0.0,"United States","Miami",False
+529,"E03870","Madeline Allen","Cloud Infrastructure Architect","IT","Manufacturing","Female","Caucasian",30,"2020-02-03 00:00:00",6.5,94652,"Very Low",0.0,0.0,"United States","Seattle",False
+530,"E00559","Penelope Silva","Network Architect","IT","Speciality Products","Female","Latino",36,"2016-11-03 00:00:00",9.7,94618,"Very Low",0.0,0.0,"United States","Columbus",False
+531,"E04131","Cora Rivera","Sr. Analyst","Marketing","Corporate","Female","Latino",42,"2021-01-02 00:00:00",5.5,94430,"Very Low",0.0,0.0,"United States","Seattle",True
+532,"E00717","Axel Santos","Sr. Analyst","Accounting","Speciality Products","Male","Latino",62,"2011-02-17 00:00:00",15.4,94422,"Very Low",0.0,0.0,"United States","Phoenix",True
+533,"E00955","Theodore Marquez","Development Engineer","Engineering","Speciality Products","Male","Latino",54,"2012-11-24 00:00:00",13.6,94407,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+534,"E00593","Luke Wilson","Solutions Architect","IT","Speciality Products","Male","Caucasian",34,"2016-05-24 00:00:00",10.2,94352,"Very Low",0.0,0.0,"United States","Miami",False
+535,"E00273","David Owens","Sr. Analyst","Sales","Corporate","Male","Black",43,"2004-04-16 00:00:00",22.3,94246,"Very Low",0.0,0.0,"United States","Austin",False
+536,"E03417","Benjamin Moua","Computer Systems Manager","IT","Manufacturing","Male","Asian",40,"2007-07-02 00:00:00",19.1,93971,"Very Low",0.08,75.18,"China","Chongqing",False
+537,"E00672","Mila Pena","Sr. Business Partner","Human Resources","Manufacturing","Female","Latino",45,"2007-12-21 00:00:00",18.6,93840,"Very Low",0.0,0.0,"Brazil","Manaus",True
+538,"E04871","Liam Grant","Sr. Business Partner","Human Resources","Research & Development","Male","Caucasian",30,"2015-03-15 00:00:00",11.3,93734,"Very Low",0.0,0.0,"United States","Phoenix",False
+539,"E02923","Ethan Tang","Sr. Analyst","Accounting","Speciality Products","Male","Asian",54,"2016-05-04 00:00:00",10.2,93668,"Very Low",0.0,0.0,"United States","Chicago",False
+540,"E02453","Dylan Kumar","Sr. Analyst","Marketing","Speciality Products","Male","Asian",55,"2006-07-11 00:00:00",20.0,93343,"Very Low",0.0,0.0,"China","Chongqing",False
+541,"E02415","Penelope Gonzalez","Sr. Analyst","Sales","Corporate","Female","Latino",52,"1994-10-16 00:00:00",31.8,93103,"Very Low",0.0,0.0,"United States","Phoenix",False
+542,"E00431","Skylar Doan","Sr. Business Partner","Human Resources","Research & Development","Female","Asian",58,"1994-08-21 00:00:00",31.9,93102,"Very Low",0.0,0.0,"United States","Seattle",True
+543,"E00401","Wesley Adams","System Administrator ","IT","Corporate","Male","Caucasian",48,"2003-08-11 00:00:00",22.9,93017,"Very Low",0.0,0.0,"United States","Seattle",False
+544,"E02235","Riley Ramirez","Sr. Business Partner","Human Resources","Research & Development","Female","Latino",52,"1999-09-13 00:00:00",26.9,92994,"Very Low",0.0,0.0,"United States","Chicago",False
+545,"E03538","Gabriel Holmes","Enterprise Architect","IT","Research & Development","Male","Caucasian",40,"2010-11-04 00:00:00",15.7,92952,"Very Low",0.0,0.0,"United States","Seattle",False
+546,"E02881","Leilani Sharma","Sr. Analyst","Accounting","Manufacturing","Female","Asian",43,"2014-01-23 00:00:00",12.5,92940,"Very Low",0.0,0.0,"China","Chengdu",False
+547,"E00265","Mila Vasquez","Quality Engineer","Engineering","Manufacturing","Female","Latino",60,"1998-07-16 00:00:00",28.0,92932,"Very Low",0.0,0.0,"United States","Columbus",False
+548,"E04504","Jameson Alvarado","Enterprise Architect","IT","Manufacturing","Male","Latino",47,"1999-03-14 00:00:00",27.4,92897,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+549,"E02331","Sophia Huynh","Enterprise Architect","IT","Manufacturing","Female","Asian",55,"2005-08-09 00:00:00",20.9,92771,"Very Low",0.0,0.0,"United States","Miami",False
+550,"E04000","Skylar Carrillo","Engineering Manager","Engineering","Corporate","Female","Latino",44,"2008-12-18 00:00:00",17.6,92753,"Very Low",0.13,120.58,"United States","Austin",False
+551,"E00465","Brooklyn Cho","Technical Architect","IT","Manufacturing","Female","Asian",45,"2002-07-08 00:00:00",24.0,92655,"Very Low",0.0,0.0,"China","Chengdu",True
+552,"E02489","Ethan Clark","Sr. Business Partner","Human Resources","Manufacturing","Male","Caucasian",33,"2017-08-04 00:00:00",9.0,92610,"Very Low",0.0,0.0,"United States","Columbus",False
+553,"E01958","Angel Lin","Network Administrator","IT","Manufacturing","Male","Asian",27,"2020-12-24 00:00:00",5.6,92321,"Very Low",0.0,0.0,"United States","Chicago",False
+554,"E02984","Jack Mai","Sr. Analyst","Marketing","Corporate","Male","Asian",45,"2007-09-22 00:00:00",18.8,92293,"Very Low",0.0,0.0,"China","Chengdu",False
+555,"E03849","Harper Chin","Quality Engineer","Engineering","Manufacturing","Female","Asian",50,"2002-07-09 00:00:00",24.0,92209,"Very Low",0.0,0.0,"China","Shanghai",True
+556,"E02135","John Delgado","Cloud Infrastructure Architect","IT","Corporate","Male","Latino",30,"2017-02-11 00:00:00",9.4,92058,"Very Low",0.0,0.0,"United States","Austin",False
+557,"E00233","Brooklyn Reyes","Service Desk Analyst","IT","Manufacturing","Female","Latino",36,"2019-12-19 00:00:00",6.6,91954,"Very Low",0.0,0.0,"United States","Columbus",False
+558,"E04126","Dominic Baker","Sr. Analyst","Accounting","Manufacturing","Male","Black",51,"2020-10-09 00:00:00",5.8,91853,"Very Low",0.0,0.0,"United States","Chicago",False
+559,"E02473","Leonardo Lo","Quality Engineer","Engineering","Speciality Products","Male","Asian",29,"2021-11-15 00:00:00",4.7,91782,"Very Low",0.0,0.0,"China","Chongqing",False
+560,"E01388","Ivy Soto","Field Engineer","Engineering","Research & Development","Female","Latino",50,"1997-10-23 00:00:00",28.7,91763,"Very Low",0.0,0.0,"United States","Austin",True
+561,"E03519","Eliza Zheng","Computer Systems Manager","IT","Speciality Products","Female","Asian",48,"2014-04-20 00:00:00",12.2,91679,"Very Low",0.07,64.18,"China","Chongqing",False
+562,"E03912","Carter Turner","Sr. Analyst","Marketing","Corporate","Male","Caucasian",33,"2015-11-17 00:00:00",10.7,91632,"Very Low",0.0,0.0,"United States","Phoenix",False
+563,"E02417","Alice Young","Automation Engineer","Engineering","Research & Development","Female","Caucasian",46,"2008-01-24 00:00:00",18.5,91621,"Very Low",0.0,0.0,"United States","Chicago",False
+564,"E04217","Lydia Williams","System Administrator ","IT","Manufacturing","Female","Black",35,"2014-10-29 00:00:00",11.7,91592,"Very Low",0.0,0.0,"United States","Chicago",False
+565,"E00640","Paisley Bryant","Cloud Infrastructure Architect","IT","Manufacturing","Female","Black",37,"2016-04-27 00:00:00",10.2,91400,"Very Low",0.0,0.0,"United States","Chicago",False
+566,"E04048","Julian Lee","IT Systems Architect","IT","Corporate","Male","Asian",51,"2003-01-17 00:00:00",23.5,91399,"Very Low",0.0,0.0,"United States","Seattle",False
+567,"E00359","Logan Carrillo","Sr. Analyst","Marketing","Research & Development","Male","Latino",33,"2014-11-30 00:00:00",11.6,91280,"Very Low",0.0,0.0,"United States","Miami",False
+568,"E04491","Nathan Chan","Cloud Infrastructure Architect","IT","Corporate","Male","Asian",45,"2000-03-02 00:00:00",26.4,91276,"Very Low",0.0,0.0,"United States","Seattle",False
+569,"E00096","Peyton Cruz","Development Engineer","Engineering","Manufacturing","Female","Latino",30,"2016-05-26 00:00:00",10.1,91134,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+570,"E04359","Layla Salazar","Solutions Architect","IT","Corporate","Female","Latino",59,"2014-03-19 00:00:00",12.3,90901,"Very Low",0.0,0.0,"United States","Seattle",True
+571,"E03681","Lyla Chen","Sr. Business Partner","Human Resources","Research & Development","Female","Asian",45,"2019-04-26 00:00:00",7.2,90870,"Very Low",0.0,0.0,"United States","Chicago",False
+572,"E02254","Jaxson Sandoval","Sr. Analyst","Sales","Speciality Products","Male","Latino",61,"2017-05-03 00:00:00",9.2,90855,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+573,"E01952","Everett Lee","Network Administrator","IT","Research & Development","Male","Asian",45,"2010-02-26 00:00:00",16.4,90770,"Very Low",0.0,0.0,"United States","Columbus",False
+574,"E01633","Addison Do","Operations Engineer","Engineering","Manufacturing","Female","Asian",46,"2001-05-30 00:00:00",25.1,90678,"Very Low",0.0,0.0,"United States","Columbus",False
+575,"E03296","Eloise Trinh","Solutions Architect","IT","Speciality Products","Female","Asian",39,"2020-04-22 00:00:00",6.2,90535,"Very Low",0.0,0.0,"United States","Miami",False
+576,"E00102","Riley Rojas","Network Architect","IT","Speciality Products","Female","Latino",36,"2021-01-21 00:00:00",5.5,90333,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+577,"E04267","Greyson Sanders","Cloud Infrastructure Architect","IT","Speciality Products","Male","Black",28,"2019-03-06 00:00:00",7.4,90304,"Very Low",0.0,0.0,"United States","Chicago",False
+578,"E00784","Ella Nguyen","Service Desk Analyst","IT","Corporate","Female","Asian",60,"2004-02-10 00:00:00",22.4,90258,"Very Low",0.0,0.0,"China","Chongqing",False
+579,"E04817","Zoe Sanchez","Sr. Analyst","Accounting","Research & Development","Female","Latino",53,"2004-12-23 00:00:00",21.6,90212,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+580,"E02960","Nova Hill","Sr. Analyst","Accounting","Manufacturing","Female","Caucasian",56,"2018-03-10 00:00:00",8.4,90040,"Very Low",0.0,0.0,"United States","Chicago",False
+581,"E04800","Eli Han","Sr. Analyst","Accounting","Manufacturing","Male","Asian",40,"2016-01-15 00:00:00",10.5,89984,"Very Low",0.0,0.0,"China","Chengdu",False
+582,"E04487","Audrey Hwang","Sr. Analyst","Accounting","Speciality Products","Female","Asian",45,"2020-06-17 00:00:00",6.1,89841,"Very Low",0.0,0.0,"China","Beijing",False
+583,"E02024","Amelia Bell","Sr. Analyst","Sales","Manufacturing","Female","Caucasian",53,"2017-08-05 00:00:00",9.0,89769,"Very Low",0.0,0.0,"United States","Seattle",True
+584,"E02031","Melody Cooper","Development Engineer","Engineering","Research & Development","Female","Caucasian",44,"2009-09-04 00:00:00",16.9,89695,"Very Low",0.0,0.0,"United States","Austin",False
+585,"E04032","Emery Zhang","Field Engineer","Engineering","Corporate","Female","Asian",45,"2012-02-28 00:00:00",14.4,89659,"Very Low",0.0,0.0,"China","Beijing",False
+586,"E03799","Natalie Hwang","Sr. Analyst","Finance","Speciality Products","Female","Asian",63,"1999-12-31 00:00:00",26.6,89523,"Very Low",0.0,0.0,"United States","Phoenix",False
+587,"E02848","Emma Brooks","Sr. Account Representative","Sales","Research & Development","Female","Caucasian",30,"2016-12-18 00:00:00",9.6,89458,"Very Low",0.0,0.0,"United States","Austin",True
+588,"E01377","Grayson Luu","Quality Engineer","Engineering","Research & Development","Male","Asian",55,"2011-04-30 00:00:00",15.2,89419,"Very Low",0.0,0.0,"China","Shanghai",False
+589,"E04095","Sadie Patterson","Sr. Analyst","Accounting","Speciality Products","Female","Caucasian",38,"2020-07-24 00:00:00",6.0,89390,"Very Low",0.0,0.0,"United States","Seattle",True
+590,"E02943","Bella Lopez","Sr. Analyst","Marketing","Corporate","Female","Latino",32,"2013-11-12 00:00:00",12.7,88895,"Very Low",0.0,0.0,"United States","Chicago",False
+591,"E04547","Avery Grant","Enterprise Architect","IT","Research & Development","Female","Caucasian",49,"2014-03-05 00:00:00",12.4,88777,"Very Low",0.0,0.0,"United States","Chicago",False
+592,"E04458","Alexander Bryant","Field Engineer","Engineering","Speciality Products","Male","Caucasian",30,"2021-10-02 00:00:00",4.8,88758,"Very Low",0.0,0.0,"United States","Seattle",False
+593,"E01611","Gabriella Zhu","Computer Systems Manager","IT","Speciality Products","Female","Asian",36,"2014-11-29 00:00:00",11.6,88730,"Very Low",0.08,70.98,"China","Chongqing",False
+594,"E04799","Mila Roberts","Sr. Business Partner","Human Resources","Corporate","Female","Caucasian",30,"2017-01-26 00:00:00",9.5,88663,"Very Low",0.0,0.0,"United States","Phoenix",False
+595,"E02217","William Phillips","Network Architect","IT","Corporate","Male","Black",61,"2004-01-27 00:00:00",22.5,88478,"Very Low",0.0,0.0,"United States","Austin",False
+596,"E04108","Jade Figueroa","Sr. Analyst","Sales","Manufacturing","Female","Latino",33,"2012-05-14 00:00:00",14.2,88343,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+597,"E03438","Asher Morales","Automation Engineer","Engineering","Research & Development","Male","Latino",52,"2020-07-10 00:00:00",6.0,88272,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+598,"E03402","Isaac Liu","Field Engineer","Engineering","Manufacturing","Male","Asian",60,"1992-10-13 00:00:00",33.8,88213,"Very Low",0.0,0.0,"China","Chongqing",False
+599,"E02035","Eli Rahman","Service Desk Analyst","IT","Manufacturing","Male","Asian",45,"2010-03-16 00:00:00",16.3,88182,"Very Low",0.0,0.0,"China","Chengdu",False
+600,"E04931","Zoe Romero","Network Architect","IT","Manufacturing","Female","Latino",32,"2021-10-05 00:00:00",4.8,88072,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+601,"E00306","Piper Patterson","Quality Engineer","Engineering","Corporate","Female","Caucasian",45,"2019-06-19 00:00:00",7.1,88045,"Very Low",0.0,0.0,"United States","Chicago",True
+602,"E02848","Lincoln Huynh","System Administrator ","IT","Research & Development","Male","Asian",55,"2016-11-09 00:00:00",9.7,87851,"Very Low",0.0,0.0,"China","Chongqing",True
+603,"E04639","Luna Taylor","Network Administrator","IT","Manufacturing","Female","Caucasian",47,"2018-07-28 00:00:00",8.0,87806,"Very Low",0.0,0.0,"United States","Seattle",False
+604,"E02903","Robert Vazquez","System Administrator ","IT","Corporate","Male","Latino",40,"2021-09-26 00:00:00",4.8,87770,"Very Low",0.0,0.0,"United States","Austin",False
+605,"E03359","Autumn Ortiz","Field Engineer","Engineering","Research & Development","Female","Latino",30,"2017-12-17 00:00:00",8.6,87744,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+606,"E00697","Jonathan Chavez","System Administrator ","IT","Manufacturing","Male","Latino",29,"2017-05-11 00:00:00",9.2,87536,"Very Low",0.0,0.0,"United States","Seattle",False
+607,"E01760","Madeline Acosta","Sr. Account Representative","Sales","Speciality Products","Female","Latino",26,"2021-02-09 00:00:00",5.4,87427,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+608,"E00276","Kennedy Romero","Engineering Manager","Engineering","Research & Development","Female","Latino",37,"2018-12-27 00:00:00",7.6,87359,"Very Low",0.11,96.09,"Brazil","Rio de Janerio",True
+609,"E01966","Thomas Williams","Field Engineer","Engineering","Speciality Products","Male","Caucasian",45,"2015-11-21 00:00:00",10.7,87292,"Very Low",0.0,0.0,"United States","Columbus",False
+610,"E03908","Miles Evans","Network Architect","IT","Manufacturing","Male","Caucasian",54,"1994-10-24 00:00:00",31.7,87216,"Very Low",0.0,0.0,"United States","Miami",False
+611,"E04167","Henry Alvarez","Sr. Business Partner","Human Resources","Manufacturing","Male","Latino",48,"2005-04-12 00:00:00",21.3,87158,"Very Low",0.0,0.0,"Brazil","Manaus",False
+612,"E03364","Audrey Lee","Development Engineer","Engineering","Speciality Products","Female","Asian",51,"2017-02-11 00:00:00",9.4,87036,"Very Low",0.0,0.0,"China","Chongqing",False
+613,"E04474","Mila Hong","Test Engineer","Engineering","Research & Development","Female","Asian",30,"2017-05-22 00:00:00",9.2,86858,"Very Low",0.0,0.0,"China","Chongqing",False
+614,"E04387","Everleigh White","Network Architect","IT","Speciality Products","Female","Caucasian",59,"2017-10-20 00:00:00",8.7,86831,"Very Low",0.0,0.0,"United States","Phoenix",False
+615,"E02770","Liliana Do","Service Desk Analyst","IT","Manufacturing","Female","Asian",30,"2019-03-29 00:00:00",7.3,86774,"Very Low",0.0,0.0,"China","Chengdu",True
+616,"E01533","Avery Bailey","Sr. Analyst","Sales","Speciality Products","Female","Caucasian",49,"1996-05-15 00:00:00",30.2,86658,"Very Low",0.0,0.0,"United States","Phoenix",False
+617,"E02706","Nevaeh Kang","Automation Engineer","Engineering","Research & Development","Female","Asian",46,"2021-01-10 00:00:00",5.5,86538,"Very Low",0.0,0.0,"China","Chengdu",True
+618,"E00181","Genesis Hu","Sr. Analyst","Marketing","Corporate","Female","Asian",46,"2002-01-15 00:00:00",24.5,86510,"Very Low",0.0,0.0,"China","Beijing",False
+619,"E03292","Cora Evans","Computer Systems Manager","IT","Speciality Products","Female","Black",45,"2018-03-26 00:00:00",8.3,86478,"Very Low",0.06,51.89,"United States","Austin",False
+620,"E01242","Emery Doan","Controls Engineer","Engineering","Corporate","Female","Asian",25,"2021-06-23 00:00:00",5.1,86464,"Very Low",0.0,0.0,"China","Shanghai",False
+621,"E03567","Silas Chavez","Technical Architect","IT","Research & Development","Male","Latino",51,"2008-04-15 00:00:00",18.3,86431,"Very Low",0.0,0.0,"United States","Columbus",False
+622,"E03890","Everett Khan","Solutions Architect","IT","Manufacturing","Male","Asian",43,"2017-01-18 00:00:00",9.5,86417,"Very Low",0.0,0.0,"United States","Chicago",True
+623,"E01754","Owen Lam","Sr. Business Partner","Human Resources","Speciality Products","Male","Asian",30,"2017-05-29 00:00:00",9.1,86317,"Very Low",0.0,0.0,"China","Chengdu",False
+624,"E00665","David Chu","Controls Engineer","Engineering","Corporate","Male","Asian",55,"1998-09-03 00:00:00",27.9,86299,"Very Low",0.0,0.0,"United States","Seattle",False
+625,"E04538","Adeline Yang","Cloud Infrastructure Architect","IT","Corporate","Female","Asian",53,"2011-07-20 00:00:00",15.0,86173,"Very Low",0.0,0.0,"China","Chongqing",False
+626,"E03941","Isla Han","Technical Architect","IT","Manufacturing","Female","Asian",58,"2005-06-18 00:00:00",21.1,86089,"Very Low",0.0,0.0,"United States","Chicago",False
+627,"E03904","Hunter Ortiz","Sr. Analyst","Finance","Corporate","Male","Latino",46,"2013-01-20 00:00:00",13.5,86061,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",False
+745,"E04379","Scarlett Rodriguez","Sr. Analyst","Finance","Manufacturing","Female","Latino",60,"2007-02-24 00:00:00",19.4,71699,"High",0.0,0.0,"Brazil","Manaus",False
+628,"E02284","Josephine Salazar","Field Engineer","Engineering","Speciality Products","Female","Latino",36,"2016-03-14 00:00:00",10.3,85870,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+629,"E03430","Leo Herrera","Sr. Business Partner","Human Resources","Research & Development","Male","Latino",48,"1998-04-22 00:00:00",28.3,85369,"Very Low",0.0,0.0,"Brazil","Manaus",False
+630,"E00436","Lincoln Reyes","Computer Systems Manager","IT","Manufacturing","Male","Latino",60,"1998-08-03 00:00:00",28.0,85120,"Very Low",0.09,76.61,"United States","Seattle",True
+631,"E02832","Penelope Jordan","Computer Systems Manager","IT","Manufacturing","Female","Caucasian",26,"2019-09-27 00:00:00",6.8,84913,"Very Low",0.07,59.44,"United States","Chicago",False
+632,"E01258","Gabriel Brooks","Network Engineer","IT","Manufacturing","Male","Caucasian",29,"2018-12-10 00:00:00",7.6,84596,"Very Low",0.0,0.0,"United States","Miami",False
+633,"E00494","Robert Alvarez","Service Desk Analyst","IT","Corporate","Male","Latino",39,"2016-10-21 00:00:00",9.7,84297,"Very Low",0.0,0.0,"Brazil","Manaus",False
+634,"E00965","Jacob Khan","Computer Systems Manager","IT","Speciality Products","Male","Asian",53,"2008-02-09 00:00:00",18.4,84193,"Very Low",0.09,75.77,"China","Shanghai",False
+635,"E01797","Piper Lewis","Field Engineer","Engineering","Research & Development","Female","Caucasian",33,"2018-12-22 00:00:00",7.6,83990,"Very Low",0.0,0.0,"United States","Chicago",False
+636,"E04290","Hannah Gomez","Technical Architect","IT","Manufacturing","Female","Latino",25,"2021-05-11 00:00:00",5.2,83934,"Very Low",0.0,0.0,"United States","Miami",False
+637,"E02838","Julia Pham","Engineering Manager","Engineering","Speciality Products","Female","Asian",65,"2006-03-16 00:00:00",20.3,83756,"Very Low",0.14,117.26,"China","Shanghai",False
+638,"E02720","Jaxon Fong","Sr. Analyst","Sales","Speciality Products","Male","Asian",59,"1997-03-13 00:00:00",29.4,83685,"Very Low",0.0,0.0,"China","Beijing",False
+639,"E01499","Elias Zhang","Solutions Architect","IT","Research & Development","Male","Asian",54,"2013-07-13 00:00:00",13.0,83639,"Very Low",0.0,0.0,"China","Beijing",True
+640,"E03332","Ruby Sun","Cloud Infrastructure Architect","IT","Manufacturing","Female","Asian",50,"2021-09-06 00:00:00",4.9,83418,"Very Low",0.0,0.0,"China","Shanghai",False
+641,"E00144","Theodore Ngo","Controls Engineer","Engineering","Research & Development","Male","Asian",55,"2018-04-29 00:00:00",8.2,83378,"Very Low",0.0,0.0,"China","Beijing",False
+642,"E04035","Penelope Johnson","Sr. Analyst","Marketing","Research & Development","Female","Caucasian",34,"2012-06-25 00:00:00",14.1,83066,"Very Low",0.0,0.0,"United States","Chicago",True
+643,"E04242","Alice Lopez","Test Engineer","Engineering","Speciality Products","Female","Latino",48,"2009-06-27 00:00:00",17.1,82907,"Very Low",0.0,0.0,"United States","Seattle",False
+644,"E01417","Leah Pena","Enterprise Architect","IT","Corporate","Female","Latino",57,"1994-01-03 00:00:00",32.6,82872,"Very Low",0.0,0.0,"Brazil","Manaus",False
+645,"E02855","Piper Cheng","Enterprise Architect","IT","Manufacturing","Female","Asian",62,"2009-03-15 00:00:00",17.3,82839,"Very Low",0.0,0.0,"United States","Miami",False
+646,"E03830","Madison Her","Technical Architect","IT","Speciality Products","Female","Asian",56,"1996-06-22 00:00:00",30.1,82806,"Very Low",0.0,0.0,"United States","Seattle",True
+647,"E00488","Emery Hunter","Sr. Analyst","Sales","Corporate","Female","Caucasian",28,"2021-07-03 00:00:00",5.0,82739,"Very Low",0.0,0.0,"United States","Phoenix",False
+648,"E00099","Brooklyn Salazar","IT Systems Architect","IT","Manufacturing","Female","Latino",44,"2011-03-01 00:00:00",15.4,82462,"Very Low",0.0,0.0,"United States","Austin",False
+649,"E03429","Ian Wu","Sr. Analyst","Marketing","Manufacturing","Male","Asian",51,"2012-04-14 00:00:00",14.3,82300,"Very Low",0.0,0.0,"China","Chengdu",False
+650,"E01638","Maria He","IT Systems Architect","IT","Corporate","Female","Asian",45,"2010-08-28 00:00:00",15.9,82162,"Very Low",0.0,0.0,"China","Beijing",True
+651,"E01484","Anna Zhu","Service Desk Analyst","IT","Manufacturing","Female","Asian",48,"2003-08-22 00:00:00",22.9,82017,"Very Low",0.0,0.0,"China","Beijing",False
+652,"E04335","Parker Allen","Sr. Analyst","Sales","Speciality Products","Male","Caucasian",31,"2018-08-13 00:00:00",7.9,81828,"Very Low",0.0,0.0,"United States","Miami",False
+653,"E01019","Dominic Scott","Sr. Analyst","Sales","Corporate","Male","Caucasian",45,"2011-03-16 00:00:00",15.3,81687,"Very Low",0.0,0.0,"United States","Phoenix",False
+654,"E01479","Serenity Bailey","IT Systems Architect","IT","Manufacturing","Female","Caucasian",55,"2011-11-21 00:00:00",14.7,81218,"Very Low",0.0,0.0,"United States","Chicago",False
+655,"E02939","Julian Fong","Quality Engineer","Engineering","Speciality Products","Male","Asian",61,"2002-11-22 00:00:00",23.7,80950,"Very Low",0.0,0.0,"China","Chongqing",False
+656,"E02861","Daniel Perry","Enterprise Architect","IT","Research & Development","Male","Caucasian",62,"2001-04-15 00:00:00",25.3,80921,"Very Low",0.0,0.0,"United States","Columbus",False
+657,"E04369","Santiago f Gray","Quality Engineer","Engineering","Corporate","Male","Caucasian",27,"2018-09-11 00:00:00",7.8,80745,"Very Low",0.0,0.0,"United States","Chicago",False
+658,"E00467","Sofia Dinh","Operations Engineer","Engineering","Corporate","Female","Asian",55,"1995-08-04 00:00:00",31.0,80701,"Very Low",0.0,0.0,"United States","Chicago",False
+659,"E04005","Lincoln Wong","Sr. Analyst","Finance","Corporate","Male","Asian",49,"2019-06-07 00:00:00",7.1,80700,"Very Low",0.0,0.0,"United States","Columbus",False
+660,"E00956","Eleanor Chau","Development Engineer","Engineering","Research & Development","Female","Asian",37,"2020-03-08 00:00:00",6.4,80659,"Very Low",0.0,0.0,"United States","Phoenix",False
+661,"E04598","Violet Garcia","Sr. Analyst","Marketing","Speciality Products","Female","Latino",35,"2017-01-10 00:00:00",9.5,80622,"Very Low",0.0,0.0,"United States","Austin",False
+662,"E02535","Caroline Perez","Controls Engineer","Engineering","Corporate","Female","Latino",29,"2018-01-14 00:00:00",8.5,80516,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+663,"E03691","Colton Garcia","Solutions Architect","IT","Speciality Products","Male","Latino",55,"1993-11-17 00:00:00",32.7,80170,"Very Low",0.0,0.0,"United States","Miami",False
+664,"E04784","Joshua Lin","Technical Architect","IT","Research & Development","Male","Asian",37,"2016-02-05 00:00:00",10.4,80055,"Very Low",0.0,0.0,"China","Beijing",False
+665,"E03906","Piper Richardson","Sr. Analyst","Sales","Corporate","Female","Caucasian",38,"2008-01-27 00:00:00",18.5,80024,"Very Low",0.0,0.0,"United States","Columbus",False
+666,"E02185","Wyatt Rojas","Computer Systems Manager","IT","Corporate","Male","Latino",32,"2013-03-20 00:00:00",13.3,79921,"Very Low",0.05,39.96,"United States","Austin",True
+667,"E01291","Thomas Aguilar","Sr. Account Representative","Sales","Speciality Products","Male","Latino",45,"2021-02-10 00:00:00",5.4,79882,"Very Low",0.0,0.0,"United States","Phoenix",False
+668,"E04265","Natalia Diaz","Operations Engineer","Engineering","Corporate","Female","Latino",62,"2006-10-12 00:00:00",19.8,79785,"Very Low",0.0,0.0,"United States","Austin",False
+669,"E00508","Thomas Jung","Sr. Analyst","Accounting","Research & Development","Male","Asian",50,"2009-10-23 00:00:00",16.7,79447,"Very Low",0.0,0.0,"China","Shanghai",False
+670,"E00553","Isla Yoon","Quality Engineer","Engineering","Research & Development","Female","Asian",50,"2013-05-10 00:00:00",13.2,79388,"Very Low",0.0,0.0,"United States","Austin",False
+671,"E00178","Harper Alexander","Sr. Analyst","Sales","Speciality Products","Female","Caucasian",26,"2019-10-14 00:00:00",6.8,79356,"Very Low",0.0,0.0,"United States","Phoenix",False
+672,"E00371","Melody Grant","Quality Engineer","Engineering","Corporate","Female","Caucasian",41,"2005-10-07 00:00:00",20.8,79352,"Very Low",0.0,0.0,"United States","Seattle",False
+673,"E04285","Riley Padilla","Technical Architect","IT","Manufacturing","Female","Latino",35,"2013-05-15 00:00:00",13.2,78940,"Very Low",0.0,0.0,"United States","Miami",False
+674,"E03532","Jaxson Santiago","Engineering Manager","Engineering","Research & Development","Male","Latino",56,"2018-09-20 00:00:00",7.8,78938,"Very Low",0.14,110.51,"United States","Phoenix",False
+675,"E03349","Anna Mehta","Cloud Infrastructure Architect","IT","Speciality Products","Female","Asian",32,"2020-01-05 00:00:00",6.5,78844,"Very Low",0.0,0.0,"United States","Seattle",True
+676,"E02185","Aubrey Yoon","Sr. Business Partner","Human Resources","Research & Development","Female","Asian",60,"2005-11-11 00:00:00",20.7,78388,"Very Low",0.0,0.0,"China","Chongqing",True
+677,"E04332","Ezra Simmons","Automation Engineer","Engineering","Speciality Products","Male","Caucasian",38,"2010-07-01 00:00:00",16.1,78237,"Very Low",0.0,0.0,"United States","Phoenix",True
+678,"E01363","Ayla Daniels","Technical Architect","IT","Corporate","Female","Caucasian",53,"1997-04-23 00:00:00",29.2,78153,"Very Low",0.0,0.0,"United States","Miami",False
+679,"E02555","Landon Lopez","Sr. Analyst","Accounting","Manufacturing","Male","Latino",38,"2008-07-05 00:00:00",18.0,78056,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+680,"E01090","Jacob Cheng","Quality Engineer","Engineering","Research & Development","Male","Asian",59,"2009-12-23 00:00:00",16.6,78006,"Very Low",0.0,0.0,"United States","Miami",True
+681,"E01834","Chloe Allen","Solutions Architect","IT","Manufacturing","Female","Caucasian",64,"2004-07-08 00:00:00",22.0,77903,"Very Low",0.0,0.0,"United States","Seattle",False
+682,"E04157","William Cao","Sr. Analyst","Marketing","Manufacturing","Male","Asian",63,"2017-02-12 00:00:00",9.4,77629,"Very Low",0.0,0.0,"China","Beijing",False
+683,"E01649","Eva Alvarado","Computer Systems Manager","IT","Manufacturing","Female","Latino",46,"2017-04-24 00:00:00",9.2,77461,"Very Low",0.09,69.71,"Brazil","Sao Paulo",False
+684,"E02856","Amelia Kaur","Operations Engineer","Engineering","Research & Development","Female","Asian",30,"2015-11-14 00:00:00",10.7,77442,"Very Low",0.0,0.0,"United States","Columbus",False
+685,"E04927","Ezekiel Bryant","Sr. Analyst","Finance","Manufacturing","Male","Caucasian",55,"2002-07-19 00:00:00",24.0,77396,"Very Low",0.0,0.0,"United States","Miami",False
+686,"E03838","Madeline Walker","Sr. Analyst","Finance","Speciality Products","Female","Caucasian",34,"2018-06-13 00:00:00",8.1,77203,"Very Low",0.0,0.0,"United States","Chicago",False
+687,"E02192","Lucy Avila","Solutions Architect","IT","Speciality Products","Female","Latino",43,"2010-04-22 00:00:00",16.2,76912,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+688,"E03689","Wesley Gray","Sr. Analyst","Accounting","Speciality Products","Male","Caucasian",62,"2003-04-22 00:00:00",23.2,76906,"Very Low",0.0,0.0,"United States","Seattle",False
+689,"E00145","Alexander Rivera","Sr. Analyst","Sales","Research & Development","Male","Latino",58,"2009-04-27 00:00:00",17.2,76802,"Very Low",0.0,0.0,"Brazil","Manaus",True
+690,"E00431","Eliza Hernandez","Network Architect","IT","Corporate","Female","Latino",48,"2019-07-04 00:00:00",7.0,76588,"Very Low",0.0,0.0,"Brazil","Rio de Janerio",True
+691,"E01429","Dylan Wilson","Network Administrator","IT","Research & Development","Male","Caucasian",48,"2006-09-27 00:00:00",19.8,76505,"Very Low",0.0,0.0,"United States","Seattle",False
+692,"E02966","William Foster","Field Engineer","Engineering","Manufacturing","Male","Caucasian",58,"2002-05-23 00:00:00",24.2,76354,"Very Low",0.0,0.0,"United States","Phoenix",False
+693,"E04466","Connor Bell","Network Administrator","IT","Corporate","Male","Black",54,"2000-04-01 00:00:00",26.3,76352,"Very Low",0.0,0.0,"United States","Austin",False
+694,"E02877","Mila Allen","Controls Engineer","Engineering","Corporate","Female","Caucasian",56,"2015-10-14 00:00:00",10.8,76272,"Very Low",0.0,0.0,"United States","Miami",False
+695,"E01591","Paisley Trinh","Technical Architect","IT","Corporate","Female","Asian",57,"1992-05-04 00:00:00",34.2,76202,"Very Low",0.0,0.0,"United States","Austin",False
+696,"E00747","Leilani Baker","Technical Architect","IT","Speciality Products","Female","Caucasian",59,"2010-04-04 00:00:00",16.3,76027,"Very Low",0.0,0.0,"United States","Seattle",False
+697,"E00900","Eleanor Delgado","Sr. Analyst","Marketing","Manufacturing","Female","Latino",33,"2014-04-27 00:00:00",12.2,75869,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+698,"E02258","Eliza Chen","Enterprise Architect","IT","Research & Development","Female","Asian",36,"2016-04-29 00:00:00",10.2,75862,"Very Low",0.0,0.0,"United States","Austin",False
+699,"E03717","Joseph Ruiz","Field Engineer","Engineering","Manufacturing","Male","Latino",45,"2002-02-26 00:00:00",24.4,75819,"Very Low",0.0,0.0,"Brazil","Sao Paulo",False
+700,"E03595","Christopher Howard","Enterprise Architect","IT","Speciality Products","Male","Caucasian",61,"2019-08-26 00:00:00",6.9,75780,"Very Low",0.0,0.0,"United States","Seattle",False
+701,"E00634","Samantha Chavez","Sr. Analyst","Sales","Speciality Products","Female","Latino",53,"2017-01-09 00:00:00",9.5,75769,"Very Low",0.0,0.0,"Brazil","Manaus",False
+702,"E01286","Liam Sanders","Sr. Business Partner","Human Resources","Corporate","Male","Caucasian",46,"2007-02-20 00:00:00",19.4,75579,"Very Low",0.0,0.0,"United States","Seattle",True
+703,"E00592","Josephine Richardson","System Administrator ","IT","Manufacturing","Female","Caucasian",57,"1996-02-18 00:00:00",30.4,75354,"Very Low",0.0,0.0,"United States","Austin",False
+704,"E02121","Levi Brown","Sr. Analyst","Sales","Corporate","Male","Black",36,"2021-12-26 00:00:00",4.6,75119,"Very Low",0.0,0.0,"United States","Chicago",False
+705,"E00608","Anna Han","Development Engineer","Engineering","Manufacturing","Female","Asian",29,"2019-11-09 00:00:00",6.7,75012,"Very Low",0.0,0.0,"United States","Chicago",False
+706,"E00701","Madeline Garcia","Sr. Business Partner","Human Resources","Speciality Products","Female","Latino",45,"2019-04-26 00:00:00",7.2,74891,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+707,"E04535","Charlotte Vo","System Administrator ","IT","Speciality Products","Female","Asian",57,"2014-01-10 00:00:00",12.5,74854,"High",0.0,0.0,"United States","Seattle",False
+708,"E02259","Emily Lau","Sr. Analyst","Finance","Manufacturing","Female","Asian",35,"2019-03-18 00:00:00",7.3,74779,"High",0.0,0.0,"United States","Phoenix",False
+709,"E04735","Nova Coleman","System Administrator ","IT","Manufacturing","Female","Caucasian",44,"2006-12-13 00:00:00",19.6,74738,"High",0.0,0.0,"United States","Miami",False
+710,"E00502","Natalia Salazar","Sr. Analyst","Accounting","Manufacturing","Female","Latino",44,"2019-01-02 00:00:00",7.5,74691,"High",0.0,0.0,"Brazil","Manaus",False
+711,"E03988","Dominic Thomas","Analyst II","Marketing","Manufacturing","Male","Caucasian",48,"2005-09-28 00:00:00",20.8,74655,"High",0.0,0.0,"United States","Austin",False
+712,"E00555","Christian Ali","Analyst II","Marketing","Research & Development","Male","Asian",65,"2001-10-17 00:00:00",24.8,74631,"High",0.0,0.0,"China","Chongqing",True
+713,"E04449","Miles Hsu","Analyst II","Finance","Research & Development","Male","Asian",55,"2014-03-16 00:00:00",12.3,74552,"High",0.0,0.0,"China","Chengdu",False
+714,"E02875","Madeline Shin","Computer Systems Manager","IT","Speciality Products","Female","Asian",48,"2007-01-09 00:00:00",19.5,74546,"High",0.09,67.09,"United States","Seattle",False
+715,"E01339","Jeremiah Hernandez","Network Engineer","IT","Manufacturing","Male","Latino",26,"2019-04-14 00:00:00",7.3,74467,"High",0.0,0.0,"United States","Columbus",False
+716,"E04136","Mason Cao","Analyst II","Finance","Corporate","Male","Asian",52,"2017-09-14 00:00:00",8.8,74449,"High",0.0,0.0,"China","Beijing",False
+717,"E01091","Carter Reed","Development Engineer","Engineering","Manufacturing","Male","Black",40,"2005-07-07 00:00:00",21.0,74412,"High",0.0,0.0,"United States","Seattle",False
+718,"E01711","Benjamin Ford","Analyst II","Finance","Speciality Products","Male","Caucasian",31,"2021-04-22 00:00:00",5.2,74215,"High",0.0,0.0,"United States","Phoenix",False
+719,"E03149","Layla Collins","IT Systems Architect","IT","Speciality Products","Female","Caucasian",26,"2021-03-11 00:00:00",5.4,74170,"High",0.0,0.0,"United States","Austin",False
+720,"E04477","Connor Grant","Sr. Analyst","Accounting","Speciality Products","Male","Caucasian",27,"2021-10-13 00:00:00",4.8,74077,"High",0.0,0.0,"United States","Seattle",False
+721,"E00538","Caleb Xiong","Sr. Account Representative","Sales","Corporate","Male","Asian",38,"2011-11-28 00:00:00",14.6,74010,"High",0.0,0.0,"United States","Chicago",False
+722,"E01103","Lyla Alvarez","IT Systems Architect","IT","Research & Development","Female","Latino",55,"1994-08-30 00:00:00",31.9,73955,"High",0.0,0.0,"United States","Phoenix",False
+723,"E02313","Jeremiah Lu","Network Architect","IT","Manufacturing","Male","Asian",50,"2001-03-06 00:00:00",25.4,73907,"High",0.0,0.0,"China","Shanghai",False
+724,"E02428","Connor Luu","Computer Systems Manager","IT","Speciality Products","Male","Asian",35,"2016-05-03 00:00:00",10.2,73899,"High",0.05,36.95,"China","Chengdu",False
+725,"E02744","Dylan Padilla","HRIS Analyst","Human Resources","Manufacturing","Male","Latino",31,"2015-12-09 00:00:00",10.6,73854,"High",0.0,0.0,"United States","Seattle",False
+726,"E02492","Sebastian Gupta","Sr. Analyst","Marketing","Corporate","Male","Asian",40,"2014-09-22 00:00:00",11.8,73779,"High",0.0,0.0,"China","Chongqing",True
+727,"E00813","Autumn Joseph","Enterprise Architect","IT","Corporate","Female","Black",39,"2018-05-09 00:00:00",8.2,73317,"High",0.0,0.0,"United States","Miami",False
+728,"E01499","Liam Jordan","Computer Systems Manager","IT","Manufacturing","Male","Caucasian",28,"2020-08-08 00:00:00",5.9,73255,"High",0.09,65.93,"United States","Phoenix",True
+729,"E04222","Quinn Xiong","Test Engineer","Engineering","Research & Development","Female","Asian",55,"2013-09-08 00:00:00",12.9,73248,"High",0.0,0.0,"United States","Columbus",False
+730,"E02613","John Jung","Sr. Analyst","Sales","Speciality Products","Male","Asian",63,"2018-03-12 00:00:00",8.4,73200,"High",0.0,0.0,"China","Shanghai",True
+731,"E03560","Ayla Ng","Account Representative","Sales","Manufacturing","Female","Asian",46,"2004-03-20 00:00:00",22.3,73004,"High",0.0,0.0,"China","Beijing",False
+732,"E00667","Skylar Shah","Field Engineer","Engineering","Manufacturing","Female","Asian",42,"2012-04-27 00:00:00",14.2,72903,"High",0.0,0.0,"United States","Phoenix",False
+733,"E03090","Penelope Choi","Technical Architect","IT","Speciality Products","Female","Asian",49,"2010-09-10 00:00:00",15.9,72826,"High",0.0,0.0,"China","Beijing",False
+734,"E01268","Charlotte Wu","Sr. Business Partner","Human Resources","Manufacturing","Female","Asian",63,"2007-05-02 00:00:00",19.2,72805,"High",0.0,0.0,"China","Shanghai",False
+735,"E04925","Athena Jordan","System Administrator ","IT","Manufacturing","Female","Black",42,"2011-02-19 00:00:00",15.4,72486,"High",0.0,0.0,"United States","Seattle",False
+736,"E03273","Daniel Shah","Analyst II","Sales","Research & Development","Male","Asian",41,"2010-06-04 00:00:00",16.1,72425,"High",0.0,0.0,"China","Beijing",False
+737,"E03170","Autumn Thao","Account Representative","Sales","Manufacturing","Female","Asian",63,"2017-09-26 00:00:00",8.8,72340,"High",0.0,0.0,"United States","Phoenix",False
+738,"E04224","Lucas Ramos","Sr. Business Partner","Human Resources","Speciality Products","Male","Latino",56,"1998-01-21 00:00:00",28.5,72303,"High",0.0,0.0,"United States","Phoenix",False
+739,"E00078","Eva Garcia","HRIS Analyst","Human Resources","Corporate","Female","Latino",31,"2021-04-11 00:00:00",5.3,72235,"High",0.0,0.0,"Brazil","Manaus",False
+740,"E04853","Vivian Chu","Sr. Account Representative","Sales","Research & Development","Female","Asian",46,"2021-01-17 00:00:00",5.5,72131,"High",0.0,0.0,"China","Shanghai",False
+741,"E03805","Autumn Gonzales","Analyst II","Sales","Corporate","Female","Latino",34,"2012-06-06 00:00:00",14.1,72126,"High",0.0,0.0,"Brazil","Manaus",False
+742,"E00126","Isabella Scott","Network Administrator","IT","Research & Development","Female","Caucasian",58,"2016-04-26 00:00:00",10.2,72045,"High",0.0,0.0,"United States","Phoenix",False
+743,"E00527","Mateo Chu","Field Engineer","Engineering","Speciality Products","Male","Asian",27,"2020-04-16 00:00:00",6.3,71864,"High",0.0,0.0,"China","Chengdu",False
+744,"E02103","Andrew Ma","HRIS Analyst","Human Resources","Corporate","Male","Asian",31,"2017-09-24 00:00:00",8.8,71755,"High",0.0,0.0,"China","Chongqing",False
+746,"E03824","Jameson Martin","Technical Architect","IT","Corporate","Male","Caucasian",37,"2008-02-15 00:00:00",18.4,71695,"High",0.0,0.0,"United States","Phoenix",True
+747,"E01413","Caroline Nelson","Sr. Account Representative","Sales","Speciality Products","Female","Black",60,"1997-07-30 00:00:00",29.0,71677,"High",0.0,0.0,"United States","Columbus",False
+748,"E00417","Athena Carrillo","Analyst II","Finance","Speciality Products","Female","Latino",39,"2006-04-06 00:00:00",20.3,71531,"High",0.0,0.0,"United States","Columbus",False
+749,"E03720","Dominic Clark","Quality Engineer","Engineering","Research & Development","Male","Caucasian",52,"2012-10-17 00:00:00",13.8,71476,"High",0.0,0.0,"United States","Phoenix",True
+750,"E03465","Harper Phan","Analyst II","Finance","Manufacturing","Female","Asian",45,"2016-12-07 00:00:00",9.6,71454,"High",0.0,0.0,"China","Shanghai",False
+751,"E04288","Ella White","Development Engineer","Engineering","Manufacturing","Female","Caucasian",25,"2020-01-20 00:00:00",6.5,71359,"High",0.0,0.0,"United States","Phoenix",False
+752,"E01898","Oliver Moua","IT Systems Architect","IT","Corporate","Male","Asian",29,"2021-06-28 00:00:00",5.1,71234,"High",0.0,0.0,"United States","Seattle",False
+753,"E04378","Ezra Simmons","Network Administrator","IT","Manufacturing","Male","Black",31,"2016-05-07 00:00:00",10.2,71192,"High",0.0,0.0,"United States","Austin",False
+754,"E02190","Gabriel Carter","Test Engineer","Engineering","Manufacturing","Male","Caucasian",57,"2018-07-18 00:00:00",8.0,71167,"High",0.0,0.0,"United States","Columbus",False
+755,"E02047","Xavier Perez","Sr. Analyst","Sales","Manufacturing","Male","Latino",51,"1998-02-26 00:00:00",28.4,71111,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+756,"E01631","Leilani Yee","Sr. Analyst","Marketing","Speciality Products","Female","Asian",47,"2017-07-12 00:00:00",9.0,70996,"High",0.0,0.0,"China","Chengdu",False
+757,"E00170","Hannah Nelson","Sr. Analyst","Marketing","Speciality Products","Female","Caucasian",35,"2019-09-07 00:00:00",6.9,70992,"High",0.0,0.0,"United States","Austin",True
+758,"E02063","Ian Gutierrez","Sr. Business Partner","Human Resources","Research & Development","Male","Latino",32,"2021-04-09 00:00:00",5.3,70980,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+759,"E00245","Benjamin Delgado","Test Engineer","Engineering","Corporate","Male","Latino",64,"1992-09-28 00:00:00",33.8,70778,"High",0.0,0.0,"United States","Austin",True
+760,"E03018","Autumn Reed","Development Engineer","Engineering","Corporate","Female","Caucasian",37,"2017-09-17 00:00:00",8.8,70770,"High",0.0,0.0,"United States","Miami",False
+761,"E00386","Parker James","Quality Engineer","Engineering","Speciality Products","Male","Black",45,"2005-02-05 00:00:00",21.5,70505,"High",0.0,0.0,"United States","Austin",False
+762,"E02072","Charles Robinson","HRIS Analyst","Human Resources","Speciality Products","Male","Caucasian",26,"2021-03-12 00:00:00",5.3,70369,"High",0.0,0.0,"United States","Seattle",False
+763,"E00319","Ezra Wilson","Service Desk Analyst","IT","Manufacturing","Male","Caucasian",55,"2013-10-18 00:00:00",12.8,70334,"High",0.0,0.0,"United States","Miami",False
+764,"E02378","Audrey Smith","Field Engineer","Engineering","Research & Development","Female","Caucasian",58,"1995-10-27 00:00:00",30.7,70189,"High",0.0,0.0,"United States","Columbus",False
+765,"E00825","Anna Molina","Sr. Analyst","Accounting","Corporate","Female","Latino",41,"2016-06-12 00:00:00",10.1,70165,"High",0.0,0.0,"United States","Columbus",False
+766,"E01724","Nolan Molina","Computer Systems Manager","IT","Corporate","Male","Latino",36,"2020-12-27 00:00:00",5.6,70165,"High",0.07,49.12,"Brazil","Manaus",False
+767,"E01132","Aiden Bryant","Account Representative","Sales","Manufacturing","Male","Black",47,"2002-10-21 00:00:00",23.8,70122,"High",0.0,0.0,"United States","Columbus",True
+768,"E01820","Nathan Miller","Quality Engineer","Engineering","Speciality Products","Male","Black",27,"2019-05-28 00:00:00",7.1,70110,"High",0.0,0.0,"United States","Miami",False
+769,"E03440","Genesis Navarro","Cloud Infrastructure Architect","IT","Corporate","Female","Latino",41,"2009-04-28 00:00:00",17.2,69803,"High",0.0,0.0,"Brazil","Manaus",False
+770,"E02642","Sebastian Rogers","HRIS Analyst","Human Resources","Research & Development","Male","Caucasian",38,"2019-11-29 00:00:00",6.6,69647,"High",0.0,0.0,"United States","Miami",False
+771,"E04811","Athena Vasquez","Field Engineer","Engineering","Speciality Products","Female","Latino",59,"2014-09-16 00:00:00",11.8,69578,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+772,"E04877","Samuel Vega","Analyst II","Marketing","Speciality Products","Male","Latino",37,"2013-03-30 00:00:00",13.3,69570,"High",0.0,0.0,"United States","Miami",False
+773,"E02283","Jaxon Park","Network Architect","IT","Manufacturing","Male","Asian",33,"2020-07-24 00:00:00",6.0,69453,"High",0.0,0.0,"China","Chengdu",False
+774,"E03370","Ian Cortez","Analyst II","Marketing","Research & Development","Male","Latino",61,"2008-04-30 00:00:00",18.2,69352,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+775,"E00869","Nova Lin","Cloud Infrastructure Architect","IT","Manufacturing","Female","Asian",33,"2017-10-21 00:00:00",8.7,69332,"High",0.0,0.0,"United States","Columbus",False
+776,"E00523","Daniel Jordan","Network Administrator","IT","Corporate","Male","Caucasian",58,"1993-07-26 00:00:00",33.0,69260,"High",0.0,0.0,"United States","Phoenix",False
+777,"E04174","Maverick Henry","Computer Systems Manager","IT","Research & Development","Male","Caucasian",26,"2019-07-10 00:00:00",7.0,69110,"High",0.05,34.56,"United States","Chicago",False
+778,"E00870","Evelyn Liang","Service Desk Analyst","IT","Speciality Products","Female","Asian",40,"2013-06-26 00:00:00",13.1,69096,"High",0.0,0.0,"United States","Seattle",False
+779,"E04732","Benjamin Ramirez","Network Engineer","IT","Research & Development","Male","Latino",48,"2005-07-27 00:00:00",21.0,68987,"High",0.0,0.0,"United States","Chicago",True
+780,"E00824","Everleigh Adams","Analyst II","Marketing","Manufacturing","Female","Caucasian",33,"2020-03-14 00:00:00",6.3,68846,"High",0.0,0.0,"United States","Chicago",False
+781,"E02977","Nicholas Song","Analyst II","Marketing","Manufacturing","Male","Asian",52,"1999-05-23 00:00:00",27.2,68807,"High",0.0,0.0,"China","Chengdu",False
+782,"E00415","Leilani Butler","Analyst II","Marketing","Manufacturing","Female","Black",27,"2021-09-21 00:00:00",4.8,68728,"High",0.0,0.0,"United States","Phoenix",False
+783,"E00422","Jade Acosta","Development Engineer","Engineering","Research & Development","Female","Latino",47,"2015-08-29 00:00:00",10.9,68488,"High",0.0,0.0,"United States","Seattle",False
+784,"E03354","Silas Estrada","IT Systems Architect","IT","Corporate","Male","Latino",49,"2016-06-24 00:00:00",10.1,68426,"High",0.0,0.0,"Brazil","Rio de Janerio",True
+785,"E00555","Sofia Trinh","Network Architect","IT","Speciality Products","Female","Asian",45,"2006-12-18 00:00:00",19.6,68337,"High",0.0,0.0,"China","Chongqing",True
+786,"E00521","Lily Carter","Network Architect","IT","Research & Development","Female","Caucasian",54,"1998-05-18 00:00:00",28.2,68268,"High",0.0,0.0,"United States","Phoenix",False
+787,"E03540","Emma Perry","Solutions Architect","IT","Manufacturing","Female","Caucasian",28,"2018-01-22 00:00:00",8.5,68176,"High",0.0,0.0,"United States","Seattle",False
+788,"E03981","Eliana Li","Test Engineer","Engineering","Research & Development","Female","Asian",63,"2018-05-07 00:00:00",8.2,67987,"High",0.0,0.0,"United States","Miami",False
+789,"E03255","Jose Brown","System Administrator ","IT","Speciality Products","Male","Caucasian",43,"2016-04-07 00:00:00",10.3,67976,"High",0.0,0.0,"United States","Seattle",False
+790,"E00443","Nolan Bui","Computer Systems Manager","IT","Research & Development","Male","Asian",28,"2020-05-26 00:00:00",6.1,67925,"High",0.08,54.34,"China","Shanghai",False
+791,"E01985","Eliana Turner","Account Representative","Sales","Research & Development","Female","Black",65,"2000-09-29 00:00:00",25.8,67837,"High",0.0,0.0,"United States","Austin",False
+792,"E01416","Hudson Thompson","Analyst II","Accounting","Manufacturing","Male","Black",30,"2020-10-20 00:00:00",5.7,67753,"High",0.0,0.0,"United States","Phoenix",False
+793,"E01941","Quinn Trinh","Analyst II","Sales","Corporate","Female","Asian",42,"2010-05-09 00:00:00",16.2,67743,"High",0.0,0.0,"China","Beijing",False
+794,"E02094","Matthew Gupta","Network Engineer","IT","Speciality Products","Male","Asian",45,"2005-09-18 00:00:00",20.8,67686,"High",0.0,0.0,"China","Beijing",False
+795,"E03058","Robert Wright","Technical Architect","IT","Manufacturing","Male","Caucasian",30,"2015-06-14 00:00:00",11.1,67489,"High",0.0,0.0,"United States","Chicago",True
+796,"E04079","Christopher Butler","Network Architect","IT","Manufacturing","Male","Caucasian",41,"2017-10-05 00:00:00",8.8,67468,"High",0.0,0.0,"United States","Miami",False
+797,"E03807","Kennedy Do","Computer Systems Manager","IT","Manufacturing","Female","Asian",42,"2005-10-15 00:00:00",20.8,67398,"High",0.07,47.18,"United States","Phoenix",True
+798,"E01281","Isaac Mitchell","Network Architect","IT","Speciality Products","Male","Black",46,"2005-06-10 00:00:00",21.1,67374,"High",0.0,0.0,"United States","Austin",False
+799,"E03637","Landon Thao","HRIS Analyst","Human Resources","Speciality Products","Male","Asian",25,"2021-01-21 00:00:00",5.5,67299,"High",0.0,0.0,"United States","Phoenix",False
+800,"E02696","Ryan Lu","Development Engineer","Engineering","Speciality Products","Male","Asian",25,"2021-07-08 00:00:00",5.0,67275,"High",0.0,0.0,"United States","Columbus",False
+801,"E03064","Lincoln Fong","Analyst II","Sales","Speciality Products","Male","Asian",31,"2020-02-17 00:00:00",6.4,67171,"High",0.0,0.0,"China","Chongqing",False
+802,"E04128","Jacob Doan","Analyst II","Sales","Speciality Products","Male","Asian",55,"2021-08-02 00:00:00",5.0,67130,"High",0.0,0.0,"United States","Miami",False
+803,"E01684","Jaxson Liang","Field Engineer","Engineering","Manufacturing","Male","Asian",64,"2019-03-03 00:00:00",7.4,67114,"High",0.0,0.0,"United States","Phoenix",False
+804,"E00929","Allison Espinoza","Solutions Architect","IT","Speciality Products","Female","Latino",45,"2020-04-16 00:00:00",6.3,66958,"High",0.0,0.0,"United States","Miami",False
+805,"E04207","John Contreras","Analyst II","Marketing","Manufacturing","Male","Latino",35,"2011-05-15 00:00:00",15.2,66889,"High",0.0,0.0,"United States","Columbus",False
+806,"E02216","Caleb Marquez","IT Systems Architect","IT","Research & Development","Male","Latino",29,"2019-10-15 00:00:00",6.8,66819,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+807,"E03278","Nevaeh James","Solutions Architect","IT","Speciality Products","Female","Caucasian",45,"2017-11-03 00:00:00",8.7,66660,"High",0.0,0.0,"United States","Austin",True
+808,"E02917","Everett Morales","Solutions Architect","IT","Speciality Products","Male","Latino",57,"2014-07-10 00:00:00",12.0,66649,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+809,"E01994","Angel Powell","Analyst II","Sales","Research & Development","Male","Caucasian",61,"2008-07-11 00:00:00",18.0,66521,"High",0.0,0.0,"United States","Seattle",False
+810,"E03648","Vivian Hunter","Account Representative","Sales","Corporate","Female","Black",26,"2019-08-21 00:00:00",6.9,66084,"High",0.0,0.0,"United States","Seattle",False
+811,"E01496","Ava Ortiz","Enterprise Architect","IT","Manufacturing","Female","Latino",53,"2004-07-20 00:00:00",22.0,65702,"High",0.0,0.0,"United States","Columbus",False
+812,"E04308","Kai Flores","Development Engineer","Engineering","Manufacturing","Male","Latino",35,"2017-05-23 00:00:00",9.2,65566,"High",0.0,0.0,"United States","Seattle",False
+813,"E03404","Everleigh Nunez","Field Engineer","Engineering","Speciality Products","Female","Latino",42,"2021-02-05 00:00:00",5.4,65507,"High",0.0,0.0,"Brazil","Manaus",False
+814,"E03881","Andrew Reed","System Administrator ","IT","Corporate","Male","Black",28,"2019-06-17 00:00:00",7.1,65341,"High",0.0,0.0,"United States","Miami",False
+815,"E04699","Ivy Tang","Development Engineer","Engineering","Speciality Products","Female","Asian",48,"2012-05-03 00:00:00",14.2,65340,"High",0.0,0.0,"China","Shanghai",False
+816,"E02189","Isla Chavez","Account Representative","Sales","Research & Development","Female","Latino",29,"2018-05-19 00:00:00",8.2,65334,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+817,"E02276","Hazel Griffin","Field Engineer","Engineering","Corporate","Female","Caucasian",32,"2015-11-09 00:00:00",10.7,65247,"High",0.0,0.0,"United States","Phoenix",False
+818,"E00725","Nova Herrera","Account Representative","Sales","Speciality Products","Female","Latino",45,"2014-05-10 00:00:00",12.2,65047,"High",0.0,0.0,"Brazil","Sao Paulo",False
+819,"E03362","Lily Henderson","HRIS Analyst","Human Resources","Manufacturing","Female","Caucasian",61,"2011-05-20 00:00:00",15.2,64937,"High",0.0,0.0,"United States","Phoenix",False
+820,"E00935","Joseph Martin","Analyst II","Marketing","Corporate","Male","Black",41,"2016-09-13 00:00:00",9.8,64847,"High",0.0,0.0,"United States","Miami",False
+821,"E04529","Gabriel Yu","Technical Architect","IT","Speciality Products","Male","Asian",42,"2014-06-23 00:00:00",12.1,64677,"High",0.0,0.0,"China","Chongqing",False
+822,"E00022","Elena Her","Account Representative","Sales","Manufacturing","Female","Asian",62,"2006-09-17 00:00:00",19.8,64669,"High",0.0,0.0,"China","Chongqing",False
+823,"E04978","Peyton Harris","Enterprise Architect","IT","Research & Development","Female","Caucasian",45,"2009-04-05 00:00:00",17.3,64505,"High",0.0,0.0,"United States","Miami",False
+824,"E00501","Melody Ho","Analyst II","Finance","Research & Development","Female","Asian",55,"2007-12-02 00:00:00",18.6,64494,"High",0.0,0.0,"United States","Columbus",False
+825,"E00816","Skylar Watson","Network Architect","IT","Speciality Products","Female","Caucasian",28,"2021-10-08 00:00:00",4.8,64475,"High",0.0,0.0,"United States","Phoenix",False
+826,"E04697","Eleanor Williams","Enterprise Architect","IT","Speciality Products","Female","Caucasian",61,"2005-02-09 00:00:00",21.4,64462,"High",0.0,0.0,"United States","Chicago",False
+827,"E02333","Jaxson Wright","Service Desk Analyst","IT","Manufacturing","Male","Black",54,"2010-12-28 00:00:00",15.6,64417,"High",0.0,0.0,"United States","Columbus",False
+828,"E01075","Joshua Juarez","Analyst II","Finance","Manufacturing","Male","Latino",46,"2015-05-05 00:00:00",11.2,64364,"High",0.0,0.0,"Brazil","Sao Paulo",False
+829,"E02649","Charles Gonzalez","Quality Engineer","Engineering","Research & Development","Male","Latino",27,"2018-09-28 00:00:00",7.8,64247,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+830,"E00749","Valentina Moua","Account Representative","Sales","Manufacturing","Female","Asian",37,"2015-11-10 00:00:00",10.7,64204,"High",0.0,0.0,"United States","Columbus",False
+831,"E00282","Jeremiah Castillo","Analyst II","Accounting","Research & Development","Male","Latino",58,"2006-04-12 00:00:00",20.3,64202,"High",0.0,0.0,"United States","Columbus",False
+832,"E01378","Genesis Xiong","System Administrator ","IT","Research & Development","Female","Asian",51,"2012-02-25 00:00:00",14.4,64170,"High",0.0,0.0,"United States","Columbus",False
+833,"E04917","Everleigh Washington","HRIS Analyst","Human Resources","Research & Development","Female","Caucasian",64,"2001-10-20 00:00:00",24.8,64057,"High",0.0,0.0,"United States","Phoenix",False
+834,"E04972","Sophie Oh","Network Engineer","IT","Corporate","Female","Asian",29,"2017-11-09 00:00:00",8.7,63985,"High",0.0,0.0,"United States","Miami",True
+835,"E00465","Dominic Parker","Test Engineer","Engineering","Research & Development","Male","Caucasian",62,"2011-10-04 00:00:00",14.8,63959,"High",0.0,0.0,"United States","Seattle",True
+836,"E03419","Jade Yi","Account Representative","Sales","Speciality Products","Female","Asian",47,"2015-07-10 00:00:00",11.0,63880,"High",0.0,0.0,"China","Chongqing",False
+837,"E01524","Ian Miller","Computer Systems Manager","IT","Corporate","Male","Black",31,"2016-10-13 00:00:00",9.8,63744,"High",0.08,51.0,"United States","Austin",False
+838,"E00647","Emily Gupta","HRIS Analyst","Human Resources","Corporate","Female","Asian",44,"2006-02-23 00:00:00",20.4,63705,"High",0.0,0.0,"United States","Miami",True
+839,"E01927","Charles Moore","Technical Architect","IT","Manufacturing","Male","Black",34,"2016-02-16 00:00:00",10.4,63411,"High",0.0,0.0,"United States","Miami",False
+840,"E00981","Miles Thao","System Administrator ","IT","Corporate","Male","Asian",57,"2003-06-26 00:00:00",23.1,63318,"High",0.0,0.0,"United States","Columbus",False
+841,"E02440","Grayson Turner","Solutions Architect","IT","Corporate","Male","Caucasian",54,"1992-06-30 00:00:00",34.1,63196,"High",0.0,0.0,"United States","Chicago",False
+842,"E02769","Eliza Adams","Account Representative","Sales","Manufacturing","Female","Caucasian",26,"2021-11-21 00:00:00",4.7,63137,"High",0.0,0.0,"United States","Chicago",True
+843,"E01807","Cameron Evans","Test Engineer","Engineering","Corporate","Male","Caucasian",50,"2018-12-13 00:00:00",7.6,63098,"High",0.0,0.0,"United States","Columbus",True
+844,"E02684","Aaron Maldonado","Analyst II","Finance","Manufacturing","Male","Latino",39,"2008-09-17 00:00:00",17.8,62861,"High",0.0,0.0,"United States","Seattle",False
+845,"E02627","Parker Avila","Analyst II","Marketing","Manufacturing","Male","Latino",47,"2005-11-28 00:00:00",20.6,62749,"High",0.0,0.0,"Brazil","Manaus",False
+846,"E00153","Claire Jones","Field Engineer","Engineering","Corporate","Female","Caucasian",39,"2019-03-12 00:00:00",7.4,62644,"High",0.0,0.0,"United States","Seattle",False
+847,"E00952","Jaxon Powell","Field Engineer","Engineering","Research & Development","Male","Caucasian",59,"1996-03-29 00:00:00",30.3,62605,"High",0.0,0.0,"United States","Austin",True
+848,"E04959","Noah King","Development Engineer","Engineering","Speciality Products","Male","Black",56,"2015-01-27 00:00:00",11.5,62575,"High",0.0,0.0,"United States","Miami",False
+849,"E03863","Madeline Watson","Account Representative","Sales","Research & Development","Female","Black",40,"2009-05-27 00:00:00",17.1,62411,"High",0.0,0.0,"United States","Miami",False
+850,"E00035","Lillian Gonzales","Cloud Infrastructure Architect","IT","Manufacturing","Female","Latino",43,"2009-03-13 00:00:00",17.4,62335,"High",0.0,0.0,"Brazil","Manaus",False
+851,"E03181","Greyson Dang","Development Engineer","Engineering","Manufacturing","Male","Asian",60,"2009-05-11 00:00:00",17.2,62239,"High",0.0,0.0,"China","Beijing",False
+852,"E03685","Silas Hunter","Solutions Architect","IT","Corporate","Male","Black",55,"1998-05-04 00:00:00",28.2,62174,"High",0.0,0.0,"United States","Chicago",False
+853,"E01125","Joshua Yang","Network Engineer","IT","Manufacturing","Male","Asian",34,"2018-11-10 00:00:00",7.7,61944,"High",0.0,0.0,"China","Shanghai",False
+854,"E01525","Charlotte Ruiz","Computer Systems Manager","IT","Manufacturing","Female","Latino",32,"2017-10-02 00:00:00",8.8,61886,"High",0.09,55.7,"Brazil","Rio de Janerio",True
+855,"E01194","Samantha Adams","Test Engineer","Engineering","Research & Development","Female","Caucasian",45,"2013-04-22 00:00:00",13.2,61773,"High",0.0,0.0,"United States","Seattle",True
+856,"E03902","Madison Hunter","Network Administrator","IT","Corporate","Female","Caucasian",40,"2012-02-05 00:00:00",14.5,61523,"High",0.0,0.0,"United States","Columbus",False
+857,"E03750","Jordan Cho","Analyst II","Accounting","Speciality Products","Male","Asian",28,"2018-08-24 00:00:00",7.9,61410,"High",0.0,0.0,"United States","Phoenix",True
+858,"E02274","Isabella Bailey","Network Administrator","IT","Manufacturing","Female","Caucasian",36,"2010-08-23 00:00:00",15.9,61310,"High",0.0,0.0,"United States","Phoenix",False
+859,"E01221","Eva Figueroa","Analyst II","Sales","Research & Development","Female","Latino",48,"2014-05-14 00:00:00",12.2,61216,"High",0.0,0.0,"United States","Seattle",False
+860,"E01194","Ella Jenkins","Analyst II","Finance","Speciality Products","Female","Caucasian",52,"2019-12-20 00:00:00",6.6,61026,"High",0.0,0.0,"United States","Phoenix",True
+861,"E00836","Addison Roberts","Network Architect","IT","Manufacturing","Female","Caucasian",65,"2018-05-14 00:00:00",8.2,60985,"High",0.0,0.0,"United States","Seattle",True
+862,"E00994","Charlotte Baker","Analyst II","Sales","Manufacturing","Female","Caucasian",29,"2016-11-17 00:00:00",9.7,60930,"High",0.0,0.0,"United States","Austin",False
+863,"E03347","Rylee Dinh","Development Engineer","Engineering","Speciality Products","Female","Asian",35,"2017-02-10 00:00:00",9.4,60132,"High",0.0,0.0,"China","Chongqing",False
+864,"E03980","Lydia Huynh","Account Representative","Sales","Speciality Products","Female","Asian",45,"2000-08-16 00:00:00",25.9,60113,"High",0.0,0.0,"United States","Chicago",False
+865,"E01263","Adam Espinoza","Test Engineer","Engineering","Manufacturing","Male","Latino",36,"2009-04-09 00:00:00",17.3,60055,"High",0.0,0.0,"United States","Seattle",False
+866,"E04484","Vivian Thao","Quality Engineer","Engineering","Research & Development","Female","Asian",45,"2015-04-23 00:00:00",11.2,60017,"High",0.0,0.0,"United States","Chicago",False
+867,"E04112","Axel Chu","Systems Analyst","IT","Research & Development","Male","Asian",43,"2018-05-04 00:00:00",8.2,59888,"High",0.0,0.0,"China","Beijing",False
+868,"E03262","Logan Mitchell","Analyst II","Marketing","Manufacturing","Male","Caucasian",65,"2005-08-20 00:00:00",20.9,59833,"High",0.0,0.0,"United States","Columbus",False
+869,"E00972","Amelia Salazar","Analyst II","Finance","Corporate","Female","Latino",26,"2019-04-23 00:00:00",7.2,59817,"High",0.0,0.0,"Brazil","Sao Paulo",True
+870,"E00758","Jonathan Khan","Account Representative","Sales","Manufacturing","Male","Asian",35,"2013-08-30 00:00:00",12.9,59646,"High",0.0,0.0,"China","Shanghai",True
+871,"E00788","Emily Contreras","Analyst II","Sales","Manufacturing","Female","Latino",56,"1992-06-15 00:00:00",34.1,59591,"High",0.0,0.0,"Brazil","Sao Paulo",False
+872,"E03549","Mateo Vu","Account Representative","Sales","Speciality Products","Male","Asian",30,"2016-09-29 00:00:00",9.8,59100,"High",0.0,0.0,"China","Chongqing",False
+873,"E01848","Zoey Jackson","Business Partner","Human Resources","Manufacturing","Female","Black",46,"2008-08-21 00:00:00",17.9,59067,"High",0.0,0.0,"United States","Miami",False
+874,"E03578","Maverick Li","Analyst II","Sales","Research & Development","Male","Asian",34,"2018-03-10 00:00:00",8.4,58993,"High",0.0,0.0,"United States","Austin",False
+875,"E01396","Jack Vu","Analyst II","Accounting","Research & Development","Male","Asian",43,"2014-02-10 00:00:00",12.4,58875,"High",0.0,0.0,"China","Chengdu",False
+876,"E04018","Emery Ford","Analyst II","Marketing","Corporate","Female","Caucasian",39,"2017-04-18 00:00:00",9.2,58745,"High",0.0,0.0,"United States","Austin",False
+877,"E01749","Nathan Lee","Analyst","Accounting","Manufacturing","Male","Asian",29,"2016-08-20 00:00:00",9.9,58703,"High",0.0,0.0,"United States","Columbus",False
+878,"E04221","Roman King","Analyst II","Finance","Corporate","Male","Caucasian",60,"2007-08-16 00:00:00",18.9,58671,"High",0.0,0.0,"United States","Columbus",False
+879,"E00834","Vivian Guzman","Analyst II","Finance","Speciality Products","Female","Latino",53,"2002-02-09 00:00:00",24.4,58605,"High",0.0,0.0,"United States","Phoenix",False
+880,"E00577","Nora Nunez","Analyst II","Finance","Research & Development","Female","Latino",45,"2012-08-06 00:00:00",14.0,58586,"High",0.0,0.0,"Brazil","Sao Paulo",False
+881,"E03007","Isaac Joseph","Analyst","Sales","Manufacturing","Male","Caucasian",54,"1998-09-24 00:00:00",27.8,58006,"High",0.0,0.0,"United States","Seattle",False
+882,"E04590","Isaac Sanders","HRIS Analyst","Human Resources","Manufacturing","Male","Caucasian",49,"2001-03-29 00:00:00",25.3,57606,"High",0.0,0.0,"United States","Miami",False
+883,"E00412","Ezra Banks","Analyst II","Sales","Research & Development","Male","Caucasian",37,"2010-04-23 00:00:00",16.2,57531,"High",0.0,0.0,"United States","Chicago",False
+884,"E04444","Brooklyn Ruiz","IT Coordinator","IT","Manufacturing","Female","Latino",61,"2014-08-10 00:00:00",11.9,57446,"High",0.0,0.0,"United States","Phoenix",False
+885,"E04131","Ruby Choi","Analyst","Accounting","Manufacturing","Female","Asian",40,"2018-12-06 00:00:00",7.6,57225,"High",0.0,0.0,"United States","Columbus",True
+886,"E04938","Brooklyn Daniels","Analyst","Marketing","Speciality Products","Female","Caucasian",64,"2003-02-10 00:00:00",23.4,57032,"High",0.0,0.0,"United States","Miami",False
+887,"E00254","Samuel Morales","Analyst II","Finance","Corporate","Male","Latino",34,"2015-06-27 00:00:00",11.1,57008,"High",0.0,0.0,"United States","Phoenix",False
+888,"E00646","Charles Moore","Analyst","Accounting","Speciality Products","Male","Caucasian",49,"2011-12-17 00:00:00",14.6,56878,"High",0.0,0.0,"United States","Seattle",False
+889,"E04739","Ruby Washington","Analyst","Marketing","Research & Development","Female","Black",65,"2011-06-17 00:00:00",15.1,56686,"High",0.0,0.0,"United States","Seattle",False
+890,"E02968","Caroline Santos","Analyst II","Finance","Research & Development","Female","Latino",25,"2020-07-12 00:00:00",6.0,56565,"High",0.0,0.0,"Brazil","Sao Paulo",False
+891,"E01089","Nicholas Brooks","Analyst II","Accounting","Manufacturing","Male","Caucasian",43,"2017-10-20 00:00:00",8.7,56555,"High",0.0,0.0,"United States","Phoenix",False
+892,"E03000","Hailey Hong","Account Representative","Sales","Research & Development","Female","Asian",33,"2021-01-22 00:00:00",5.5,56405,"High",0.0,0.0,"United States","Chicago",False
+893,"E00184","Kayden Ortega","Analyst","Accounting","Manufacturing","Male","Latino",58,"2010-04-19 00:00:00",16.3,56350,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+894,"E04636","Hailey Yee","Account Representative","Sales","Research & Development","Female","Asian",54,"2021-03-16 00:00:00",5.3,56239,"High",0.0,0.0,"China","Chongqing",False
+895,"E03520","Nolan Pena","Analyst","Marketing","Manufacturing","Male","Latino",30,"2018-06-21 00:00:00",8.1,56154,"High",0.0,0.0,"Brazil","Sao Paulo",False
+896,"E04600","William Vu","Account Representative","Sales","Speciality Products","Male","Asian",37,"2013-11-14 00:00:00",12.7,56037,"High",0.0,0.0,"China","Shanghai",False
+897,"E01844","Jayden Kang","Analyst","Finance","Research & Development","Male","Asian",46,"2011-04-24 00:00:00",15.2,55894,"High",0.0,0.0,"United States","Seattle",False
+898,"E00013","Elena Vang","Analyst","Finance","Corporate","Female","Asian",52,"2019-02-19 00:00:00",7.4,55859,"High",0.0,0.0,"China","Beijing",True
+899,"E04562","Xavier Zheng","Account Representative","Sales","Manufacturing","Male","Asian",31,"2017-07-22 00:00:00",9.0,55854,"High",0.0,0.0,"United States","Austin",True
+900,"E02153","Peyton Vasquez","Analyst","Accounting","Corporate","Female","Latino",26,"2019-01-24 00:00:00",7.5,55767,"High",0.0,0.0,"United States","Phoenix",False
+901,"E00091","Emilia Chu","Analyst II","Finance","Manufacturing","Female","Asian",48,"2003-06-24 00:00:00",23.1,55760,"High",0.0,0.0,"United States","Austin",False
+902,"E00650","Emery Chang","Business Partner","Human Resources","Research & Development","Female","Asian",45,"2000-08-17 00:00:00",25.9,55563,"High",0.0,0.0,"China","Chengdu",False
+903,"E04150","Natalia Vu","Analyst","Accounting","Research & Development","Female","Asian",54,"2006-12-29 00:00:00",19.6,55518,"High",0.0,0.0,"United States","Columbus",False
+904,"E00402","Dominic Guzman","Analyst","Finance","Manufacturing","Male","Latino",65,"2004-05-16 00:00:00",22.2,55499,"High",0.0,0.0,"Brazil","Manaus",False
+905,"E04887","Emery Do","Account Representative","Sales","Research & Development","Female","Asian",40,"2018-03-16 00:00:00",8.3,55457,"High",0.0,0.0,"United States","Columbus",False
+906,"E00116","Madelyn Mehta","Analyst","Sales","Speciality Products","Female","Asian",64,"2005-01-28 00:00:00",21.5,55369,"High",0.0,0.0,"United States","Phoenix",False
+907,"E02833","Adrian Fernandez","Systems Analyst","IT","Research & Development","Male","Latino",45,"2001-08-23 00:00:00",24.9,54994,"High",0.0,0.0,"United States","Columbus",False
+908,"E03880","Samantha Woods","Analyst","Accounting","Speciality Products","Female","Caucasian",56,"2019-12-25 00:00:00",6.6,54829,"High",0.0,0.0,"United States","Phoenix",False
+909,"E02594","Ezekiel Kumar","IT Coordinator","IT","Research & Development","Male","Asian",28,"2017-06-25 00:00:00",9.1,54775,"High",0.0,0.0,"United States","Columbus",False
+910,"E00826","Rylee Bui","Analyst","Accounting","Corporate","Female","Asian",55,"2011-12-22 00:00:00",14.6,54733,"High",0.0,0.0,"China","Chongqing",False
+911,"E00399","Connor Walker","Analyst II","Finance","Manufacturing","Male","Caucasian",30,"2019-03-18 00:00:00",7.3,54714,"High",0.0,0.0,"United States","Columbus",False
+912,"E00459","Jackson Jordan","Business Partner","Human Resources","Research & Development","Male","Black",48,"2020-09-21 00:00:00",5.8,54654,"High",0.0,0.0,"United States","Phoenix",False
+913,"E02295","Axel Jordan","Analyst","Sales","Corporate","Male","Caucasian",47,"2013-02-28 00:00:00",13.4,54635,"High",0.0,0.0,"United States","Chicago",False
+914,"E00436","Everly Walker","HRIS Analyst","Human Resources","Speciality Products","Female","Caucasian",41,"2009-10-23 00:00:00",16.7,54415,"High",0.0,0.0,"United States","Seattle",True
+915,"E03045","Andrew Huynh","Business Partner","Human Resources","Speciality Products","Male","Asian",57,"1997-04-28 00:00:00",29.2,54051,"High",0.0,0.0,"United States","Miami",False
+916,"E03694","Eli Reed","Systems Analyst","IT","Corporate","Male","Caucasian",51,"2014-02-27 00:00:00",12.4,53929,"High",0.0,0.0,"United States","Miami",True
+917,"E03042","Ava Nelson","Systems Analyst","IT","Manufacturing","Female","Caucasian",63,"1992-04-01 00:00:00",34.3,53809,"High",0.0,0.0,"United States","Phoenix",False
+918,"E03864","Ella Hunter","Analyst","Finance","Manufacturing","Female","Caucasian",51,"2017-01-18 00:00:00",9.5,53799,"High",0.0,0.0,"United States","Columbus",False
+919,"E01714","Savannah Park","HRIS Analyst","Human Resources","Manufacturing","Female","Asian",44,"2009-01-28 00:00:00",17.5,53301,"High",0.0,0.0,"United States","Seattle",False
+920,"E01540","Miles Salazar","IT Coordinator","IT","Manufacturing","Male","Latino",36,"2010-12-23 00:00:00",15.6,53215,"High",0.0,0.0,"Brazil","Sao Paulo",False
+921,"E00311","Scarlett Figueroa","Business Partner","Human Resources","Speciality Products","Female","Latino",34,"2016-10-21 00:00:00",9.7,52811,"High",0.0,0.0,"United States","Miami",False
+922,"E00340","Eliana Allen","Business Partner","Human Resources","Research & Development","Female","Caucasian",56,"2009-08-20 00:00:00",16.9,52800,"High",0.0,0.0,"United States","Phoenix",False
+923,"E03166","Austin Edwards","IT Coordinator","IT","Manufacturing","Male","Black",42,"2006-09-24 00:00:00",19.8,52733,"High",0.0,0.0,"United States","Chicago",False
+924,"E01947","Sophie Owens","Analyst II","Finance","Research & Development","Female","Caucasian",30,"2015-03-05 00:00:00",11.4,52697,"High",0.0,0.0,"United States","Seattle",False
+925,"E02221","Julian Delgado","Systems Analyst","IT","Speciality Products","Male","Latino",29,"2016-05-19 00:00:00",10.2,52693,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+926,"E03611","Alice Mehta","Analyst II","Sales","Research & Development","Female","Asian",45,"2019-04-02 00:00:00",7.3,52621,"High",0.0,0.0,"China","Beijing",False
+927,"E01261","Connor Simmons","Analyst II","Accounting","Speciality Products","Male","Caucasian",55,"2007-04-05 00:00:00",19.3,52310,"High",0.0,0.0,"United States","Miami",False
+928,"E04358","Grayson Soto","Business Partner","Human Resources","Manufacturing","Male","Latino",34,"2015-08-03 00:00:00",11.0,52200,"High",0.0,0.0,"United States","Columbus",False
+929,"E03547","Owen Han","Analyst","Accounting","Corporate","Male","Asian",28,"2017-05-12 00:00:00",9.2,52069,"High",0.0,0.0,"China","Chongqing",False
+930,"E03097","Brooks Stewart","HRIS Analyst","Human Resources","Manufacturing","Male","Black",45,"2015-12-19 00:00:00",10.6,51983,"High",0.0,0.0,"United States","Columbus",False
+931,"E04277","Zoe Do","Analyst II","Sales","Speciality Products","Female","Asian",60,"2014-01-08 00:00:00",12.5,51877,"High",0.0,0.0,"China","Beijing",False
+932,"E01687","Luke Mai","HRIS Analyst","Human Resources","Research & Development","Male","Asian",41,"2007-10-24 00:00:00",18.7,51630,"High",0.0,0.0,"China","Beijing",False
+933,"E04472","Alexander Foster","Analyst II","Marketing","Manufacturing","Male","Black",35,"2020-07-03 00:00:00",6.0,51513,"High",0.0,0.0,"United States","Columbus",False
+934,"E00717","Kennedy Vargas","Business Partner","Human Resources","Manufacturing","Female","Latino",45,"2005-10-14 00:00:00",20.8,51404,"High",0.0,0.0,"Brazil","Manaus",True
+935,"E03580","Maverick Medina","Analyst II","Sales","Manufacturing","Male","Latino",39,"2007-05-27 00:00:00",19.2,51234,"High",0.0,0.0,"United States","Seattle",False
+936,"E00644","Joshua Gupta","Account Representative","Sales","Corporate","Male","Asian",57,"2017-01-24 00:00:00",9.5,50994,"High",0.0,0.0,"China","Chongqing",False
+937,"E03305","Cooper Jiang","Analyst II","Accounting","Corporate","Male","Asian",49,"2019-07-25 00:00:00",7.0,50883,"High",0.0,0.0,"China","Chongqing",True
+938,"E02632","Alice Soto","Analyst","Accounting","Corporate","Female","Latino",56,"1995-04-13 00:00:00",31.3,50857,"High",0.0,0.0,"Brazil","Manaus",False
+939,"E03325","Robert Edwards","HRIS Analyst","Human Resources","Corporate","Male","Caucasian",62,"2004-10-11 00:00:00",21.8,50825,"High",0.0,0.0,"United States","Seattle",False
+940,"E02337","Emma Cao","Analyst","Accounting","Corporate","Female","Asian",27,"2019-08-24 00:00:00",6.9,50809,"High",0.0,0.0,"China","Chongqing",False
+941,"E02803","Eli Soto","Analyst","Marketing","Speciality Products","Male","Latino",38,"2016-05-02 00:00:00",10.2,50784,"High",0.0,0.0,"Brazil","Rio de Janerio",False
+942,"E01052","Parker Vang","Analyst","Sales","Corporate","Male","Asian",40,"2016-12-17 00:00:00",9.6,50733,"High",0.0,0.0,"United States","Miami",True
+943,"E02628","Nora Nelson","Analyst II","Finance","Manufacturing","Female","Caucasian",41,"2007-01-09 00:00:00",19.5,50685,"High",0.0,0.0,"United States","Columbus",False
+944,"E00972","Hazel Cortez","HRIS Analyst","Human Resources","Research & Development","Female","Latino",52,"2021-04-18 00:00:00",5.2,50548,"High",0.0,0.0,"Brazil","Sao Paulo",True
+945,"E00941","Sophie Ali","Analyst","Finance","Manufacturing","Female","Asian",55,"2002-03-28 00:00:00",24.3,50475,"High",0.0,0.0,"United States","Columbus",False
+946,"E03300","Maria Chin","Analyst","Marketing","Manufacturing","Female","Asian",65,"2013-09-26 00:00:00",12.8,50341,"High",0.0,0.0,"China","Beijing",False
+947,"E04567","Madeline Hoang","Systems Analyst","IT","Research & Development","Female","Asian",28,"2019-10-25 00:00:00",6.7,50111,"High",0.0,0.0,"China","Chengdu",False
+948,"E01351","Leo Owens","Systems Analyst","IT","Corporate","Male","Caucasian",47,"2020-04-23 00:00:00",6.2,50069,"High",0.0,0.0,"United States","Seattle",False
+949,"E00671","Leonardo Dixon","Analyst","Sales","Speciality Products","Male","Caucasian",37,"2019-09-05 00:00:00",6.9,49998,"Medium",0.0,0.0,"United States","Seattle",True
+950,"E01638","Elizabeth Huang","Analyst","Finance","Speciality Products","Female","Asian",62,"2002-09-20 00:00:00",23.8,49738,"Medium",0.0,0.0,"China","Beijing",True
+951,"E00671","Miles Cho","Systems Analyst","IT","Speciality Products","Male","Asian",47,"1999-03-10 00:00:00",27.4,49404,"Medium",0.0,0.0,"China","Beijing",True
+952,"E03223","Ethan Joseph","IT Coordinator","IT","Research & Development","Male","Caucasian",45,"2018-05-28 00:00:00",8.1,49219,"Medium",0.0,0.0,"United States","Columbus",False
+953,"E04386","Cameron Powell","Business Partner","Human Resources","Manufacturing","Male","Black",41,"2004-08-20 00:00:00",21.9,49186,"Medium",0.0,0.0,"United States","Austin",False
+954,"E03247","Caroline Jenkins","Analyst","Finance","Research & Development","Female","Caucasian",27,"2018-05-06 00:00:00",8.2,49011,"Medium",0.0,0.0,"United States","Chicago",True
+955,"E03824","Penelope Coleman","Analyst","Finance","Corporate","Female","Black",36,"2021-08-27 00:00:00",4.9,48906,"Medium",0.0,0.0,"United States","Miami",True
+956,"E03227","Eli Richardson","IT Coordinator","IT","Speciality Products","Male","Caucasian",38,"2015-04-19 00:00:00",11.2,48762,"Medium",0.0,0.0,"United States","Seattle",False
+957,"E02062","Nora Santiago","Analyst","Accounting","Research & Development","Female","Latino",55,"1996-06-26 00:00:00",30.1,48687,"Medium",0.0,0.0,"Brazil","Rio de Janerio",False
+958,"E03571","Lincoln Henderson","Business Partner","Human Resources","Speciality Products","Male","Caucasian",28,"2021-06-27 00:00:00",5.1,48510,"Medium",0.0,0.0,"United States","Chicago",False
+959,"E04041","Clara Huynh","IT Coordinator","IT","Speciality Products","Female","Asian",39,"2020-11-18 00:00:00",5.7,48415,"Medium",0.0,0.0,"China","Shanghai",False
+960,"E01516","Willow Mai","Business Partner","Human Resources","Manufacturing","Female","Asian",45,"2003-12-17 00:00:00",22.6,48345,"Medium",0.0,0.0,"China","Chengdu",False
+961,"E03849","Evelyn Jung","Analyst","Sales","Research & Development","Female","Asian",30,"2021-02-14 00:00:00",5.4,48340,"Medium",0.0,0.0,"China","Beijing",True
+962,"E01639","Everleigh Simmons","Analyst","Finance","Manufacturing","Female","Caucasian",55,"2021-04-16 00:00:00",5.3,48266,"Medium",0.0,0.0,"United States","Chicago",True
+963,"E00951","Everly Lin","Business Partner","Human Resources","Manufacturing","Female","Asian",25,"2021-03-15 00:00:00",5.3,47974,"Medium",0.0,0.0,"China","Chongqing",False
+964,"E00480","Hadley Yee","Business Partner","Human Resources","Speciality Products","Female","Asian",31,"2018-03-12 00:00:00",8.4,47913,"Medium",0.0,0.0,"United States","Seattle",False
+965,"E01909","Lillian Khan","Analyst","Finance","Speciality Products","Female","Asian",44,"2010-05-31 00:00:00",16.1,47387,"Medium",0.0,0.0,"China","Chengdu",False
+966,"E02044","Caroline Alexander","Business Partner","Human Resources","Manufacturing","Female","Black",42,"2020-09-18 00:00:00",5.8,47071,"Medium",0.0,0.0,"United States","Columbus",False
+967,"E01148","Scarlett Kumar","Systems Analyst","IT","Corporate","Female","Asian",55,"2009-01-07 00:00:00",17.5,47032,"Medium",0.0,0.0,"United States","Columbus",False
+968,"E02857","Valentina Davis","Analyst","Sales","Speciality Products","Female","Caucasian",33,"2014-04-13 00:00:00",12.3,46878,"Medium",0.0,0.0,"United States","Miami",True
+969,"E01466","Connor Vang","Analyst","Sales","Speciality Products","Male","Asian",25,"2021-07-28 00:00:00",5.0,46845,"Medium",0.0,0.0,"United States","Miami",False
+970,"E02252","Lillian Park","Analyst","Marketing","Research & Development","Female","Asian",40,"2021-02-24 00:00:00",5.4,46833,"Medium",0.0,0.0,"China","Chengdu",False
+971,"E00203","Julia Doan","Business Partner","Human Resources","Speciality Products","Female","Asian",53,"2017-09-07 00:00:00",8.9,46727,"Medium",0.0,0.0,"United States","Columbus",False
+972,"E01981","Genesis Banks","Analyst","Finance","Corporate","Female","Caucasian",63,"2012-03-16 00:00:00",14.3,46081,"Medium",0.0,0.0,"United States","Chicago",False
+973,"E00145","Kinsley Dixon","Analyst","Accounting","Manufacturing","Female","Caucasian",28,"2019-05-25 00:00:00",7.1,45819,"Medium",0.0,0.0,"United States","Miami",True
+974,"E02639","Sebastian Le","Analyst","Finance","Corporate","Male","Asian",37,"2015-11-09 00:00:00",10.7,45369,"Medium",0.0,0.0,"China","Beijing",True
+975,"E01264","Hazel Alvarez","Business Partner","Human Resources","Research & Development","Female","Latino",62,"2014-04-19 00:00:00",12.2,45295,"Medium",0.0,0.0,"Brazil","Sao Paulo",False
+976,"E03455","Hadley Ford","Systems Analyst","IT","Research & Development","Female","Caucasian",52,"2005-02-23 00:00:00",21.4,45286,"Medium",0.0,0.0,"United States","Chicago",False
+977,"E02562","Christian Medina","Analyst","Marketing","Corporate","Male","Latino",51,"2007-06-19 00:00:00",19.1,45206,"Medium",0.0,0.0,"United States","Columbus",False
+978,"E03655","Samantha Rogers","Analyst","Marketing","Speciality Products","Female","Caucasian",28,"2020-01-17 00:00:00",6.5,45061,"Medium",0.0,0.0,"United States","Miami",False
+979,"E01877","Abigail Garza","Analyst","Accounting","Manufacturing","Female","Latino",33,"2018-05-27 00:00:00",8.1,45049,"Medium",0.0,0.0,"United States","Seattle",False
+980,"E01432","Peyton Garza","Systems Analyst","IT","Manufacturing","Female","Latino",53,"2004-08-15 00:00:00",21.9,44735,"Medium",0.0,0.0,"Brazil","Manaus",False
+981,"E00568","Ian Vargas","Analyst","Sales","Manufacturing","Male","Latino",26,"2021-03-02 00:00:00",5.4,44732,"Medium",0.0,0.0,"Brazil","Rio de Janerio",True
+982,"E00691","Avery Yee","Systems Analyst","IT","Manufacturing","Female","Asian",34,"2016-05-22 00:00:00",10.2,44614,"Medium",0.0,0.0,"United States","Miami",True
+983,"E02531","Jameson Foster","Analyst","Marketing","Manufacturing","Male","Caucasian",28,"2021-07-18 00:00:00",5.0,43391,"Medium",0.0,0.0,"United States","Columbus",False
+984,"E04601","Allison Ayala","Analyst","Finance","Corporate","Female","Latino",36,"2009-06-30 00:00:00",17.1,43363,"Medium",0.0,0.0,"United States","Austin",False
+985,"E03461","Nathan Lau","Business Partner","Human Resources","Research & Development","Male","Asian",35,"2011-02-22 00:00:00",15.4,43336,"Medium",0.0,0.0,"United States","Austin",False
+986,"E02798","Charles Henderson","Systems Analyst","IT","Speciality Products","Male","Caucasian",48,"2002-02-11 00:00:00",24.4,43080,"Medium",0.0,0.0,"United States","Austin",False
+987,"E00403","Liliana Soto","Business Partner","Human Resources","Manufacturing","Female","Latino",58,"2010-10-12 00:00:00",15.8,43001,"Medium",0.0,0.0,"United States","Austin",False
+988,"E02023","Maverick Mehta","Systems Analyst","IT","Manufacturing","Male","Asian",40,"2007-07-30 00:00:00",19.0,41859,"Medium",0.0,0.0,"United States","Seattle",False
+989,"E01895","Gabriel Zhou","IT Coordinator","IT","Manufacturing","Male","Asian",25,"2021-01-17 00:00:00",5.5,41844,"Medium",0.0,0.0,"China","Chongqing",True
+990,"E01388","Cooper Gupta","Business Partner","Human Resources","Speciality Products","Male","Asian",58,"2014-06-20 00:00:00",12.1,41728,"Medium",0.0,0.0,"China","Chongqing",True
+991,"E01361","Emma Hill","IT Coordinator","IT","Manufacturing","Female","Caucasian",54,"2016-12-27 00:00:00",9.6,41673,"Medium",0.0,0.0,"United States","Miami",False
+992,"E01832","Ezra Singh","Analyst","Finance","Manufacturing","Male","Asian",56,"2006-05-10 00:00:00",20.2,41561,"Medium",0.0,0.0,"United States","Austin",False
+993,"E01895","Peyton Walker","Analyst","Marketing","Research & Development","Female","Caucasian",43,"2019-07-13 00:00:00",7.0,41545,"Medium",0.0,0.0,"United States","Miami",True
+994,"E02183","Sarah Ayala","Analyst","Sales","Corporate","Female","Latino",47,"2015-06-09 00:00:00",11.1,41429,"Medium",0.0,0.0,"United States","Seattle",False
+995,"E04332","Luke Martin","Analyst","Finance","Manufacturing","Male","Black",25,"2020-05-16 00:00:00",6.2,41336,"Medium",0.0,0.0,"United States","Miami",True
+996,"E02732","Alice Tran","Analyst","Marketing","Corporate","Female","Asian",39,"2014-07-29 00:00:00",12.0,40897,"Medium",0.0,0.0,"United States","Seattle",False
+997,"E03719","Jack Brown","Analyst","Marketing","Corporate","Male","Caucasian",55,"2004-12-07 00:00:00",21.6,40752,"Medium",0.0,0.0,"United States","Phoenix",False
+998,"E00862","Levi Moreno","Systems Analyst","IT","Research & Development","Male","Latino",64,"2020-06-27 00:00:00",6.1,40316,"Medium",0.0,0.0,"Brazil","Manaus",False
+999,"E04109","Leah Bryant","IT Coordinator","IT","Manufacturing","Female","Caucasian",55,"2004-04-30 00:00:00",22.2,40124,"Medium",0.0,0.0,"United States","Austin",False
+1000,"E03928","Miles Dang","IT Coordinator","IT","Speciality Products","Male","Asian",61,"2000-09-24 00:00:00",25.8,40063,"Medium",0.0,0.0,"United States","Miami",False
