@@ -146,7 +146,7 @@ Example:
 
 This project helped in understanding:
 
-* Financial statement analysis (COGS, EBITDA, EBIT, PBT, PAT)
+* Financial statement analysis (COGS, EBITDA, EBIT, PAT, Operating Profit, Total Expenses)
 * SQL pivoting and conditional aggregation
 * ETL design with Python, psycopg2, and SQLAlchemy
 * Working with XBRL-style taxonomy data
