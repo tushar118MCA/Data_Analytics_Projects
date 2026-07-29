@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **HR Analytics Dashboard** is a data analytics project that turns a raw employee export into a clean, insight-ready workforce dataset and visualizes it in a Power BI dashboard. It covers the full pipeline: cleaning and feature-engineering raw HR records in Python, loading them into PostgreSQL, running SQL analysis on headcount, pay, and diversity, and presenting the results across three interactive dashboard pages.
+The **HR Analytics Dashboard** is a Data Analytics project that turns a raw employee export into a clean, insight-ready workforce dataset and visualizes it in a Power BI dashboard. It covers the full pipeline: cleaning and feature-engineering raw HR records in Python, loading them into PostgreSQL, running SQL analysis on headcount, pay, and diversity, and presenting the results across three interactive dashboard pages.
 
 This project was built using **Python (Jupyter Notebook)** for data cleaning, **PostgreSQL** for storage and analysis, **SQL** for HR metrics, and **Power BI** for the final dashboard.
 
