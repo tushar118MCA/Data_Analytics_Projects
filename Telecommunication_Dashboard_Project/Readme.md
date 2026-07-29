@@ -133,9 +133,12 @@ Add screenshots of your dashboard here.
 
 Example:
 
-* Dashboard Page (KPI cards + charts)
 * P&L Statement Page
-* Company/Year Slicer in Use
+![image alt](https://github.com/tushar118MCA/Data_Analytics_Projects/blob/4d655d2bed4440165f6d0780b63b5bc83d6c92a5/Telecommunication_Dashboard_Project/P%26l%20Statement.png)
+
+* Dashboard Page (KPI cards + charts)
+![image alt](https://github.com/tushar118MCA/Data_Analytics_Projects/blob/4d655d2bed4440165f6d0780b63b5bc83d6c92a5/Telecommunication_Dashboard_Project/Telecommunication_Dashboard.png)
+
 
 ---
 
