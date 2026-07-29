@@ -14,7 +14,7 @@ This project was built using **PostgreSQL** for data storage, **Python (Jupyter 
 
 * Filter raw filings by Sector and Igroup (e.g., Telecommunication → Telecom - Services)
 * Automatic pivoting of raw XBRL line items into per-company, per-year records
-* Derived financial metrics: Total COGS, Gross Margin, EBITDA, EBIT, PBT, Tax Expense, PAT
+* Derived financial metrics: Total Revenue, Gross Margin, EBITDA,Tax Expense, PAT
 * Derived ratios: Gross Margin %, Operating Profit %, PBT %, PAT %
 * Company-to-company and year-over-year comparison
 
