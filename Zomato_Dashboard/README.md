@@ -129,17 +129,17 @@ Zomato_Dashboard/
 
 ---
 
-# 📸 Dashboard Screenshots
+# 📸 Screenshots
 
 ## Dashboard Page 1
 
-![Dashboard Page 1](Images/Dashboard_Page1.png)
+![Dashboard Page 1](https://github.com/tushar118MCA/Data_Analytics_Projects/blob/e44d45319385ef2c9e3013b7577bb7b181506a3f/Zomato_Dashboard/Dashboard_Page_1.png)
 
 ---
 
 ## Dashboard Page 2
 
-![Dashboard Page 2](Images/Dashboard_Page2.png)
+![Dashboard Page 2](https://github.com/tushar118MCA/Data_Analytics_Projects/blob/e44d45319385ef2c9e3013b7577bb7b181506a3f/Zomato_Dashboard/Dashboard_Page_2.png)
 
 ---
 
